@@ -1,0 +1,177 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - Chào bạn
+    - Xin chào
+    - Chào buối sáng
+    - Chào buổi tối
+    - Này anh bạn
+    - Bạn ơi
+    - Rất hân hạnh được gặp bạn
+    - Chào ngày mới tốt lành
+    - Lâu rồi không gặp bạn nhỉ
+    - Ê bro
+    - Chào bạn iu
+    - Alo
+
+- intent: goodbye
+  examples: |
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - have a nice night
+    - Bái bai
+    - Tạm biệt nhá
+    - Hẹn gặp lại
+    - Buổi tối vui vẻ
+    - Buổi sáng tốt lành
+    - Cuối tuần vui vẻ
+    - Chúc bạn thành công nhaa
+    - Mình đi nha
+    - Nói chuyện sau nha
+    - Mong sớm gặp lại bạn
+    - Ngủ ngon nhé bạn ơi
+    - Tớ chuồn đây
+    - Đi nhé
+
+- intent: thank_you
+  examples: |
+    - cảm ơn
+    - cảm ơn bạn
+    - cảm ơn bạn nhiều
+    - cảm ơn rất nhiều
+    - cám ơn
+    - cám ơn nhiều
+    - thanks
+    - thank you
+    - thanks a lot
+    - cảm ơn vì sự giúp đỡ
+    - mình cảm ơn
+    - mình rất cảm ơn
+    - mình cảm ơn bạn nhiều
+    - rất cảm ơn về điều đó
+    - cảm ơn bạn iu nhá
+  
+
+- intent: inform_food_name
+  examples: |
+    - [mì quảng](food_name) ý bạn
+    - [bún chả cá](food_name) í
+    - cho mình biết về [bánh tráng cuốn thịt heo](food_name) đi bạn
+    - chắc là [nem lụi](food_name)
+    - [bánh xèo](food_name) nha
+    - [cơm hến](food_name) nhé
+    - [bún nắm nêm](food_name) thì sao
+    - [kem bơ](food_name) có ngon không ạ
+    - [gỏi cá](food_name) ấy
+    - [bánh đập](food_name) nha bạn
+    - [bánh bột lọc](food_name)
+    - [cao lầu đà nẵng](food_name)
+
+- intent: ask_food_info
+  examples: |
+    - Cho mình hỏi về [bánh xèo](food_name) ở Đà Nẵng chỗ nào ngon?
+    - Nghe nói [gỏi cá trích](food_name) là đặc sản, bạn có thông tin gì không?
+    - [Mì quảng ếch](food_name) giá khoảng bao nhiêu một tô?
+    - Ở Đà Nẵng có món [nem lụi](food_name) không nhỉ?
+    - Bạn biết quán [bánh tráng cuốn thịt heo](food_name) nào nổi tiếng không?
+    - [Chả bò](food_name) Đà Nẵng mua ở đâu thì chuẩn?
+    - [Ốc hút](food_name) ăn ở đâu ngon và rẻ?
+    - [Bánh căn](food_name) Đà Nẵng khác gì bánh căn ở chỗ khác?
+    - Mình muốn thử [mít trộn](food_name), bạn có gợi ý quán nào không?
+    - Cho mình xin địa chỉ quán [bún mắm nêm](food_name) ngon.
+    - [Bánh nậm](food_name) và [bánh lọc](food_name) ở Đà Nẵng có gì đặc biệt?
+    - Mình muốn ăn hải sản tươi sống, bạn gợi ý món [Bún hải sản](food_name) ở đâu ngon?
+    - [Sinh tố bơ](food_name) ở Đà Nẵng có ngon không bạn?
+    - Bạn có biết quán [bún đậu mắm tôm](food_name) nào ngon không?
+    - Thông tin chi tiết về món [tré trộn](food_name) Đà Nẵng.
+    - Giá một suất [bánh bèo](food_name) ở Đà Nẵng khoảng bao nhiêu?
+    - Mình muốn ăn chay, ở Đà Nẵng có món [bún chay](food_name) nào ngon không?
+    - bạn biết gì về [mì quảng](food_name) không?
+    - [mì quảng](food_name) có ngon không bạn?
+    - mình muốn biết về món [mì quảng](food_name)
+    - bạn ơi, nói cho mình về [mì quảng](food_name) đi
+    - kể mình nghe về món [mì quảng](food_name)
+
+- intent: ask_all_foods
+  examples: |
+    - giới thiệu cho mình các món ngon ở đà nẵng
+    - đà nẵng có những món ăn ngon nào
+    - bạn hãy giới thiệu cho mình biết về những món ngon đà nẵng ạ
+    - đà nẵng có món đặc sản gì
+    - đi đà nẵng nên ăn gì bạn nhỉ
+    - kể mình nghe những món ăn nổi tiếng ở đà nẵng
+    - đặc sản đà nẵng là gì
+    - liệt kê các món ăn đặc trưng của đà nẵng
+    - đà nẵng có nhiều món ngon không ạ? 
+    - đồ ăn ở đà nẵng có nhiều món hấp dẫn không bạn
+    - còn nhiều món nào khác không bạn
+    - ê kể thêm cho mình biết đi
+    - bạn nói thêm cho mình nhiều món khác đi
+
+- intent: ask_food_price
+  examples: |
+    - Giá [bún bò](food_name) là bao nhiêu?
+    - [Mì Quảng](food_name) giá cả thế nào?
+    - Một suất [bánh tráng cuốn thịt heo](food_name) khoảng bao nhiêu tiền?
+    - Cho mình hỏi giá [cao lầu](food_name).
+    - [Gỏi cá trích](food_name) có đắt không?
+    - [Bánh căn](food_name) giá bao nhiêu một cái?
+    - [Nem lụi](food_name) ở đây giá thế nào?
+    - Khoảng bao nhiêu cho một phần [bánh mì que](food_name)?
+    - Giá tiền của món [ốc hút](food_name)?
+    - [Chè sầu riêng](food_name) bao nhiêu tiền một ly?
+    - Tôi muốn biết giá [kem bơ](food_name).
+    - [kem bơ](food_name) giá bao nhiêu?
+    - Giá cả của [bún chả cá](food_name) ở Đà Nẵng?
+    - [Bánh Xèo và Nem Lụi](food_name) giá khoảng bao nhiêu?
+    - Chi phí cho món [mực một nắng](food_name)?
+    - [Bún chả cá](food_name) giá rổ thế nào?
+    - [Tré trộn](food_name) giá một dĩa là bao nhiêu?
+    - [Ram cuốn cải](food_name) giá bao nhiêu tiền?
+    - [Bánh nậm](food_name) giá một cái?
+    - [Bánh lọc](food_name) giá bao nhiêu chiếc?
+    - [Mít trộn](food_name) giá một phần?
+    - [Cao lầu](food_name) giá ở Đà Nẵng có khác không?
+
+- intent: ask_food_location
+  examples: |
+    - [Chả bò](food_name) bán ở đâu ngon?
+    - Quán [bánh xèo và nem lụi](food_name) nào ngon nhất?
+    - Địa chỉ bán [bún mắm nêm](food_name) tại Đà Nẵng?
+    - Tôi muốn tìm chỗ ăn [mì Quảng](food_name).
+    - Ở đâu có [bún chả cá](food_name) ngon?
+    - Chỉ cho tôi địa điểm bán [cao lầu](food_name).
+    - [Gỏi cá nam ô](food_name) ở đâu làm ngon?
+    - Có nhà hàng nào phục vụ [bánh tráng cuốn thịt heo](food_name) không?
+    - Tìm giúp tôi quán [bún bò](food_name) gần đây.
+    - [bún hải sản](food_name) tươi sống bán ở đâu? (Lưu ý: 'hải sản' có thể là một entity chung hơn)
+    - Chỗ nào bán [kem bơ](food_name) ngon nhất Đà Nẵng?
+    - [mít trộn](food_name) có ở quán nào?
+    - [Cơm Gà](food_name) ngon nên ăn ở đâu?
+    - Bạn biết chỗ nào bán [mực rim me](food_name) không?
+    - [Ốc Trộn](food_name) ở đâu ngon và rẻ?
+    - [Bánh canh ruộng](food_name) vỉa hè nào ngon?
+    - [Chè Sầu Riêng](food_name) quán nào nổi tiếng?
+    - [Chè Xoa Xoa Hạt Lựu](food_name) ở đâu bán ngon?
+    - [Cơm Hến](food_name) ăn ở đâu thì đúng vị?
+    - Tôi muốn ăn [bún thịt nướng](food_name), bạn biết quán nào không?
+    - [Bún chả cá](food_name) có địa chỉ nào ngon?
+    - [Nem tré](food_name) vỉa hè nào bán?
+
+- lookup: food_name
+  examples: |
+    - lookups/food_name.txt
+
+

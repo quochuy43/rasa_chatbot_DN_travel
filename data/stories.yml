@@ -1,0 +1,66 @@
+version: "3.1"
+
+stories:
+
+- story: Chào hỏi và tạm biệt
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: Lời cảm ơn
+  steps:
+    - intent: thank_you
+    - action: utter_you_are_welcome
+    
+
+- story: Hỏi thông tin về món ăn cụ thể
+  steps:
+  - intent: ask_food_info
+  - action: action_provide_food_info
+
+- story: Cung cấp tên món ăn trực tiếp
+  steps:
+  - intent: inform_food_name
+  - action: action_provide_food_info
+
+- story: Hỏi nhiều món ăn ngon ở Đà Nẵng
+  steps: 
+  - intent: ask_all_foods
+  - action: action_list_many_foods
+
+- story: Hỏi nhiều món ăn rồi hỏi cụ thể
+  steps:
+  - intent: ask_all_foods
+  - action: action_list_many_foods
+  - intent: inform_food_name
+  - action: action_provide_food_info
+
+
+- story: Hỏi giá món ăn
+  steps:
+  - intent: ask_food_price
+  - action: action_provide_food_price
+
+- story: Hỏi địa điểm bán món ăn
+  steps:
+  - intent: ask_food_location
+  - action: action_provide_food_location
+
+- story: Hỏi nhiều món ăn rồi hỏi giá cụ thể
+  steps:
+  - intent: ask_all_foods
+  - action: action_list_many_foods
+  - intent: ask_food_price
+  - action: action_provide_food_price
+
+- story: Hỏi nhiều món ăn rồi hỏi địa điểm cụ thể
+  steps:
+  - intent: ask_all_foods
+  - action: action_list_many_foods
+  - intent: ask_food_location
+  - action: action_provide_food_location
+
+
+

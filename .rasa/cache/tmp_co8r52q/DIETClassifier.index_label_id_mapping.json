@@ -1,0 +1,10 @@
+{
+  "0": "ask_all_foods",
+  "1": "ask_food_info",
+  "2": "ask_food_location",
+  "3": "ask_food_price",
+  "4": "goodbye",
+  "5": "greet",
+  "6": "inform_food_name",
+  "7": "thank_you"
+}

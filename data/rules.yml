@@ -1,0 +1,22 @@
+version: "3.1"
+
+rules:
+- rule: Say hello when user greets
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Say goodbye when user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Respond to thanks
+  steps:
+    - intent: thank_you
+    - action: utter_you_are_welcome
+
+- rule: Provide food info for direct food name mention
+  steps:
+  - intent: inform_food_name
+  - action: action_provide_food_info

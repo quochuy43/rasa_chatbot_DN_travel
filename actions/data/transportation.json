@@ -1,0 +1,279 @@
+[
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Phương Trang",
+        "description": "Nhà xe lớn và uy tín, phục vụ nhiều tuyến Bắc - Nam và miền Trung.",
+        "popular_routes": [
+            "Hà Nội - Đà Nẵng",
+            "Đà Nẵng - TP. Hồ Chí Minh",
+            "Huế - Đà Nẵng"
+        ],
+        "type": [
+            "Giường nằm",
+            "Ghế ngồi",
+            "Limousine"
+        ],
+        "amenities": [
+            "Wifi",
+            "Điều hòa",
+            "Nước uống",
+            "Khăn lạnh"
+        ],
+        "office": "Bến xe Trung tâm Đà Nẵng",
+        "hotline": "19006067"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Hoàng Long",
+        "description": "Hãng xe khách lâu đời, nổi tiếng với tuyến đường dài Bắc - Nam.",
+        "popular_routes": [
+            "Hà Nội - Đà Nẵng",
+            "Đà Nẵng - TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Giường nằm",
+            "Ghế ngồi"
+        ],
+        "amenities": [
+            "Điều hòa",
+            "Nước uống"
+        ],
+        "office": "272 Nguyễn Tri Phương, Đà Nẵng",
+        "hotline": "02253920920"
+    },
+    {
+        "vehicle_type": "Máy bay",
+        "name": "Vietnam Airlines",
+        "description": "Hãng hàng không quốc gia, dịch vụ tốt, nhiều chuyến bay.",
+        "popular_routes": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh",
+            "Hải Phòng",
+            "Đà Lạt",
+            "Nha Trang",
+            "Phú Quốc"
+        ],
+        "type": [
+            "Phổ thông",
+            "Thương gia"
+        ],
+        "amenities": [
+            "Bữa ăn",
+            "Giải trí trên chuyến bay (tùy chuyến)"
+        ],
+        "office": "Sân bay Quốc tế Đà Nẵng và các phòng vé trong thành phố",
+        "hotline": "19001100"
+    },
+    {
+        "vehicle_type": "Máy bay",
+        "name": "Vietjet Air",
+        "description": "Hãng hàng không giá rẻ, nhiều chuyến bay với giá cạnh tranh.",
+        "popular_routes": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh",
+            "Hải Phòng",
+            "Đà Lạt",
+            "Nha Trang",
+            "Phú Quốc"
+        ],
+        "type": [
+            "Eco",
+            "Deluxe",
+            "SkyBoss"
+        ],
+        "amenities": [
+            "Mua thêm dịch vụ tùy chọn"
+        ],
+        "office": "Sân bay Quốc tế Đà Nẵng và các đại lý vé máy bay",
+        "hotline": "19001886"
+    },
+    {
+        "vehicle_type": "Máy bay",
+        "name": "Bamboo Airways",
+        "description": "Hãng hàng không tư nhân, dịch vụ hướng tới chất lượng và đúng giờ.",
+        "popular_routes": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh",
+            "Hải Phòng",
+            "Đà Lạt",
+            "Nha Trang"
+        ],
+        "type": [
+            "Bamboo Eco",
+            "Bamboo Plus",
+            "Bamboo Business"
+        ],
+        "amenities": [
+            "Bữa ăn nhẹ",
+            "Nước uống"
+        ],
+        "office": "Sân bay Quốc tế Đà Nẵng và các phòng vé đại diện",
+        "hotline": "19001166"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Sinh Cafe (The Sinh Tourist)",
+        "description": "Hãng xe du lịch, phục vụ chủ yếu khách du lịch bụi.",
+        "popular_routes": [
+            "Huế - Đà Nẵng",
+            "Hội An - Đà Nẵng",
+            "Đà Nẵng - Nha Trang"
+        ],
+        "type": [
+            "Ghế ngồi",
+            "Giường nằm (trên một số tuyến)"
+        ],
+        "amenities": [
+            "Điều hòa",
+            "Nước uống"
+        ],
+        "office": "154 Bạch Đằng, Đà Nẵng",
+        "hotline": "1900888843"
+    },
+    {
+        "vehicle_type": "Máy bay",
+        "name": "Pacific Airlines",
+        "description": "Hãng hàng không giá rẻ, thành viên của Vietnam Airlines Group.",
+        "popular_routes": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Phổ thông tiết kiệm",
+            "Phổ thông tiêu chuẩn",
+            "Phổ thông linh hoạt"
+        ],
+        "amenities": [
+            "Mua thêm dịch vụ tùy chọn"
+        ],
+        "office": "Sân bay Quốc tế Đà Nẵng",
+        "hotline": "19001550"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Camel Travel",
+        "description": "Hãng xe giường nằm chất lượng cao, phục vụ tuyến đường dài.",
+        "popular_routes": [
+            "Hà Nội - Đà Nẵng",
+            "Đà Nẵng - Huế"
+        ],
+        "type": [
+            "Giường nằm VIP"
+        ],
+        "amenities": [
+            "Wifi",
+            "Điều hòa",
+            "Màn hình LCD cá nhân",
+            "Nước uống",
+            "Khăn lạnh"
+        ],
+        "office": "62 Trần Phú, Đà Nẵng",
+        "hotline": "02439036036"
+    },
+    {
+        "vehicle_type": "Máy bay",
+        "name": "Vietravel Airlines",
+        "description": "Hãng hàng không mới, tập trung vào trải nghiệm du lịch.",
+        "popular_routes": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Eco",
+            "Prime"
+        ],
+        "amenities": [
+            "Bữa ăn nhẹ",
+            "Nước uống"
+        ],
+        "office": "Các văn phòng đại diện của Vietravel tại Đà Nẵng",
+        "hotline": "19006686"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Mai Linh",
+        "description": "Ngoài dịch vụ taxi, Mai Linh còn có dịch vụ xe khách với một số tuyến đường.",
+        "popular_routes": [
+            "Huế - Đà Nẵng",
+            "Đà Nẵng - Quy Nhơn (có thể có)"
+        ],
+        "type": [
+            "Ghế ngồi"
+        ],
+        "amenities": [
+            "Điều hòa",
+            "Nước uống (tùy tuyến)"
+        ],
+        "office": "Có văn phòng tại Bến xe Trung tâm Đà Nẵng",
+        "hotline": "0835117888"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Hiếu Hoa",
+        "description": "Nhà xe địa phương hoạt động ở khu vực miền Trung, có thể có tuyến đi/đến Đà Nẵng.",
+        "popular_routes": [
+            "Khu vực miền Trung, có thể có tuyến đi/đến Đà Nẵng"
+        ],
+        "type": [
+            "Ghế ngồi",
+            "Giường nằm (tùy tuyến)"
+        ],
+        "amenities": [
+            "Điều hòa (thường có)"
+        ],
+        "office": "Đ. Tôn Đức Thắng, P. Hòa Minh, Q. Liên chiểu",
+        "hotline": "0905888271"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Quang Dũng",
+        "description": "Nhà xe hoạt động ở khu vực miền Trung, có thể có tuyến đi/đến Đà Nẵng.",
+        "popular_routes": [
+            "Đà Nẵng - TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Ghế ngồi",
+            "Giường nằm (tùy tuyến)"
+        ],
+        "amenities": [
+            "Điều hòa (thường có)"
+        ],
+        "office": "Bến xe Trung tâm Đà Nẵng",
+        "hotline": "1900888684"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Tân Hiệp",
+        "description": "Nhà xe hoạt động ở khu vực miền Trung, có thể có tuyến đi/đến Đà Nẵng.",
+        "popular_routes": [
+            "Đà Nẵng - TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Ghế ngồi",
+            "Giường nằm (tùy tuyến)"
+        ],
+        "amenities": [
+            "Điều hòa (thường có)"
+        ],
+        "office": "Bến xe Trung tâm Đà Nẵng",
+        "hotline": "1900888843"
+    },
+    {
+        "vehicle_type": "Xe khách",
+        "name": "Nhà xe Đình Nhân",
+        "description": "Nhà xe hoạt động ở khu vực miền Trung, có thể có tuyến đi/đến Đà Nẵng.",
+        "popular_routes": [
+            "Đà Nẵng - Huế",
+            "Đà Nẵng - Quảng Ngãi (có thể có)",
+            "Đà Nẵng - TP. Hồ Chí Minh"
+        ],
+        "type": [
+            "Ghế ngồi"
+        ],
+        "amenities": [
+            "Điều hòa (thường có)"
+        ],
+        "office": "Bến xe Trung tâm Đà Nẵng",
+        "hotline": "1900575725"
+    }
+]

@@ -1,0 +1,5993 @@
+[
+  [
+    {
+      "text": "hey",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hello",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "hi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Xin",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "buối",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sáng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "buổi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tối",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Này",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "anh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Rất",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hân",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hạnh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "được",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gặp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngày",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mới",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tốt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lành",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Lâu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "rồi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gặp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhỉ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Ê",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bro",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "iu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Alo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "by",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cee",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "later",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "good",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "night",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "goodbye",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "have",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nice",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "day",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "around",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bye",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "see",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "later",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "have",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nice",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "night",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bái",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bai",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Tạm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biệt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Hẹn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gặp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lại",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Buổi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tối",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "vui",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "vẻ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Buổi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sáng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tốt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lành",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Cuối",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tuần",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "vui",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "vẻ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chúc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thành",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "công",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhaa",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nha",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Nói",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chuyện",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sau",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nha",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mong",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sớm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gặp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lại",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Ngủ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhé",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Tớ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chuồn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đây",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Đi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhé",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "rất",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cám",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cám",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "thanks",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "thank",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "you",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "thanks",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "a",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lot",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "vì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sự",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "giúp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đỡ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "rất",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "rất",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "điều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đó",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cảm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "iu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ý",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chả",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "í",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tráng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cuốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thịt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "heo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "chắc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "là",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nem",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lụi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "xèo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nha",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cơm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hến",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nắm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nêm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "kem",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bơ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "gỏi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đập",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bột",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lọc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "cao",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lầu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Cho",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hỏi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "xèo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chỗ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Nghe",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nói",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gỏi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trích",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "là",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đặc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sản",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thông",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tin",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ếch",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "giá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "khoảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bao",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiêu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "một",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tô",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nem",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lụi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhỉ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quán",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tráng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cuốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thịt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "heo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nổi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tiếng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Chả",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bò",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mua",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đâu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chuẩn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Ốc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hút",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đâu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "và",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "rẻ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "căn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "khác",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "căn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chỗ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "khác",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "muốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thử",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mít",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trộn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gợi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ý",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quán",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Cho",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "xin",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "địa",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chỉ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quán",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mắm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nêm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nậm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "và",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "lọc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đặc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biệt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "muốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hải",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sản",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tươi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sống",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gợi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ý",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hải",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sản",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đâu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Sinh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tố",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bơ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quán",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đậu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mắm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "I-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tôm",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Thông",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tin",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tiết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tré",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trộn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Giá",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "một",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "suất",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bánh",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bèo",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "khoảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bao",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiêu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "Mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "muốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chay",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "Nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bún",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "chay",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "muốn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ơi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nói",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cho",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "kể",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nghe",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "B-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "quảng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "L-food_name",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "giới",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thiệu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cho",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "các",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "những",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nào",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hãy",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "giới",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "thiệu",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "cho",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "biết",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "về",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "những",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ạ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đặc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sản",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nên",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhỉ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "kể",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "mình",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nghe",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "những",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nổi",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "tiếng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đặc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "sản",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "là",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "gì",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "liệt",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "kê",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "các",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đặc",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "trưng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "của",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ngon",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ạ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ],
+  [
+    {
+      "text": "đồ",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ăn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "ở",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "đà",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nẵng",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "có",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "nhiều",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "món",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "hấp",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "dẫn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "không",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    },
+    {
+      "text": "bạn",
+      "pos_tag": null,
+      "pattern": {
+        "food_name": false
+      },
+      "dense_features": [],
+      "entity_tag": "O",
+      "entity_role_tag": "O",
+      "entity_group_tag": "O"
+    }
+  ]
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Bánh Canh Ruộng - Đặc Sản Đà Nẵng Bình Dân",
+        "description": "Tô bánh canh nóng hổi, thơm lừng với sợi bánh dày, dai, được làm từ bột gạo, hòa quyện cùng nước dùng ngọt thanh từ xương heo, tạo nên một hương vị đậm đà, khó quên. Bánh canh ruộng Đà Nẵng đa dạng với nhiều loại topping hấp dẫn, từ cá lóc đồng tươi ngon, chả cá dai ngọt đến cua gạch béo ngậy, hay đơn giản nhưng vẫn đủ sức gây thương nhớ là bánh canh trứng cút",
+        "addresses": [
+            "Bánh canh cô Cúc: 84 Bùi Dương Lịch, Sơn Trà, Đà Nẵng",
+            "Bánh canh ruộng Phương: 27/3 Ngũ Hành Sơn",
+            "Bánh canh ruộng: 20 Hà Thị Thân"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Mì Quảng - Món Ăn Đà Nẵng Nổi Tiếng Bốn Phương",
+        "description": "Đến Đà Nẵng mà chưa thử Mì Quảng thì coi như chưa đến! Món ăn này không chỉ là đặc sản của người dân địa phương mà còn là niềm tự hào của ẩm thực miền Trung. Sợi mì Quảng dày, dai, được làm từ bột gạo, hòa quyện cùng nước lèo đậm đà từ xương hầm, tạo nên một nền tảng vững chắc cho bản giao hưởng hương vị. Thịt heo, thịt gà, tôm, chả lụa và rau sống tươi mát là những nốt nhạc thêm thắt, tạo nên sự phong phú cho món ăn.",
+        "addresses": [
+            "Mì Quảng Ánh: 45 Phạm Văn Nghị",
+            "Mì Quảng Phú Chiêm: 63 Phạm Văn Nghị",
+            "Mì Quảng Bà Mua: 19 Trần Bình Trọng, quận Hải Châu, TP.Đà Nẵng",
+            "Mì Quảng Bà Vị: 166 Lê Đình Dương, quận Hải Châu, TP.Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25
+    },
+    {
+        "name": "Bánh Tráng Cuốn Thịt Heo - Đậm Đà Hương Vị Đà Nẵng",
+        "description": "Bánh tráng cuốn thịt heo thì ở đâu cũng có, nhưng đến Đà Nẵng, bạn sẽ được thưởng thức một phiên bản nâng cấp khiến vị giác phải rung rinh. Bí quyết nằm ở miếng thịt heo hai đầu da - vừa mềm, vừa mỏng, lại có thêm lớp bì béo ngậy, chút mỡ chạy dọc theo thớ thịt, nhìn thôi đã thấy hấp dẫn!",
+        "addresses": [
+            "Bánh tráng cuốn thịt heo Bi Mĩ: Chợ Cồn",
+            "Bánh tráng thịt heo Bà Hường: 126 Duy Tân",
+            "Quán Mậu: 35 Đỗ Thức Tịnh, quận Cẩm Lệ, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25
+    },
+    {
+        "name": "Bánh Tráng Kẹp - Món Ăn Vặt Nổi tiếng Đà Nẵng",
+        "description": "Món ăn vặt này đã đốn tim biết bao du khách bởi hương vị độc đáo và cách chế biến hấp dẫn. Bánh tráng giòn tan, kết hợp cùng trứng, pate, ruốc và các loại topping khác, tạo nên hương vị khó cưỡng",
+        "addresses": [
+            "Bánh tráng kẹp Dì Sương: 130/62 Điện Biên Phủ",
+            "Bánh tráng kẹp cô Thê: 381 Nguyễn Văn Linh",
+            "Bánh tráng kẹp Dì Hoa: 62/2A Núi Thành, quận Hải Châu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn vặt",
+        "average_price": 15
+    },
+    {
+        "name": "Bánh Bèo - Món Ăn Xế Thơm Ngon Ở Đà Nẵng",
+        "description": "Bánh bèo chén - báu vật xế chiều của Đà Nẵng! Tưởng tượng xem, những chén bánh trắng muốt, nóng hổi, được điểm xuyết bằng thịt tôm, hành phi thơm lừng và tóp mỡ giòn rụm... Chỉ cần nghĩ thôi đã thấy thèm rồi! Đảm bảo đây sẽ là món ăn gây thương nhớ cho bạn trong chuyến du lịch Đà Nẵng sắp tới.",
+        "addresses": [
+            "Bánh bèo Nhung: 322 Nguyễn Hoàng",
+            "Bánh bèo đêm: 14 Cồn Dầu 6",
+            "Bánh bèo nóng: 197 Núi Thành"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Bánh Nậm Đà Nẵng - Món Ăn Sáng Thơm Ngon Ở Đà Nẵng",
+        "description": "Bánh nậm được làm từ bột gạo nhưng lại có hình chữ nhật và được gói trong lá chuối xanh. Điểm đặc biệt là bánh nậm mỏng hơn bánh bèo, tạo nên cảm giác nhẹ nhàng khi thưởng thức. Nhân bánh là sự kết hợp hài hòa giữa tôm bằm và thịt ba chỉ xào, hoà quyện vào nhau càng thêm quyến rũ. Mùi thơm của lá chuối kết hợp cùng vị béo ngậy của nhân bánh, tất cả tan mềm trong miệng khi chấm cùng nước mắm cay ngọt",
+        "addresses": [
+            "Quán Tâm: 291 Nguyễn Chí Thanh",
+            "Quán Mĩ: đường Chi Lăng, sau Chợ Cồn",
+            "Quán Bi: 74 Trưng Nữ Vương"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Bánh Bột Lọc Đà Nẵng",
+        "description": "Bánh bột lọc, đúng như tên gọi, được làm từ bột lọc tinh khiết. Khi hấp, vỏ bánh trở nên trong vắt, để lộ nhân tôm thịt đỏ hồng bên trong, kích thích vị giác ngay từ cái nhìn đầu tiên. Bánh vừa dai, vừa mềm, ăn cùng nước mắm ớt hoặc mắm ruốc thì càng thêm cực phẩm. Bạn nhất định không thể bỏ lỡ vị ngon độc đáo này đâu đấy.",
+        "addresses": [
+            "Lò bánh Thanh Trà: 22 Phạm Văn Nghị",
+            "Quán Bà Bé: 100 Hoàng Văn Thụ, quận Hải Châu, TP. Đà Nẵng",
+            "Bánh lọc Thủy: 12 Thạch Lam"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Bánh Căn Đà Nẵng - Món Ăn Sáng Ngon Ở Đà Nẵng",
+        "description": "Bánh căn, một loại bánh nướng đặc trưng của Đà Nẵng, được đổ khuôn trên bếp than hồng, tạo nên lớp vỏ giòn rụm hấp dẫn. #teamKlook có thể chọn bánh căn trứng gà, trứng vịt, trứng cút, hoặc hải sản như tôm, mực để thưởng thức. Chỉ cần 5 cặp bánh căn trứng, chấm cùng nước mắm hành thơm lừng, bạn đã có một bữa tối no nê rồi đó",
+        "addresses": [
+            "Bánh căn 2K: 26 Hồ Đắc Di",
+            "Bánh căn xíu mại Đà Lạt: 119 Thái Thị Bôi",
+            "Bánh căn Loan: 274 Hải Phòng, quận Thanh Khê, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Bánh Đập Đà Nẵng",
+        "description": "Đây là món ăn dân dã của miền Trung, chinh phục thực khách bởi sự đơn giản mà ngon miệng. Hai lớp bánh tráng nướng giòn tan, kẹp giữa là lớp bánh bột gạo mỏng, rắc thêm tép mỡ, đậu phộng và hành lá phi thơm lừng. Chấm cùng nước mắm nêm hoặc mắm nước, ngay cả thực khách khó tính nhất cũng sẽ cảm nhận được sự hòa quyện tuyệt vời của đa tầng hương vị.",
+        "addresses": [
+            "Bún mắm, bánh đập Vân – Lê Độ: K77A/15 đường Lê Độ, Thanh Khê",
+            "Bánh căn – Bánh đập Đỗ Quang: 47 đường Đỗ Quang, Thanh Khê",
+            "Bánh đập cô Liên: 8/26 đường Nguyễn Duy Hiệu, Sơn Trà"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20
+    },
+    {
+        "name": "Bê Thui Cầu Mống Đà Nẵng",
+        "description": "Nếu bạn là một tín đồ ẩm thực, đừng bỏ lỡ cơ hội thưởng thức bê thui Cầu Mống - đặc sản trứ danh của Đà Nẵng. Thịt bê thui chín tới, mềm ngọt, lớp da giòn sần sật, cuốn cùng rau sống và chấm vào chén mắm nêm cay nồng, sẽ khiến vị giác của bạn như tan chảy. Đây là một món ăn không chỉ ngon miệng mà còn mang đậm nét văn hóa ẩm thực của Đà Nẵng, xứng đáng để bạn trải nghiệm ít nhất một lần trong đời.",
+        "addresses": [
+            "Quán Hồ Gia: 05 Trần Đình Nam",
+            "Cỏ bê thui: 08 Hà Khê",
+            "Quán Rô: 8 Bắc Sơn, quận Cẩm Lệ, TP. Đà Nẵng"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 140000
+    },
+    {
+        "name": "Gỏi Cá Nam Ô Đà Nẵng",
+        "description": "Gỏi cá Nam Ô, món ngon độc quyền của làng chài Nam Ô, sẽ khiến du khách dễ dàng thương nhớ. Cá trích tươi rói, được ướp theo công thức gia truyền, không hề có mùi tanh mà lại đậm đà hương vị miền biển. Cuốn miếng cá cùng rau sống trong bánh tráng, chấm vào chén nước mắm mè đậu phộng đặc biệt. Đây cũng là mồi nhậu quen thuộc của nhiều thực thần địa phương",
+        "addresses": [
+            "Gỏi cá Đông Đông: 928 Nguyễn Lương Bằng",
+            "Gỏi cá Vinh: 960 Nguyễn Lương Bằng",
+            "Gỏi cá Nam Ô A Sinh: 130 Huỳnh Thúc Kháng"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 90000
+    },
+    {
+        "name": "Mít Trộn Đà Nẵng",
+        "description": "Mít trộn, món ăn vặt quen thuộc của người Đà Nẵng, sẽ khiến bạn bất ngờ bởi sự kết hợp độc đáo giữa các nguyên liệu đơn giản. Mít non luộc chín, xé sợi, trộn cùng bì heo, thịt ba chỉ thái mỏng, thêm chút rau răm, húng, đậu phộng và hành phi, tạo nên một món ăn vừa ngon miệng vừa bắt mắt. Vị ngọt thanh của mít, béo ngậy của bì heo và thơm lừng của hành phi sẽ làm #teamKlook nhớ mãi không thôi",
+        "addresses": [
+            "Mít trộn Dì Lan: 362 Hoàng Diệu",
+            "Quán mít trộn Bà Già: 47/25 đường Lý Thái Tổ, quận Hải Châu, TP. Đà Nẵng",
+            "Quán Mít trộn Dì Anh: 34 Phạm Văn Nghị, quận Thanh Khê, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn vặt",
+        "average_price": 15000
+    },
+    {
+        "name": "Bún Bò Đà Nẵng",
+        "description": "Bún bò, món ăn gốc Huế, đã được người Đà Nẵng biến tấu để phù hợp hơn với khẩu vị địa phương. Sợi bún nhỏ, nước dùng đậm đà vị sa tế, kết hợp cùng thịt bò tái hoặc bắp bò mềm ngọt, tạo nên một tô bún bò hấp dẫn. Thêm một chút mắm ruốc, bạn sẽ có một trải nghiệm ẩm thực đậm chất miền Trung",
+        "addresses": [
+            "Gánh bún bò: 09 Võ Văn Tần",
+            "Bún bò Huế Na: 63 Lê Quang Đạo",
+            "Bún bò Huế bà Thương: 23 Trần Quốc Toản, quận Hải Châu, TP.Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 30000
+    },
+    {
+        "name": "Bún Mắm Nêm Đà Nẵng",
+        "description": "Với khí hậu nắng nóng của Đà Nẵng, bún mắm nêm là món ăn giải nhiệt được nhiều người yêu thích. Sự kết hợp giữa bún, thịt heo quay giòn rụm, rau sống tươi mát và nước mắm nêm đậm đà tạo nên một hương vị rất gì và này nọ. Nếu bạn là tín đồ của các món ăn cay nồng, đừng bỏ qua món bún mắm nêm nặng đô này nhé!",
+        "addresses": [
+            "Bún mắm nêm Bi Mĩ: chợ Cồn",
+            "Bún mắm dì Xem: bờ hồ Hàm Nghi",
+            "Bún mắm heo quay: 43-45 Phan Thanh"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25000
+    },
+    {
+        "name": "Bún Thịt Nướng Đà Nẵng",
+        "description": "Thịt heo được ướp kỹ càng, nướng trên than hồng đến khi chín vàng, thơm phức. Trộn đều bún, thịt nướng và rau sống, thêm chút nước mắm chua ngọt, bạn sẽ có một bữa ăn vừa miệng và đầy đủ dinh dưỡng.",
+        "addresses": [
+            "Quán bún thịt nướng Cô Lựu: K119 Quang Dũng, bờ hồ Hàm Nghi",
+            "Quán bún thịt nướng: 413 Núi Thành",
+            "Quán bún thịt nướng Bình Minh: 23 Lê Thanh Nghị, quận Hải Châu, Tp. Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 30000
+    },
+    {
+        "name": "Bún Chả Cá - Đặc Sản Đà Nẵng chuẩn Miền Biển",
+        "description": "Mì Quảng có thể là \"đặc sản quốc dân\" của miền Trung, nhưng chỉ ở Đà Nẵng, bạn mới được thưởng thức phiên bản ít bún nhiều chả độc đáo. Chả cá ở đây được làm từ cá tươi xay nhuyễn, giữ nguyên vị ngọt tự nhiên và độ dai đặc trưng. Hòa quyện cùng nước lèo trong veo, đậm đà, món ăn này chắc chắn sẽ chinh phục cả những thực khách khó tính nhất. Đừng quên ghé thăm những quán bún chả cá nổi tiếng như Bà Lữ hay Bà Phiến để thưởng thức hương vị đặc trưng này nhé!",
+        "addresses": [
+            "Quán bún chả cá Bà Lữ: 319 Hùng Vương, Thanh Khê",
+            "Quán bún chả cá Ông Tạ: 113 Nguyễn Chí Thanh",
+            "Quán bún chả cá Bà Toải: 104 Trần Cao Vân"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25000
+    },
+    {
+        "name": "Bún Hải Sản Đà Nẵng - Topping Siêu Đầy Đặn",
+        "description": "Đà Nẵng, thành phố biển xinh đẹp, được thiên nhiên ưu ái ban tặng nguồn hải sản phong phú và tươi ngon. Bún hải sản chính là minh chứng cho sự hào phóng của biển cả, với những nguyên liệu tươi rói như bề bề, mực, tôm, ngao... hòa quyện cùng nước dùng chua cay mặn ngọt rất duyên. Đảm bảo bạn sẽ tấm tắc khen ngon khi thưởng thức tô bún hải sản đầy ắp này!",
+        "addresses": [
+            "Quán Thanh Hương: 5 Nguyễn Chí Thanh, quận Hải Châu, Tp. Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 45000
+    },
+    {
+        "name": "Bánh Xèo và Nem Lụi Ở Đà Nẵng",
+        "description": "Bánh xèo và nem lụi, hai món ăn dân dã nhưng không kém phần hấp dẫn, là sự lựa chọn tuyệt vời cho những ai muốn khám phá ẩm thực Đà Nẵng. Bánh xèo giòn rụm, nhân tôm thịt thơm lừng, ăn kèm rau sống tươi mát và nước mắm chấm đậm đà, sẽ khiến bạn \"tan chảy\" trong từng miếng cắn. Bạn thể gọi thêm vài xiên nem lụi nướng than thơm phức, rất ư là nịnh vị.",
+        "addresses": [
+            "Quán bánh xèo Đà Nẵng: 130 Mẹ Suốt",
+            "Bánh xèo Bà Thúy: 319 Trưng Nữ Vương",
+            "Bánh xèo Đà Nẵng: 313 Hà Huy Tập"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 10000
+    },
+    {
+        "name": "Cơm Hến - Món Ăn Ngon Giàu Dinh Dưỡng Ở Đà Nẵng",
+        "description": "Cơm hến, món ăn quen thuộc của người dân miền Trung, cũng là một đặc sản không thể bỏ qua khi đến Đà Nẵng. Vị hến đậm đà, nước hến ngọt thanh, kết hợp cùng tóp mỡ giòn tan và các loại rau thơm - nghe qua có vẻ đậm vị nhưng thực chất lại rất thanh tao.",
+        "addresses": [
+            "Cơm Hến Xuyến Lợi: đối diện 636 Hải Phòng",
+            "Cơm Hến Cô Giao: 364 trên 27 Lê Duẩn",
+            "Cơm Hến Kiệt: 356 Hoàng diệu"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 20000
+    },
+    {
+        "name": "Ốc và Hải Sản Ở Đà Nẵng",
+        "description": "Đà Nẵng đích thị là hiên đường hải sản tươi sống. Bạn sẽ được thỏa sức khám phá những món ngon như mực nướng muối ớt, với vị cay nồng \"bùng cháy\". Hãy thử ngay mực cơm tươi ngon hoặc sò điệp nướng phô mai béo ngậy. Ốc và cua Huỳnh Đế - \"linh hồn\" của ẩm thực Đà Nẵng, không thử là tiếc hùi hụi đấy! Và đừng quên nghêu hấp sả, món ngon dân dã dễ dàng đánh thức vị giác. Hãy để vị giác của bạn được \"phiêu lưu\" trong thế giới hải sản tươi ngon và trải nghiệm không khí nhộn nhịp tại các chợ địa phương Đà Nẵng nhé!",
+        "addresses": [
+            "Hải sản Nam Đảnh: K139/59/38 Trần Quang Khải",
+            "Hải sản Bé Mặn: 08 Võ Nguyên Giáp",
+            "Hải sản Bà Rô: 115 Lý Tử Tấn, Sơn Trà"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 30000
+    },
+    {
+        "name": "Cơm Gà Nổi Tiếng Đà Nẵng",
+        "description": "Cơm gà, món ăn quen thuộc trên khắp Việt Nam, nhưng ở Đà Nẵng lại mang một hương vị đặc biệt khó cưỡng. Bí quyết nằm ở sự kết hợp hoàn hảo giữa hạt gạo dẻo thơm, được nấu từ loại gạo đặc sản địa phương, và thịt gà dai ngọt, được chế biến theo nhiều cách khác nhau như chiên giòn, xé phay hay nướng.",
+        "addresses": [
+            "Quán Cơm gà Lan: 520 Trưng Nữ Vương",
+            "Cơm gà Tam Kỳ Bảy Ký: 22 Ngô Thì Nhậm",
+            "Cơm gà Bà Ba: 125 Hà Bổng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 35000
+    },
+    {
+        "name": "Cao Lầu Đà Nẵng",
+        "description": "Cao lầu, món ăn đặc sản của Hội An, khi đến Đà Nẵng đã được biến tấu để phù hợp với khẩu vị địa phương. Sợi cao lầu vàng ươm, làm từ bột gạo, dai ngon và thấm đẫm nước dùng đậm đà. Thịt heo thái lát mỏng, cùng với một ít mì khô chiên giòn, rau sống tươi mát và nước dùng tạo nên một tô cao lầu hấp dẫn, khiến bạn phải xuýt xoa khen ngon.",
+        "addresses": [
+            "Cao lầu Phố Hội: 163 Phan Đăng Lưu",
+            "Cao lầu Hoài Phố: 255 Nguyễn Chí Thanh",
+            "Cao lầu chay Hương Sen: 142/16 Hàm Nghi"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 40000
+    },
+    {
+        "name": "Nem Tré - Đặc Sản Đà Nẵng",
+        "description": "Nem tré Đà Nẵng, với nguyên liệu chính là thịt heo và da heo được bọc trong lá chuối xanh, là món ăn chơi hấp dẫn mà bạn không thể bỏ qua. Nem tré được thêm nhiều phụ liệu như riềng, tỏi, ớt, tạo nên hương vị đậm đà, cay nồng đặc trưng. Cắn một miếng nem tré, bạn sẽ cảm nhận được sự giòn rụm của tai heo, vị cay nồng của gia vị và hương thơm của lá chuối. Nem tré Đà Nẵng cũng là một món quà cực kỳ \"bắt vị\" để bạn mang về tặng người thân và bạn bè sau chuyến du lịch.",
+        "addresses": [
+            "Tré Bà Đệ: 81 Hải Phòng, quận Hải Châu, TP. Đà Nẵng",
+            "Tré bà Cúc: 107 Hải Phòng, quận Hải Châu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 60000
+    },
+    {
+        "name": "Phá Lấu Đà Nẵng",
+        "description": "Vào những ngày se lạnh, mưa phùn lất phất, còn gì tuyệt hơn là thưởng thức một tô phá lấu nóng hổi, thơm lừng? Nước dùng đậm đà vị nước cốt dừa, kết hợp cùng các loại lòng dai giòn, thấm vị, sẽ khiến bạn cảm thấy ấm áp hơn. Bánh mì chấm phá lấu là một \"combo\" hoàn hảo, vừa no bụng vừa thỏa mãn vị giác.",
+        "addresses": [
+            "Phá lấu 1976: 57 Ngũ Hành Sơn",
+            "Phá lấu Cu Mập: 09 Võ Văn Tần",
+            "Phá lấu Thủy: 57 Nguyễn Huy Tưởng, Liên Chiểu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 40000
+    },
+    {
+        "name": "Ốc Trộn - Món Ăn Vặt \"Vui Miệng\" Ở Đà Nẵng",
+        "description": "Đà Nẵng không chỉ có hải sản tươi sống mà còn có vô vàn món ốc hấp dẫn, biến thành phố này thành thiên đường cho những tín đồ mê ốc. Ốc hút, ốc xào, ốc luộc, ốc hấp, ốc trộn,... mỗi món đều mang đến hương vị đậm đà và cách chế biến độc đáo. Buổi tối, hãy cùng bạn bè dạo quanh các quán ốc ven biển, thưởng thức những món ốc thơm ngon và tận hưởng không khí náo nhiệt của thành phố.",
+        "addresses": [
+            "Ốc Zè Zè: 19 Núi Thành, quận Hải Châu, TP. Đà Nẵng",
+            "Ốc Ken Sài Gòn – Núi Thành: 146 Núi Thành, quận Hải Châu, TP. Đà Nẵng",
+            "Ốc Hút Đĩa Bay: Đường 2/9, quận Hải Châu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn vặt",
+        "average_price": 40000
+    },
+    {
+        "name": "Cháo Quẩy Sườn Sụn - Món Ăn Đà Nẵng Thơm Ngon Ấm Bụng",
+        "description": "Cháo quẩy sườn sụn là lựa chọn tuyệt vời cho những buổi sáng se lạnh hay đêm khuya đói lòng ở Đà Nẵng. Tô cháo trắng mịn, nóng hổi, đầy ắp sườn sụn giòn sần sật, dày thịt, cùng với ruốc đậm đà và quẩy chiên giòn tan - vừa nghe thôi đã thấy thèm rồi đó. Bí quyết của món ăn này nằm ở sự cân bằng hoàn hảo giữa độ đặc của cháo và độ giòn của quẩy, thừa sức \"hớp hồn\" du khách.",
+        "addresses": [
+            "Quán Hiền Eo: 114 Lê Đình Lý, quận Thanh Khê, TP. Đà Nẵng",
+            "Cháo sườn sụn Bé Bi: 159 Phan Thanh, quận Thanh Khê, TP. Đà Nẵng",
+            "Cháo quẩy Hẻm 34: 144/34 Nguyễn Lương Bằng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25000
+    },
+    {
+        "name": "Tào Phớ - Món Ăn Giải Nhiệt Ở Đà Nẵng",
+        "description": "Vào những ngày hè oi bức, tào phớ Đà Nẵng là món ăn vặt lý tưởng để giải nhiệt và xua tan cơn khát. Từ tào phớ truyền thống với nước đường gừng thanh mát, đến các biến tấu hiện đại như tào phớ trân châu, tào phớ flan, bánh tofu hawaii hay tào phớ thập cẩm, mỗi loại đều mang đến một trải nghiệm vị giác độc đáo. Sự mềm mịn của tào phớ kết hợp cùng các loại topping dai giòn, ngọt ngào sẽ khiến bạn \"mê mẩn\" ngay từ lần thử đầu tiên.",
+        "addresses": [
+            "Tiệm Phớ: 17 Đống Đa",
+            "Tàu hủ đá: 12 Pasteur",
+            "Tàu hủ Singapore 1995: 507 Trưng Nữ Vương"
+        ],
+        "food_category": "Món tráng miệng",
+        "average_price": 20000
+    },
+    {
+        "name": "Chè Xoa Xoa Hạt Lựu - Món Ngọt Nổi Tiếng Đà Nẵng",
+        "description": "Nếu bạn muốn tìm kiếm một món chè giải khát mới lạ, chè xoa xoa hạt lựu Đà Nẵng sẽ là một gợi ý thú vị. Sự kết hợp giữa vị ngọt mát của hạt lựu, thạch đen dai dai, xoa xoa mềm mịn và trân châu dẻo dai trong nước cốt dừa béo ngậy sẽ khiến bạn không thể dừng lại ở giới hạn một ly. Món chè này không chỉ ngon miệng mà còn có tác dụng giải nhiệt, đặc biệt phù hợp trong những ngày hè nóng bức.",
+        "addresses": [
+            "Chè hạt lựu Cô Châm: 374/6 Núi Thành",
+            "Xoa xoa hạt lựu O Châm Chợ Cồn: 187 Hải Phòng, quận Thanh Khê, TP. Đà Nẵng",
+            "Chè xoa xoa Trần Bình Trọng; 46 Trần Bình Trọng, quận Hải Châu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món tráng miệng",
+        "average_price": 20000
+    },
+    {
+        "name": "Chè Sầu Riêng",
+        "description": "Bạn là \"fan cứng\" của trái cây nữ hoàng? Vậy thì đừng bỏ lỡ cơ hội thưởng thức các món chè sầu riêng đặc sắc tại đây. Từ chè sầu riêng Thái với hương vị đậm đà, chè sầu riêng tàu hũ mềm mịn đến chè sầu riêng thạch cốt dừa thanh mát, mỗi món đều là trải nghiệm đáng nhớ. Tuy nhiên, món ngon Đà Nẵng này lại chống chỉ định với những người nhạy cảm với mùi sầu riêng hay đường huyết cao.",
+        "addresses": [
+            "Quán Cô Liên: 189 Hoàng Diệu, Nam Dương, Hải Châu, TP. Đà Nẵng",
+            "Chè Thái Liên: 175 Hải Phòng, quận Thanh Khê, TP. Đà Nẵng"
+        ],
+        "food_category": "Món tráng miệng",
+        "average_price": 25000
+    },
+    {
+        "name": "Ram Cuốn Lá Cải Đà Nẵng",
+        "description": "Bạn có thể tìm thấy món ram (hay còn gọi là nem rán ở miền Bắc và chả giò chiên ở miền Nam) tại bất kỳ khu chợ nào. Vỏ ram thường được làm bằng bánh tráng, ôm lấy nhân thịt, tôm, khoai… rồi đem chiên đến khi chuyển màu vàng ươm. Cuốn một chiếc ram nhỏ bằng ngón tay cùng rau sống, ăn kèm với nước mắm chua ngọt thì phải nói là cực phẩm.",
+        "addresses": [
+            "Gần chân cầu Trần Thị Lý ",
+            "Quán Việt: số 16, Hoàng Hoa Thám, quận Hải Châu"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25000
+    },
+    {
+        "name": "Đùi Cừu Nướng - Món Nhậu Ngon Ở Đà Nẵng",
+        "description": "Trời ơi, tin được không? Bạn có thể thưởng thức món ăn đậm đà hương sắc Mông Cổ ngay tại thành phố biển Đà Nẵng. Có rất nhiều phiên bản cho bạn lựa chọn, ví dụ như bẹ sườn cừu nướng mọi, đùi cừu nướng tại bàn, sườn cừu chiên giòn, rang muối, tiềm thuốc bắc, hầm đậu đen…. Đùi cừu nướng là món ngon Đà Nẵng lý tưởng vào những ngày mưa. Cắn một miếng thịt cừu dai mềm, thơm phức rồi nhấp một ngụm rượu sim thì còn gì bằng?",
+        "addresses": [
+            "Nhà hàng Nhất Thủy Phong - Đối diện 24 Trần Đình Đàn, Phước Mỹ, Sơn Trà"
+        ],
+        "food_category": "Món nhậu",
+        "average_price": 150000
+    },
+    {
+        "name": "Bánh Mì Bà Lan Đà Nẵng",
+        "description": "Bánh mì Đà Nẵng ngon là chuyện không phải bàn cãi. Thế nhưng bạn phải thưởng thức bánh mì của tiệm Bà Lan thì mới gọi là “đúng điệu”. Vỏ bánh mì được nước giòn tan, bên trong là chả bò, chả heo, chả quế và thịt nguội. Thêm chút ớt, húng ghế, ngò, hành lá và muối tiêu vào thì hương vị mới thực sự “bùng nổ”. Quán mở cửa từ 15h30 đến 23h00 mỗi ngày và khá đông khách.",
+        "addresses": [
+            "62 Trương Nữ Vương, Hải Châu"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 25000
+    },
+    {
+        "name": "Kem Bơ Đà Nẵng",
+        "description": "Với hương vị đặc trưng, kem bơ Đà Nẵng đã trở thành một món không thể thiếu trong những ngày hè oi bức. Bạn có thể tận hưởng hương vị mát lạnh của kem cùng hậu vị ngọt ngào từ bơ tươi, rắc thêm một chút dừa sấy ngọt lịm, quả là một sự kết hợp \"cực phẩm\". Mỗi muỗng kem béo ngậy như tan ngay trên đầu lưỡi, thấm vào cổ họng và đánh tan mọi cơn khát, đây là một thứ quà giải nhiệt lí tưởng",
+        "addresses": [
+            "Kem bơ cô Vân: Chợ Bắc Mĩ An, Ngũ Hành Sơn, TP. Đà Nẵng",
+            "Kem bơ cô Cúc: Chợ Bắc Mĩ An, Ngũ Hành Sơn, TP. Đà Nẵng",
+            "Kem bơ Thiên Thanh: 73 Phạm Thế Hiển, Q. Hải Châu, TP. Đà Nẵng"
+        ],
+        "food_category": "Món tráng miệng",
+        "average_price": 20000
+    },
+    {
+        "name": "Ốc Hút Đà Nẵng",
+        "description": "Ở Đà Nẵng, người ta đi ăn ốc hút không phải để lấp đầy chiếc bụng đói mà là tận hưởng niềm vui dâng trào khi… hút ốc. Ốc hút Đà Nẵng thường được hấp hoặc luộc chín trong nước dừa nên sở hữu vị ngọt thanh tự nhiên, dùng kèm với nước mắm mặn ngọt thì địch thị là cực phẩm. Một đĩa ốc hút Đà Nẵng đầy ú ụ có giá rất bình dẫn, chỉ từ 10.000đ đến 20.000đ, nên được đông đảo học sinh, sinh viên, giới nhân viên văn phòng yêu thích.",
+        "addresses": [
+            "Ốc hút Trần Thị Lý Đà Nẵng: hẻm đường Bùi Thị Xuân, dưới chân cầu trần Thị Lý ",
+            "Các quán vỉa hè trên đường 2 tháng 9, quận Hải Châu, thành phố Đà Nẵng",
+            "Ốc Hút Chợ Bắc Mỹ An, 25 Nguyễn Bá Lân, Mỹ An, Ngũ Hành Sơn, Đà Nẵng."
+        ],
+        "food_category": "Món ăn vặt",
+        "average_price": 10000
+    },
+    {
+        "name": "Mực Rim Me Đà Nẵng",
+        "description": "Mực rim me là một món ăn vặt nổi tiếng của Đà Nẵng, được nhiều người yêu thích bởi hương vị thơm ngon, đậm đà biển cả. Mực rim me Đà Nẵng được làm từ loại mực sữa hoặc mực ống, được chọn lọc kỹ càng, tươi ngon. Mực được rửa sạch, cắt miếng vừa ăn rồi rim với nước sốt me, đường, tỏi, ớt,... trong thời gian dài. Nước sốt me chua chua, ngọt ngọt, cay cay hòa quyện cùng thịt mực dai dai, giòn giòn tạo nên hương vị vô cùng hấp dẫn. Món ăn này cũng được nhiều người lựa chọn làm quà tặng cho người thân, bạn bè khi đi du lịch Đà Nẵng.",
+        "addresses": [
+            "Chợ Cồn Đà Nẵng",
+            "Chợ Hàn Đà Nẵng",
+            "Siêu thị đặc sản Đại Lộc Phát Đà Nẵng"
+        ],
+        "food_category": "Quà",
+        "average_price": 350000
+    },
+    {
+        "name": "Chả Bò - Đặc Sản Đà Nẵng Mua Về Làm Quà",
+        "description": "Chả bò Đà Nẵng là một món ăn đặc sản nổi tiếng của thành phố biển xinh đẹp này. Món ăn này được làm từ những miếng thịt bò tươi ngon, được tẩm ướp gia vị đậm đà rồi đem hấp hoặc nướng. Chả bò Đà Nẵng có vị thơm ngon, đậm đà, dai dai, giòn giòn, ăn rất hấp dẫn. Để làm chả bò Đà Nẵng, người ta thường chọn những miếng thịt bò nạc, tươi ngon, có màu đỏ tươi. Thịt bò được thái nhỏ, xay nhuyễn rồi tẩm ướp với các gia vị như tiêu, tỏi, hành, ớt, mắm, đường,... theo một công thức gia truyền. Sau đó, thịt bò được đem hấp hoặc nướng chín.",
+        "addresses": [
+            "31 Đường Nguyễn Hữu Cảnh, Hải Châu Đà Nẵng",
+            "77 Đường Hải Phòng, Hải Châu Đà Nẵng"
+        ],
+        "food_category": "Quà",
+        "average_price": 300000
+    },
+    {
+        "name": "Mực Một Nắng - Hải Sản Đà Nẵng Thơm Ngon",
+        "description": "Mực một nắng Đà Nẵng, \"ngôi sao\" sáng giá của ẩm thực biển, là món ngon Đà Nẵng không thể bỏ qua. Tưởng tượng mà xem, những con mực tươi rói, vừa được đánh bắt trong ngày, được phơi dưới nắng vàng ươm chỉ một lần duy nhất. Kết quả là những miếng mực này sẽ khô vừa đủ, vẫn giữ nguyên vị ngọt tự nhiên, dai dai, thơm lừng. Bạn có thể chế biến theo nhiều phương pháp, mực nướng thơm phức, mực xào đậm đà hay mực chiên giòn rụm. Đặc biệt, mực nướng trên than hồng, khi chín có mùi thơm \"nức mũi\", chấm cùng tương ớt, muối tiêu chanh hay nước mắm chua ngọt thì \"đỉnh của chóp\" luôn!",
+        "addresses": [
+            "Đường Nguyễn Hữu Cảnh, phường Thuận Phước, quận Hải Châu",
+            "An Thượng 26, phường Bắc Mỹ Phú, quận Ngũ Hành Sơn",
+            "Nguyễn Văn Linh, phường Thạc Gián, quận Thanh Khê"
+        ],
+        "food_category": "Quà",
+        "average_price": 650000
+    },
+    {
+        "name": "Bún chay Đà Nẵng",
+        "description": "Bún chay Đà Nẵng là một trong những món ăn thanh đạm nhưng đầy hấp dẫn của ẩm thực miền Trung, được nhiều người yêu thích không chỉ bởi hương vị tinh tế mà còn bởi giá trị dinh dưỡng mà nó mang lại. Nếu như bún bò Huế nổi bật với hương vị đậm đà của nước dùng từ xương hầm, hay bún mắm nêm Đà Nẵng gây ấn tượng bởi sự mặn mà đặc trưng, thì bún chay lại mang đến một cảm giác nhẹ nhàng, thanh tịnh, phù hợp với những ai yêu thích sự giản dị trong ẩm thực",
+        "addresses": [
+            "Quán chay An Lạc Tâm Đà Nẵng: Số 117 đường Phan Đăng Lưu, quận Hải Châu, thành phố Đà Nẵng",
+            "Quán chay Bồ Đề Đà Nẵng: Số 588 đường Ông Ích Khiêm, phường Dương Nam, quận Hải Châu, thành phố Đà Nẵng",
+            "Quán chay Liên Hoa Đà Nẵng: Số 49 đường Lê Hồng Phong, quận Hải Châu, thành phố Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 45000
+    },
+    {
+        "name": "Bún đậu mắm tôm",
+        "description": "Bún đậu mắm tôm là một món ăn dân dã nổi tiếng của người Việt, đặc biệt là ở Hà Nội. Món ăn này bao gồm bún (mì gạo), đậu phụ chiên và mắm tôm (một loại nước chấm làm từ tôm). Bún đậu mắm tôm có nguồn gốc từ các khu chợ và phố cổ của Hà Nội, và được coi là một trong những món ăn đặc trưng của ẩm thực Việt Nam.",
+        "addresses": [
+            "Bún đậu mắm tôm Gia Di: 302 Đường 2/9, Q. Hải Châu, TP. Đà Nẵng",
+            "Bún đậu Tràng An: 140 Khúc Hạo, Q. Sơn Trà, Đà Nẵng",
+            "Bún Đậu 36: 36 Ngô Văn Sở, TP. Đà Nẵng"
+        ],
+        "food_category": "Món ăn no",
+        "average_price": 35000
+    }
+]

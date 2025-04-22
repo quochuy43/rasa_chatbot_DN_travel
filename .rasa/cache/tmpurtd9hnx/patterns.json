@@ -1,0 +1,6 @@
+[
+  {
+    "name": "food_name",
+    "pattern": "(\\blookups/food_name\\.txt\\b)"
+  }
+]
