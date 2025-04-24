@@ -62,5 +62,90 @@ stories:
   - intent: ask_food_location
   - action: action_provide_food_location
 
+# hotel stories
+- story: Hỏi thông tin về khách sạn cụ thể
+  steps:
+  - intent: ask_hotel_info
+  - action: action_provide_hotel_info
 
+- story: Cung cấp tên khách sạn trực tiếp
+  steps:
+  - intent: inform_hotel_name
+  - action: action_provide_hotel_info
+
+- story: Hỏi nhiều khách sạn ở Đà Nẵng
+  steps: 
+  - intent: ask_all_hotels
+  - action: action_list_many_hotels
+
+- story: Hỏi nhiều khách sạn rồi hỏi cụ thể
+  steps:
+  - intent: ask_all_hotels
+  - action: action_list_many_hotels
+  - intent: inform_hotel_name
+  - action: action_provide_hotel_info
+
+- story: Hỏi giá khách sạn
+  steps:
+  - intent: ask_hotel_price
+  - action: action_provide_hotel_price
+
+- story: Hỏi địa điểm khách sạn
+  steps:
+  - intent: ask_hotel_location
+  - action: action_provide_hotel_location
+
+- story: Hỏi nhiều khách sạn rồi hỏi giá cụ thể
+  steps:
+  - intent: ask_all_hotels
+  - action: action_list_many_hotels
+  - intent: ask_hotel_price
+  - action: action_provide_hotel_price
+
+- story: Hỏi nhiều khách sạn rồi hỏi địa điểm cụ thể
+  steps:
+  - intent: ask_all_hotels
+  - action: action_list_many_hotels
+  - intent: ask_hotel_location
+  - action: action_provide_hotel_location
+
+# tour stories
+- story: Hỏi thông tin về tour cụ thể
+  steps:
+  - intent: ask_tour_info
+  - action: action_provide_tour_info
+
+- story: Cung cấp tên tour trực tiếp
+  steps:
+  - intent: inform_tour_name
+  - action: action_provide_tour_info
+
+- story: Hỏi nhiều tour ở Đà Nẵng
+  steps: 
+  - intent: ask_all_tours
+  - action: action_list_many_tours
+
+- story: Hỏi nhiều tour rồi hỏi cụ thể
+  steps:
+  - intent: ask_all_tours
+  - action: action_list_many_tours
+  - intent: inform_tour_name
+  - action: action_provide_tour_info
+
+- story: Hỏi giá tour
+  steps:
+  - intent: ask_tour_price
+  - action: action_provide_tour_price
+
+- story: Hỏi nhiều tour rồi hỏi giá cụ thể
+  steps:
+  - intent: ask_all_tours
+  - action: action_list_many_tours
+  - intent: ask_tour_price
+  - action: action_provide_tour_price
+
+- story: Review tour
+  steps:
+  - intent: ask_review_tour
+  - action: action_provide_tour_review
 

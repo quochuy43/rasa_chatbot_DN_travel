@@ -20,3 +20,13 @@ rules:
   steps:
   - intent: inform_food_name
   - action: action_provide_food_info
+
+- rule: Provide hotel info for direct hotel name mention
+  steps:
+  - intent: inform_hotel_name
+  - action: action_provide_hotel_info
+
+- rule: Provide tour info for direct tour name mention
+  steps:
+  - intent: inform_tour_name
+  - action: action_provide_tour_info

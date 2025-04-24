@@ -63,7 +63,7 @@ nlu:
     - rất cảm ơn về điều đó
     - cảm ơn bạn iu nhá
   
-
+# food
 - intent: inform_food_name
   examples: |
     - [mì quảng](food_name) ý bạn
@@ -170,8 +170,195 @@ nlu:
     - [Bún chả cá](food_name) có địa chỉ nào ngon?
     - [Nem tré](food_name) vỉa hè nào bán?
 
+# hotel
+- intent: inform_hotel_name
+  examples: |
+    - [Dam Tien Hotel](hotel_name)
+    - Khách sạn [DaNa Sailing Hotel](hotel_name) thì sao?
+    - [Fuji Hostel](hotel_name)
+    - khách sạn [New Tourane Hotel](hotel_name) đi
+    - [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name) có ổn không?
+    - cho mình hỏi về [Danang Golden Bay](hotel_name) với
+    - mình muốn ở [Novotel Danang Premier Han River](hotel_name)
+    - [Minh Toàn Galaxy Hotel](hotel_name) nha
+    - mình định đặt phòng ở [Sala Danang Beach Hotel](hotel_name)
+
+- intent: ask_hotel_info
+  examples: |
+    - Cho mình hỏi về khách sạn [Fuji Hostel](hotel_name), có ổn không?
+    - Bạn có thông tin gì về chỗ ở [DaNa Sailing Hotel](hotel_name) không?
+    - Mình đang tìm khách sạn gần cầu Rồng, [Orange Hotel](hotel_name) thì sao?
+    - [Moonlight Hotel SUITES & Spa](hotel_name) có view đẹp không bạn?
+    - [Valencia Da Nang Beach Hotel](hotel_name) có gần biển không?
+    - Mình muốn đặt phòng ở [Royal Family Hotel](hotel_name), bạn có biết gì không?
+    - Bạn ơi [Zenta Sea View Hotel](hotel_name) ở khu vực nào thế?
+    - Khách sạn [New Tourane Hotel](hotel_name) giá cả thế nào?
+    - Cho mình xin review về [Bantique Hotel](hotel_name)
+    - Bạn thấy phòng ốc ở [Bambu Hotel](hotel_name) thế nào?
+    - [Elena Seaview Hotel](hotel_name) có tiện nghi gì nổi bật?
+    - Có ai từng nghỉ ở [Gold Time Hotel Da Nang](hotel_name) chưa?
+    - Nơi nghỉ như [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần trung tâm không?
+    - Ở Đà Nẵng thì [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng tiền không bạn?
+    - Review khách sạn [The Pergola Design Hotel](hotel_name) với
+    - Mình cần chỗ ở cho gia đình, [Alyssa Hotel Da Nang](hotel_name) phù hợp không?
+
+- intent: ask_all_hotels
+  examples: |
+    - khách sạn
+    - khách sạn ở đà nẵng
+    - tôi muốn tìm khách sạn 
+    - tôi muốn tìm khách sạn ở đà nẵng
+    - đà nẵng có khách sạn nào không?
+    - gợi ý cho tôi vài khách sạn
+    - gợi ý cho tôi một số khách sạn
+    - gợi ý cho tôi một số khách sạn ở đà nẵng
+    - liệt kê cho mình một số khách sạn ở tại đà nẵng
+    - bạn còn biết khách sạn nào khác không?
+    - còn khách sạn nào khác không?
+    - còn khách sạn nào khác không bạn?
+    - bạn nói thêm cho mình vài khách sạn nữa đi
+    - bạn cho tôi vài khách sạn nữa đi
+    - mình muốn biết thêm về các khách sạn ở đà nẵng
+    - danh sách khách sạn
+    - danh sách khách sạn ở đà nẵng
+    - danh sách khách sạn ở đà nẵng đi bạn ơi
+
+- intent: ask_hotel_price
+  examples: |
+    - Giá [Dam Tien Hotel](hotel_name)
+    - Giá [DaNa Sailing Hotel](hotel_name) là bao nhiêu?
+    - Giá phòng ở [Vinpearl Condotel Riverfront](hotel_name) là bao nhiêu?
+    - [Fuji Hostel](hotel_name) giá bao nhiêu?
+    - [New Tourane Hotel](hotel_name) giá bao nhiêu 1 đêm?
+    - [Danang Golden Bay](hotel_name) giá một đêm bao nhiêu?
+    - Cho mình hỏi giá của khách sạn [Mường Thanh Luxury](hotel_name).
+    - Một đêm ở [Novotel Danang Premier](hotel_name) bao nhiêu tiền?
+    - [Brilliant Hotel](hotel_name) có đắt không?
+    - Giá cả ở [Moonlight Hotel SUITES & Spa](hotel_name) là bao nhiêu?
+    - Giá cả ở [Valencia Da Nang Beach Hotel](hotel_name) thế nào?
+    - [Monarque Hotel Danang](hotel_name) giá cả thế nào?
+    - Một đêm ở [Haian Beach Hotel & Spa](hotel_name) khoảng bao nhiêu?
+    - Giá thuê phòng tại [Rosamia Danang Hotel](hotel_name)?
+    - [Sanouva Danang Hotel](hotel_name) bao nhiêu một đêm?
+    - Chi phí nghỉ lại [Furama Resort Danang](hotel_name) là bao nhiêu?
+    - Giá cả ở [Mandila Beach Hotel Danang](hotel_name)?
+    - [Hilton Da Nang](hotel_name) một đêm giá bao nhiêu vậy?
+    - [A La Carte Da Nang Beach Hotel](hotel_name) có rẻ không?
+    - [TMS Hotel Danang Beach](hotel_name) giá phòng như thế nào?
+    - [Balcona Hotel Da Nang](hotel_name) giá thuê bao nhiêu?
+    - [Royal Lotus Hotel Danang](hotel_name) giá cả ra sao?
+    - Một phòng ở [Daisy Boutique Hotel Da Nang](hotel_name) giá thế nào?
+
+- intent: ask_hotel_location
+  examples: |
+    - [Dam Tien Hotel](hotel_name) nằm ở đâu?
+    - [DaNa Sailing Hotel](hotel_name) ở đâu vậy?
+    - [Fuji Hostel](hotel_name) có địa chỉ không?
+    - [Orange Hotel](hotel_name) nằm ở khu vực nào?
+    - Địa chỉ [Moonlight Hotel SUITES & Spa](hotel_name)
+    - Địa chỉ [Valencia Da Nang Beach Hotel](hotel_name) là gì?
+    - Địa chỉ của [Royal Family Hotel](hotel_name) là gì?
+    - Địa chỉ của [Vinpearl Condotel Riverfront](hotel_name) là gì?
+    - Cho tôi hỏi địa chỉ của [New Tourane Hotel](hotel_name).
+    - Cho tôi hỏi vị trí của [Danang Golden Bay](hotel_name).
+    - Tôi cần địa chỉ của [Zenta Sea View Hotel](hotel_name).
+    - 
+
+# tours
+- intent: inform_tour_name
+  examples: |
+    - [Tour Bà Nà Hills](tour_name)
+    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name)
+    - [Tour Hội An](tour_name) đi
+    - [Tour Ngũ Hành Sơn](tour_name) á
+    - [Tour Cù Lao Chàm](tour_name) đi bạn
+    - [Tour Bán Đảo Sơn Trà](tour_name) nhá
+    - tôi chọn [Tour Sơn Trà](tour_name) 
+    - [Tour Đà Nẵng 1 ngày](tour_name) thì sao?
+
+- intent: ask_tour_info
+  examples: |
+    - [Tour Bà Nà Hills](tour_name)
+    - tour [Tour Bà Nà Hills](tour_name)
+    - Cho mình thông tin về tour [Bà Nà Hills](tour_name)
+    - Cho mình thông tin về tour [Bà Nà Hills](tour_name) với
+    - Cho mình hỏi tour đi [Bà Nà Hills](tour_name)?
+    - Bạn có thông tin gì về tour [Ngũ Hành Sơn](tour_name) không?
+    - Mình muốn đi tour [Cù Lao Chàm](tour_name), bạn có gợi ý không?
+    - Tour [Hội An về đêm](tour_name) xuất phát lúc mấy giờ vậy bạn?
+    - [Rừng dừa Bảy Mẫu](tour_name) có tour tham quan không bạn?
+    - Đi [Bán đảo Sơn Trà](tour_name) nên đi tour hay tự túc?
+    - Bạn biết tour nào đi [Thánh địa Mỹ Sơn](tour_name) uy tín không?
+    - Có tour nào tham quan [chợ Hàn](tour_name) và [chợ Cồn](tour_name) không?
+    - Tour [Đà Nẵng - Huế](tour_name) có xe đưa đón không?
+    - Gói tour [Suối khoáng nóng Núi Thần Tài](tour_name)?
+    - Thời gian tour đi [Bà Nà Hills](tour_name) là bao lâu vậy?
+    - Tour du lịch sinh thái ở [Làng Vân](tour_name) có đông khách không?
+    - Mình cần tour trải nghiệm địa phương ở [Hòa Bắc](tour_name), bạn có thông tin không?
+
+- intent: ask_all_tours
+  examples: |
+    - tour
+    - tour ở đà nẵng
+    - tôi muốn tìm tour
+    - tôi muốn tìm tour ở đà nẵng
+    - đà nẵng có tour nào không?
+    - gợi ý cho tôi vài tour
+    - gợi ý cho tôi một số tour
+    - gợi ý cho tôi một số tour ở đà nẵng
+    - liệt kê cho mình một số tour ở tại đà nẵng
+    - bạn còn biết tour nào khác không?
+    - còn tour nào khác không?
+    - còn tour nào khác không bạn?
+    - bạn nói thêm cho mình vài tour nữa đi
+    - bạn cho tôi vài tour nữa đi
+    - mình muốn biết thêm về các tour ở đà nẵng
+    - danh sách tour
+    - danh sách tour ở đà nẵng
+    - danh sách tour ở đà nẵng đi bạn ơi
+
+- intent: ask_tour_price
+  examples: |
+    - Giá cả thế nào
+    - Giá [Tour Bà Nà Hills](tour_name)
+    - chi phí [Tour Bà Nà Hills](tour_name)
+    - Giá [Tour Bà Nà Hills](tour_name) là bao nhiêu?
+    - Chi phí [Tour Bà Nà Hills](tour_name) là bao nhiêu?
+    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) giá
+    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) giá bao nhiêu?
+    - Giá [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) bao nhiêu?
+    - chi phí [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) bao nhiêu?
+    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) chi phí bao nhiêu?
+    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) chi phí?
+    - Cho mình xin giá tour [Bà Nà Hills](tour_name) với
+    - Cho mình xin chi phí tour [Bà Nà Hills](tour_name) với
+    - Cho mình xin giá [Tour Bà Nà Hills](tour_name)
+    - Cho mình xin chi phí [Tour Bà Nà Hills](tour_name)
+    - về chi phí của [Tour Bà Nà Hills](tour_name) thì sao?
+    - về chi phí của [Tour Bà Nà Hills](tour_name)
+    - về giá của [Tour Bà Nà Hills](tour_name) thì sao?
+    - về giá của [Tour Bà Nà Hills](tour_name)
+
+- intent: ask_review_tour
+  examples: |
+    - review [Tour Bà Nà Hills](tour_name)
+    - cho mình review [Tour Bà Nà Hills](tour_name)
+    - cho mình xin review [Tour Bà Nà Hills](tour_name) với
+    - [Tour Bà Nà Hills](tour_name) có đáng đi không?
+    - [Tour Bà Nà Hills](tour_name) có đáng đi không bạn?
+    - [Tour Bà Nà Hills](tour_name) có đáng tiền không?
+    - [Tour Bà Nà Hills](tour_name) có đáng tiền không bạn?
+
+# lookups
 - lookup: food_name
   examples: |
     - lookups/food_name.txt
 
+- lookup: hotel_name
+  examples: |
+    - lookups/hotel_name.txt
+
+- lookup: tour_name
+  examples: |
+    - lookups/tour_name.txt
 

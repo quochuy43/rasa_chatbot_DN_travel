@@ -9,9 +9,21 @@ intents:
   - ask_all_foods
   - ask_food_price
   - ask_food_location
+  - ask_hotel_info
+  - inform_hotel_name
+  - ask_all_hotels
+  - ask_hotel_price
+  - ask_hotel_location
+  - inform_tour_name
+  - ask_tour_info
+  - ask_tour_price
+  - ask_review_tour
+  - ask_all_tours
 
 entities:
   - food_name
+  - hotel_name
+  - tour_name
 
 # Phiên bản rasa >= 3x thì mỗi slot phải có mapping để biết đang nhận giá trị từ entity nào
 slots:
@@ -28,9 +40,35 @@ slots:
     mappings:
       - type: custom
 
+  hotel_name:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: hotel_name
+  
+  shown_hotels_indices:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  tour_name:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: tour_name
+
+  shown_tours_indices:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
 
 
 responses:
+
   utter_greet:
     - text: "Xin chào! Mình là chatbot tư vấn du lịch Đà Nẵng. Bạn muốn biết gì về Đà Nẵng nào?"
     - text: "Chào bạn! Rất vui được gặp bạn. Mình có thể giúp gì cho chuyến du lịch Đà Nẵng của bạn?"
@@ -54,6 +92,14 @@ actions:
   - action_list_many_foods
   - action_provide_food_price
   - action_provide_food_location
+  - action_provide_hotel_info
+  - action_list_many_hotels
+  - action_provide_hotel_price
+  - action_provide_hotel_location
+  - action_provide_tour_info
+  - action_list_many_tours
+  - action_provide_tour_price
+  - action_provide_tour_review
 
 
 session_config:
