@@ -30,3 +30,8 @@ rules:
   steps:
   - intent: inform_tour_name
   - action: action_provide_tour_info
+
+- rule: Provide transportation info for direct tour name mention
+  steps:
+  - intent: inform_transportation_name
+  - action: action_provide_transportation_info

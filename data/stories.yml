@@ -149,3 +149,61 @@ stories:
   - intent: ask_review_tour
   - action: action_provide_tour_review
 
+
+
+
+
+
+
+
+
+
+# Transportation stories:
+- story: hỏi liệt kê các phương tiện đi lại
+  steps:
+    - intent: request_list_transportations
+    - action: action_list_transportation_providers
+
+- story: hỏi thông tin chung về một nhà xe cụ thể
+  steps:
+    - intent: request_transportation_info
+    - action: action_provide_transportation_info
+    - intent: goodbye
+    - action: utter_goodbye
+
+- story: hỏi về các tuyến của một nhà xe
+  steps:
+    - intent: request_transportation_routes
+    - action: action_provide_transportation_routes
+
+- story: hỏi về địa chỉ văn phòng của một nhà xe
+  steps:
+    - intent: request_transportation_office
+    - action: action_provide_transportation_office
+
+- story: hỏi về số điện thoại hotline của một nhà xe
+  steps:
+    - intent: request_transportation_hotline
+    - action: action_provide_transportation_hotline
+
+# Trong trường hợp này, bot có thể cần hỏi thêm người dùng muốn biết gì về nhà xe đó.
+- story: Người dùng chỉ cung cấp tên nhà xe
+  steps:
+    - intent: inform_transportation_name
+    - action: action_provide_transportation_info
+
+# Story 8: Một kịch bản phức tạp hơn một chút
+- story: mixed transportation queries
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: request_list_transportations
+    - action: action_list_transportation_providers
+    - intent: request_transportation_info
+    - action: action_provide_transportation_info
+    - intent: request_transportation_routes
+    - action: action_provide_transportation_routes
+    - intent: goodbye
+    - action: utter_goodbye
+
+

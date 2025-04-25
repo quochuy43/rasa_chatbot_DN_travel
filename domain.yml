@@ -24,6 +24,7 @@ entities:
   - food_name
   - hotel_name
   - tour_name
+  - transportation_name
 
 # Phiên bản rasa >= 3x thì mỗi slot phải có mapping để biết đang nhận giá trị từ entity nào
 slots:
@@ -66,6 +67,19 @@ slots:
     mappings:
       - type: custom
 
+  transportation_name:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: transportation_name
+
+  shown_transportation_indices:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
 
 responses:
 
@@ -87,6 +101,7 @@ responses:
     - text: "Không có gì cả, rất vui được tư vấn cho bạn!"
     - text: "Không có chi bạn ơi, bạn cần mình giúp gì thêm không?"
 
+
 actions:
   - action_provide_food_info
   - action_list_many_foods
@@ -100,6 +115,11 @@ actions:
   - action_list_many_tours
   - action_provide_tour_price
   - action_provide_tour_review
+  - action_provide_transportation_info
+  - action_list_transportation_providers
+  - action_provide_transportation_routes
+  - action_provide_transportation_office
+  - action_provide_transportation_hotline
 
 
 session_config:

@@ -262,7 +262,6 @@ nlu:
     - Cho tôi hỏi địa chỉ của [New Tourane Hotel](hotel_name).
     - Cho tôi hỏi vị trí của [Danang Golden Bay](hotel_name).
     - Tôi cần địa chỉ của [Zenta Sea View Hotel](hotel_name).
-    - 
 
 # tours
 - intent: inform_tour_name
@@ -349,6 +348,72 @@ nlu:
     - [Tour Bà Nà Hills](tour_name) có đáng tiền không?
     - [Tour Bà Nà Hills](tour_name) có đáng tiền không bạn?
 
+
+
+# Yêu cầu liệt kê các nhà xe khách
+# Dựa trên "vehicle_type": "Xe khách"
+
+- intent: request_list_transportations
+  examples: |
+    - các phương tiện đi lại ở đà nẵng
+    - liệt kê các phương tiện đi lại
+    - có những phương tiện đi lại nào
+    - cho mình biết về các phương tiện đi lại
+    - danh sách phương tiện đi lại đà nẵng
+    - Đà nẵng có những phương tiện đi lại nào hả bạn
+
+# Yêu cầu thông tin chung về một nhà xe cụ thể
+# Dựa trên "name" và "description"
+- intent: request_transportation_info
+  examples: |
+    - thông tin về [Nhà xe Hiếu Hoa](transportation_name)
+    - [Nhà xe Quang Dũng](transportation_name) là nhà xe gì
+    - giới thiệu về [Vietravel Airlines](transportation_name)
+    - bạn biết gì về [Vietjet Air](transportation_name)
+
+- intent: inform_transportation_name
+  examples: |
+    - [Nhà xe Phương Trang](transportation_name)
+    - [Nhà xe Hoàng Long](transportation_name)
+    - [Vietnam Airlines](transportation_name)
+    - [Vietjet Air](transportation_name)
+    - [Bamboo Airways](transportation_name)
+    - [Nhà xe Sinh Cafe](transportation_name)
+    - [Pacific Airlines](transportation_name)
+    - [Nhà xe Camel Travel](transportation_name)
+    - [Vietravel Airlines](transportation_name)
+    - [Nhà xe Mai Linh](transportation_name)
+    - [Nhà xe Hiếu Hoa](transportation_name)
+    - [Nhà xe Quang Dũng](transportation_name)
+    - [Nhà xe Tân Hiệp](transportation_name)
+    - [Nhà xe Đình Nhân](transportation_name)
+
+# Yêu cầu các tuyến phổ biến của một nhà xe cụ thể
+# Dựa trên "popular_routes"
+- intent: request_transportation_routes
+  examples: |
+    - các tuyến của [Nhà xe Hiếu Hoa](transportation_name)
+    - [Nhà xe Tân Hiệp](transportation_name) chạy những tuyến nào
+    - lộ trình của [Nhà xe Camel Travel](transportation_name)
+    - tuyến đường phổ biến của [Hoàng Long](transportation_name) đi đâu
+
+# Yêu cầu địa chỉ văn phòng/bến xe của một nhà xe cụ thể tại Đà Nẵng
+# Dựa trên "office"
+- intent: request_transportation_office
+  examples: |
+    - văn phòng [Nhà xe Đình Nhân](transportation_name) ở đâu
+    - địa chỉ [Vietravel Airlines](transportation_name) tại đà nẵng
+    - cho mình hỏi địa chỉ của [Phương Trang](transportation_name) ở đâu
+    - [Pacific Airlines](transportation_name) có văn phòng tại đà nẵng không
+
+# Yêu cầu số điện thoại hotline của một nhà xe cụ thể
+# Dựa trên "hotline"
+- intent: request_transportation_hotline
+  examples: |
+    - số điện thoại của [Vietnam Airlines](transportation_name)
+    - hotline [Vietjet Air](transportation_name) là bao nhiêu
+    - liên hệ với [Bamboo Airways](transportation_name) thế nào
+
 # lookups
 - lookup: food_name
   examples: |
@@ -361,4 +426,8 @@ nlu:
 - lookup: tour_name
   examples: |
     - lookups/tour_name.txt
+
+- lookup: transportation_name
+  examples: |
+    - lookups/transportation.txt
 

@@ -241,10 +241,9 @@ class ActionProvideHotelLocation(Action):
         dispatcher.utter_message(text=f"Xin lỗi, mình chưa biết địa điểm của khách sạn {hotel_name} rồi :(")
         return []
 
-# tours
 
+# tours
 class ActionProvideTourInfo(Action):
-    
         def name(self) -> Text:
             return "action_provide_tour_info"
         
@@ -358,4 +357,141 @@ class ActionProvideTourReview(Action):
             return []
 
 
+
+# Transportation
+class ActionProvideTransportationInfo(Action):
+        def name(self) -> Text:
+            return "action_provide_transportation_info"
+        
+        def run(self, dispatcher: CollectingDispatcher, 
+                tracker: Tracker, 
+                domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
             
+            transportation_name = next(tracker.get_latest_entity_values("transportation_name"), None)
+            if not transportation_name:
+                dispatcher.utter_message(text="Bạn muốn hỏi thông tin về hãng xe nào vậy?")
+                return []
+            
+            # Load data tu JSON
+            with open("actions/data/transportation.json", "r", encoding="utf-8") as f:
+                transportations = json.load(f)
+    
+            for transportation in transportations:
+                if transportation_name.lower().strip() in transportation["name"].lower():
+                    msg = f"🏖 {transportation['name']}\n"
+                    msg += f"{transportation['description']}. Hãng có địa chỉ ở {transportation['office']}. Tuyến đi chính là {transportation['popular_routes'][0]}. Thể loại phổ biến nhất của hãng này là {transportation['type'][0]} Nếu bạn thích, hãy gọi ngay đến hotline {transportation['hotline']}"
+                    dispatcher.utter_message(text=msg)
+                    return []
+    
+            dispatcher.utter_message(text=f"Xin lỗi, mình chưa có thông tin về {transportation_name}. Mình sẽ gắng cập nhật thông tin để giải đáp thắc mắc cho bạn nhé!")
+            return []
+
+class ActionListManyTransportations(Action):
+    def name(self) -> Text:
+        return "action_list_transportation_providers"
+    
+    def run(self, dispatcher: CollectingDispatcher, 
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        
+        shown_transportation_indices = tracker.get_slot("shown_transportation_indices")
+        
+        with open("actions/data/transportation.json", "r", encoding="utf-8") as f:
+            transportations = json.load(f)
+
+        if not shown_transportation_indices:
+            shown_transportation_indices = []
+
+        transportations_per_page = 3
+
+        if len(shown_transportation_indices) >= len(transportations):
+            dispatcher.utter_message(text="Mình đã giới thiệu hết các phương tiện nổi tiếng của Đà Nẵng rồi. Bạn muốn biết thêm thông tin gì khác không?")
+            return [SlotSet("shown_transportation_indices", [])]
+        
+        remaining_indices = [i for i in range(len(transportations)) if i not in shown_transportation_indices]
+        num_to_show = min(transportations_per_page, len(remaining_indices))
+        indices_to_show = remaining_indices[:num_to_show]
+
+        shown_transportation_indices.extend(indices_to_show)
+
+        response = "\n"
+        for idx in indices_to_show:
+            response += f"- {transportations[idx]['name']}-{transportations[idx]['hotline']}\n"
+        response += "\nBạn muốn biết thêm thông tin chi tiết về phương tiện nào? Hãy nhắn tên phương tiện để mình giới thiệu nhé!"
+        
+        dispatcher.utter_message(text=response)
+        
+        return [SlotSet("shown_transportation_indices", shown_transportation_indices)]
+
+class ActionProvideTransportationRoutes(Action):
+    def name(self) -> Text:
+        return "action_provide_transportation_routes"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        transportation_name = next(tracker.get_latest_entity_values("transportation_name"), None)
+        if not transportation_name:
+            dispatcher.utter_message(text="Bạn muốn biết các tuyến đường phương của hãng xe nào vậy?")
+            return []
+        
+        with open("actions/data/transportation.json", "r", encoding="utf-8") as f:
+            transportations = json.load(f)
+
+        for transportation in transportations:
+            if transportation_name.lower().strip() in transportation["name"].lower():
+                dispatcher.utter_message(text=f"{transportation['name']} có các tuyến đường {transportation['popular_routes']} bạn nhé")
+                return []
+        
+        dispatcher.utter_message(text=f"Xin lỗi, mình chưa có thông tin về {transportation_name}.")
+        return []
+    
+
+class ActionProvideTransportationOffice(Action):
+    def name(self) -> Text:
+        return "action_provide_transportation_office"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        transportation_name = next(tracker.get_latest_entity_values("transportation_name"), None)
+        if not transportation_name:
+            dispatcher.utter_message(text="Bạn muốn hỏi văn phòng của hãng xe nào vậy?")
+            return []
+        
+        with open("actions/data/transportation.json", "r", encoding="utf-8") as f:
+            transportations = json.load(f)
+
+        for transportation in transportations:
+            if transportation_name.lower().strip() in transportation["name"].lower():
+                dispatcher.utter_message(text=f"{transportation['name']} có văn phòng nằm ở {transportation['office']} nhé")
+                return []
+        
+        dispatcher.utter_message(text=f"Xin lỗi, mình chưa có thông tin về {transportation_name}.")
+        return []
+
+class ActionProvideTransportationHotline(Action):
+    def name(self) -> Text:
+        return "action_provide_transportation_hotline"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        transportation_name = next(tracker.get_latest_entity_values("transportation_name"), None)
+        if not transportation_name:
+            dispatcher.utter_message(text="Bạn muốn hỏi hotline của hãng xe nào vậy?")
+            return []
+        
+        with open("actions/data/transportation.json", "r", encoding="utf-8") as f:
+            transportations = json.load(f)
+
+        for transportation in transportations:
+            if transportation_name.lower().strip() in transportation["name"].lower():
+                dispatcher.utter_message(text=f"Hotline của {transportation['name']} là {transportation['hotline']} nhé")
+                return []
+        
+        dispatcher.utter_message(text=f"Xin lỗi, mình chưa có thông tin về {transportation_name}.")
+        return []
