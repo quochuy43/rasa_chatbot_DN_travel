@@ -35,3 +35,17 @@ rules:
   steps:
   - intent: inform_transportation_name
   - action: action_provide_transportation_info
+
+# - rule: Bắt đầu form hỏi thông tin du lịch
+#   steps:
+#     - intent: ask_travel_expenses_combined
+#     - action: travel_survey_form
+#     - active_loop: travel_survey_form
+
+# - rule: Form hoàn tất
+#   condition:
+#     - active_loop: travel_survey_form
+#   steps:
+#     - action: travel_survey_form
+#     - active_loop: null
+#     - action: action_provide_travel_expenses_combined

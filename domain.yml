@@ -19,12 +19,27 @@ intents:
   - ask_tour_price
   - ask_review_tour
   - ask_all_tours
+  - request_list_transportations
+  - request_transportation_info
+  - inform_transportation_name
+  - request_transportation_routes
+  - request_transportation_office
+  - request_transportation_hotline
+  - ask_travel_expenses_by_group
+  - ask_travel_expenses_by_time
+  - ask_travel_expenses_by_duration
+  - ask_travel_expenses_combined
+  - ask_travel_expenses_by_tour_type
 
 entities:
   - food_name
   - hotel_name
   - tour_name
   - transportation_name
+  - expenses_composition
+  - time
+  - number_of_days
+  - type_of_tour
 
 # Phiên bản rasa >= 3x thì mỗi slot phải có mapping để biết đang nhận giá trị từ entity nào
 slots:
@@ -47,7 +62,7 @@ slots:
     mappings:
       - type: from_entity
         entity: hotel_name
-  
+
   shown_hotels_indices:
     type: list
     influence_conversation: false
@@ -80,27 +95,71 @@ slots:
     mappings:
       - type: custom
 
+  expenses_composition:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: expenses_composition
 
+  time:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: time
+  
+  number_of_days:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: number_of_days
+  
+  type_of_tour:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: type_of_tour
+forms:
+  travel_survey_form:
+    required_slots:
+      - expenses_composition
+      - number_of_days
+      - time
+      - type_of_tour
+      
 responses:
-
   utter_greet:
     - text: "Xin chào! Mình là chatbot tư vấn du lịch Đà Nẵng. Bạn muốn biết gì về Đà Nẵng nào?"
     - text: "Chào bạn! Rất vui được gặp bạn. Mình có thể giúp gì cho chuyến du lịch Đà Nẵng của bạn?"
     - text: "Xin chào! Mình là trợ lý ảo về du lịch Đà Nẵng. Bạn có kế hoạch gì cho chuyến đi sắp tới không?"
     - text: "Chào mừng bạn! Mình sẽ giúp bạn khám phá thành phố Đà Nẵng xinh đẹp. Bạn muốn biết thông tin gì nào?"
     - text: "Xin chào! Đà Nẵng đang chờ bạn khám phá. Mình có thể giúp gì cho bạn hôm nay?"
-  
+
   utter_goodbye:
     - text: "Tạm biệt! Hẹn gặp lại bạn khi khám phá Đà Nẵng nhé!"
     - text: "Chúc bạn có chuyến đi Đà Nẵng thật vui vẻ! Tạm biệt!"
     - text: "Rất vui được giúp bạn. Chúc bạn có kỳ nghỉ tuyệt vời tại Đà Nẵng!"
     - text: "Tạm biệt và hẹn gặp lại bạn nhé! Đà Nẵng luôn chào đón bạn quay trở lại."
     - text: "Cảm ơn bạn đã trò chuyện. Nếu cần thêm thông tin về Đà Nẵng, hãy quay lại nhé!"
-  
+
   utter_you_are_welcome:
     - text: "Không có gì cả, rất vui được tư vấn cho bạn!"
     - text: "Không có chi bạn ơi, bạn cần mình giúp gì thêm không?"
+  
+  utter_ask_expenses_composition:
+    - text: "Bạn đi du lịch với ai? (ví dụ: một mình, cặp đôi, gia đình...)"
 
+  utter_ask_number_of_days:
+    - text: "Bạn muốn đi trong bao lâu? (ví dụ: 3 ngày 2 đêm, 1 tuần...)"
+
+  utter_ask_time:
+    - text: "Bạn muốn đi vào thời điểm nào? (ví dụ: mùa cao điểm, mùa thường, mùa thấp điểm...)"
+
+  utter_ask_type_of_tour:
+    - text: "Bạn muốn chọn loại tour như thế nào? (tiết kiệm, trung bình, cao cấp...)"
 
 actions:
   - action_provide_food_info
@@ -120,7 +179,11 @@ actions:
   - action_provide_transportation_routes
   - action_provide_transportation_office
   - action_provide_transportation_hotline
-
+  - action_provide_travel_expenses_with_composition
+  - action_provide_travel_expenses_by_time
+  - action_provide_travel_expenses_by_duration
+  - action_provide_travel_expenses_combined
+  - action_provide_travel_expenses_by_tour_type
 
 session_config:
   session_expiration_time: 60

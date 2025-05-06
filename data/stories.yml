@@ -207,3 +207,28 @@ stories:
     - action: utter_goodbye
 
 
+# travel expenses
+- story: Hỏi chi phí du lịch theo nhóm
+  steps:
+    - intent: ask_travel_expenses_by_group
+    - action: action_provide_travel_expenses_with_composition
+
+- story: Hỏi chi phí du lịch theo thời gian
+  steps:
+    - intent: ask_travel_expenses_by_time
+    - action: action_provide_travel_expenses_by_time
+
+- story: Hỏi chi phí du lịch theo số ngày
+  steps:
+    - intent: ask_travel_expenses_by_duration
+    - action: action_provide_travel_expenses_by_duration
+
+- story: Hỏi chi phí du lịch kết hợp nhiều yếu tố
+  steps:
+    - intent: ask_travel_expenses_combined
+    - action: action_provide_travel_expenses_combined
+
+- story: Hỏi chi phí du lịch theo loại tour
+  steps:
+    - intent: ask_travel_expenses_by_tour_type
+    - action: action_provide_travel_expenses_by_tour_type

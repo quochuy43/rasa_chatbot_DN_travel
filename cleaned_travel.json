@@ -1,0 +1,282 @@
+[
+    {
+        "number_of_days": "2 ngày 1 đêm",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Một mình",
+        "estimated_total_cost": 1200000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "4 ngày 3 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Gia đình 4 người",
+        "estimated_total_cost": 6500000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "1 tuần",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 15000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "3 ngày 2 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Nhóm bạn 3 người",
+        "estimated_total_cost": 4000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "5 ngày 4 đêm",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Một mình",
+        "estimated_total_cost": 2000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "2 ngày 1 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 2800000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "4 ngày 3 đêm",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Gia đình 2 người lớn 1 trẻ em",
+        "estimated_total_cost": 12000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "1 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Nhóm bạn 5 người",
+        "estimated_total_cost": 9000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "3 ngày 2 đêm",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Một mình",
+        "estimated_total_cost": 1500000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "5 ngày 4 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 5500000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "2 ngày 1 đêm",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 6000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "4 ngày 3 đêm",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Gia đình 2 người lớn 2 trẻ em",
+        "estimated_total_cost": 5000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "1 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Một mình",
+        "estimated_total_cost": 3500000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "3 ngày 2 đêm",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Nhóm bạn 4 người",
+        "estimated_total_cost": 10000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "5 ngày 4 đêm",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 3000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "2 ngày 1 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Gia đình 3 người",
+        "estimated_total_cost": 3800000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "4 ngày 3 đêm",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Một mình",
+        "estimated_total_cost": 8000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "1 tuần",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Nhóm bạn 6 người",
+        "estimated_total_cost": 7000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "3 ngày 2 đêm",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 3500000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "5 ngày 4 đêm",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Gia đình 2 người lớn",
+        "estimated_total_cost": 14000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Một mình",
+        "estimated_total_cost": 7000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Nhóm bạn 2 người",
+        "estimated_total_cost": 9500000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Một mình",
+        "estimated_total_cost": 12000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 25000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Gia đình 3 người",
+        "estimated_total_cost": 18000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Nhóm bạn 4 người",
+        "estimated_total_cost": 20000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 9000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Một mình",
+        "estimated_total_cost": 30000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Gia đình 2 người",
+        "estimated_total_cost": 15000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Nhóm bạn 3 người",
+        "estimated_total_cost": 8000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Một mình",
+        "estimated_total_cost": 11000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 40000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Gia đình 4 người",
+        "estimated_total_cost": 16000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Một mình",
+        "estimated_total_cost": 8500000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Nhóm bạn 5 người",
+        "estimated_total_cost": 25000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Một mình",
+        "estimated_total_cost": 18000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Cặp đôi",
+        "estimated_total_cost": 13000000,
+        "time": "Mùa thấp điểm"
+    },
+    {
+        "number_of_days": "1 tháng",
+        "type_of_tour": "Giá rẻ/Bình dân",
+        "group composition": "Một mình",
+        "estimated_total_cost": 9000000,
+        "time": "Mùa thường"
+    },
+    {
+        "number_of_days": "2 tuần",
+        "type_of_tour": "Tiết kiệm/Trung bình",
+        "group composition": "Nhóm bạn 4 người",
+        "estimated_total_cost": 14000000,
+        "time": "Mùa cao điểm"
+    },
+    {
+        "number_of_days": "3 tuần",
+        "type_of_tour": "Cao cấp/Sang trọng",
+        "group composition": "Gia đình 2 người",
+        "estimated_total_cost": 35000000,
+        "time": "Mùa thường"
+    }
+]

@@ -1,0 +1,41 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_food_name\"}}]": "action_provide_food_info",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_food_name\"}}, {\"prev_action\": {\"action_name\": \"action_provide_food_info\"}, \"user\": {\"intent\": \"inform_food_name\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_hotel_name\"}}]": "action_provide_hotel_info",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_hotel_name\"}}, {\"prev_action\": {\"action_name\": \"action_provide_hotel_info\"}, \"user\": {\"intent\": \"inform_hotel_name\"}}]": "action_listen",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}}]": "action_provide_travel_expenses_combined",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_provide_travel_expenses_combined\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_tour_name\"}}]": "action_provide_tour_info",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_tour_name\"}}, {\"prev_action\": {\"action_name\": \"action_provide_tour_info\"}, \"user\": {\"intent\": \"inform_tour_name\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_transportation_name\"}}]": "action_provide_transportation_info",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_transportation_name\"}}, {\"prev_action\": {\"action_name\": \"action_provide_transportation_info\"}, \"user\": {\"intent\": \"inform_transportation_name\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"greet\"}}]": "utter_greet",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"greet\"}}, {\"prev_action\": {\"action_name\": \"utter_greet\"}, \"user\": {\"intent\": \"greet\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}]": "utter_goodbye",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"intent\": \"goodbye\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_travel_expenses_combined\"}}]": "travel_survey_form",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_travel_expenses_combined\"}}, {\"active_loop\": {\"name\": \"travel_survey_form\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}, \"user\": {\"intent\": \"ask_travel_expenses_combined\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"thank_you\"}}]": "utter_you_are_welcome",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"thank_you\"}}, {\"prev_action\": {\"action_name\": \"utter_you_are_welcome\"}, \"user\": {\"intent\": \"thank_you\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [
+      "travel_survey_form"
+    ],
+    "rules_for_loop_unhappy_path": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}}, {\"active_loop\": {\"name\": \"travel_survey_form\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}, \"user\": {\"intent\": \"ask_travel_expenses_combined\"}}]": "do_not_predict_loop_action"
+    },
+    "rules_not_in_stories": [
+      "predicting default action with intent session_start",
+      "predicting default action with intent back",
+      "predicting default action with intent restart",
+      "handling active loops and forms - travel_survey_form",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}}]",
+      "handling active loops and forms - travel_survey_form - action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_travel_expenses_combined\"}}]",
+      "[{\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"travel_survey_form\"}}, {\"active_loop\": {\"name\": \"should_not_be_set\"}, \"prev_action\": {\"action_name\": \"action_provide_travel_expenses_combined\"}}]"
+    ]
+  }
+}

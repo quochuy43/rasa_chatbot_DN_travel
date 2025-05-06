@@ -173,55 +173,216 @@ nlu:
 # hotel
 - intent: inform_hotel_name
   examples: |
-    - [Dam Tien Hotel](hotel_name)
-    - Khách sạn [DaNa Sailing Hotel](hotel_name) thì sao?
-    - [Fuji Hostel](hotel_name)
-    - khách sạn [New Tourane Hotel](hotel_name) đi
-    - [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name) có ổn không?
-    - cho mình hỏi về [Danang Golden Bay](hotel_name) với
-    - mình muốn ở [Novotel Danang Premier Han River](hotel_name)
-    - [Minh Toàn Galaxy Hotel](hotel_name) nha
-    - mình định đặt phòng ở [Sala Danang Beach Hotel](hotel_name)
+    - Ở [Dam Tien Hotel](hotel_name) thì sao?
+    - [Fuji Hostel](hotel_name) nghe được không ta?
+    - Mình đang tìm [Danang Golden Bay](hotel_name), có ổn không?
+    - [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name) có đẹp không?
+    - Đặt phòng ở [New Tourane Hotel](hotel_name) được không nhỉ?
+    - Mình thích [Minh Toàn Galaxy Hotel](hotel_name) quá
+    - [Sala Danang Beach Hotel](hotel_name) có gì hay ho không?
+    - Bạn có biết về [DaNa Sailing Hotel](hotel_name) không?
+    - Đi [Novotel Danang Premier Han River](hotel_name) thử không?
+    - [Sala Danang Beach Hotel](hotel_name) nghe hay đó, có ai ở chưa?
+    - Chắc là mình chọn [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name)
+    - Mày thấy [Minh Toàn Galaxy Hotel](hotel_name) thế nào?
+    - [Dam Tien Hotel](hotel_name) không phải là đẹp nhất, nhưng ở ổn
+    - Cứ thử [Danang Golden Bay](hotel_name) xem sao, nghe đâu sang lắm
+    - Ở [Fuji Hostel](hotel_name) nghe ổn, giá rẻ mà tiện
+    - [Novotel Danang Premier Han River](hotel_name) là chỗ hay ghé
+    - Bảo đảm là [Sala Danang Beach Hotel](hotel_name) cực kỳ chill luôn
+    - Thử [New Tourane Hotel](hotel_name) xem, nghe bảo gần biển lắm
+    - Bảo sao [DaNa Sailing Hotel](hotel_name) được đánh giá cao quá vậy
+    - Nếu cần nơi đẹp đẹp thì [Minh Toàn Galaxy Hotel](hotel_name) là lựa chọn đỉnh
+    - Bạn nghĩ sao về [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name)?
+    - Chắc hẳn [Danang Golden Bay](hotel_name) có dịch vụ khá tốt
+    - Địa điểm bạn chọn là [Fuji Hostel](hotel_name) à?
+    - Mình đang cân nhắc [Novotel Danang Premier Han River](hotel_name) cho chuyến đi sắp tới
+    - Tôi đang tìm hiểu về [Minh Toàn Galaxy Hotel](hotel_name), nghe bảo là tiện lợi
+    - Bạn đã từng ở [Sala Danang Beach Hotel](hotel_name) chưa?
+    - Đặt phòng tại [DaNa Sailing Hotel](hotel_name) liệu có ok không?
+    - Mọi người có trải nghiệm gì ở [New Tourane Hotel](hotel_name) chưa?
+    - [Dam Tien Hotel](hotel_name) có đầy đủ tiện nghi không?
+    - [Novotel Danang Premier Han River](hotel_name) nghe nói có view đẹp lắm
+    - Tôi có thể xin thêm thông tin về [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name) được không?
+    - Bạn có đánh giá gì về chất lượng của [Danang Golden Bay](hotel_name)?
+    - Liệu [Minh Toàn Galaxy Hotel](hotel_name) có phù hợp cho kỳ nghỉ dưỡng dài hạn không?
+    - Khách sạn [Sala Danang Beach Hotel](hotel_name) có những tiện ích gì đặc biệt không?
+    - Theo bạn, [Fuji Hostel](hotel_name) có đáng để ở trong chuyến công tác này không?
+    - Chúng tôi đang tìm một khách sạn tốt như [Novotel Danang Premier Han River](hotel_name)
+    - Xin vui lòng cung cấp thông tin chi tiết về [DaNa Sailing Hotel](hotel_name) để tôi quyết định
+    - [Dam Tien Hotel](hotel_name) có đủ các dịch vụ cao cấp không, tôi cần sự tiện nghi cao?
+    - Địa chỉ của [New Tourane Hotel](hotel_name) nằm ở đâu và tiện nghi như thế nào?
+    - Tôi muốn tham khảo về [Sala Danang Beach Hotel](hotel_name) trong thời gian tới
+    - Bạn có biết về [Fuji Hostel](hotel_name) ở Đà Nẵng không?
+    - [Danang Golden Bay](hotel_name) là một trong những khách sạn nổi bật ở thành phố này
+    - [Sala Danang Beach Hotel](hotel_name) nổi tiếng ở khu vực biển Mỹ Khê
+    - Nếu bạn ở Đà Nẵng, thì [Minh Toàn Galaxy Hotel](hotel_name) là sự lựa chọn không thể bỏ qua
+    - Bạn có trải nghiệm gì tại [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name) chưa?
+    - [DaNa Sailing Hotel](hotel_name) cũng nằm gần biển, rất thuận tiện cho du khách
+    - [Novotel Danang Premier Han River](hotel_name) có vị trí cực kỳ thuận lợi ngay sát sông Hàn
+    - [Dam Tien Hotel](hotel_name) khá nổi tiếng trong các tour du lịch Đà Nẵng
+    - [New Tourane Hotel](hotel_name) gần các khu trung tâm và các điểm tham quan
+    - Nếu muốn tìm một khách sạn bình dân nhưng tiện nghi thì [Fuji Hostel](hotel_name) là sự lựa chọn hợp lý
+    - Bạn có nghe nói về một khách sạn gần biển Mỹ Khê không? Có thể đó là [Sala Danang Beach Hotel](hotel_name)
+    - Tôi thấy mọi người đang bàn tán nhiều về một khách sạn sang trọng ở Đà Nẵng, chắc là [Vinpearl Condotel Riverfront Đà Nẵng](hotel_name)
+    - Nếu bạn muốn một nơi nghỉ dưỡng cao cấp, chắc chắn bạn phải thử [Novotel Danang Premier Han River](hotel_name)
+    - Có một khách sạn gần trung tâm, giá cả phải chăng, có thể là [Fuji Hostel](hotel_name)
+    - Bạn đã nghe về [Danang Golden Bay](hotel_name) chưa? Nhiều người khen là tuyệt vời
+    - Tôi đoán bạn đang nhắc đến [Dam Tien Hotel](hotel_name) khi nói về một nơi đẹp và yên tĩnh
+    - Liệu bạn đang tìm một khách sạn ở gần khu vực biển? Có thể là [Sala Danang Beach Hotel](hotel_name)
+    - Khách sạn nào mà nổi tiếng với view đẹp, gần sông Hàn, chắc là [Novotel Danang Premier Han River](hotel_name)?
+    - Tôi thấy [Minh Toàn Galaxy Hotel](hotel_name) thường xuyên được nhắc đến trong các bài đánh giá khách sạn
+    - Một trong những khách sạn có nhiều tiện ích ở Đà Nẵng mà tôi nghĩ đến là [New Tourane Hotel](hotel_name)
+
+
 
 - intent: ask_hotel_info
   examples: |
-    - Cho mình hỏi về khách sạn [Fuji Hostel](hotel_name), có ổn không?
-    - Bạn có thông tin gì về chỗ ở [DaNa Sailing Hotel](hotel_name) không?
-    - Mình đang tìm khách sạn gần cầu Rồng, [Orange Hotel](hotel_name) thì sao?
-    - [Moonlight Hotel SUITES & Spa](hotel_name) có view đẹp không bạn?
-    - [Valencia Da Nang Beach Hotel](hotel_name) có gần biển không?
-    - Mình muốn đặt phòng ở [Royal Family Hotel](hotel_name), bạn có biết gì không?
-    - Bạn ơi [Zenta Sea View Hotel](hotel_name) ở khu vực nào thế?
-    - Khách sạn [New Tourane Hotel](hotel_name) giá cả thế nào?
-    - Cho mình xin review về [Bantique Hotel](hotel_name)
-    - Bạn thấy phòng ốc ở [Bambu Hotel](hotel_name) thế nào?
-    - [Elena Seaview Hotel](hotel_name) có tiện nghi gì nổi bật?
-    - Có ai từng nghỉ ở [Gold Time Hotel Da Nang](hotel_name) chưa?
-    - Nơi nghỉ như [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần trung tâm không?
-    - Ở Đà Nẵng thì [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng tiền không bạn?
-    - Review khách sạn [The Pergola Design Hotel](hotel_name) với
-    - Mình cần chỗ ở cho gia đình, [Alyssa Hotel Da Nang](hotel_name) phù hợp không?
+    - [Fuji Hostel](hotel_name) có ok không bạn?
+    - Bạn có thông tin gì về [DaNa Sailing Hotel](hotel_name) không?
+    - [Orange Hotel](hotel_name) gần cầu Rồng thì sao?
+    - [Moonlight Hotel SUITES & Spa](hotel_name) có view đẹp không nhỉ?
+    - [Valencia Da Nang Beach Hotel](hotel_name) gần biển không bạn?
+    - Giá phòng ở [Royal Family Hotel](hotel_name) thế nào?
+    - [Zenta Sea View Hotel](hotel_name) có ở khu nào thế?
+    - [New Tourane Hotel](hotel_name) có đắt không bạn?
+    - Chỗ nghỉ [Bantique Hotel](hotel_name) thế nào bạn ơi?
+    - [Bambu Hotel](hotel_name) có phòng ốc đẹp không?
+    - [Elena Seaview Hotel](hotel_name) có gì đặc biệt không?
+    - Ai đã ở [Gold Time Hotel Da Nang](hotel_name) rồi, có ok không?
+    - [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần trung tâm không?
+    - Mình muốn đi Đà Nẵng, [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng tiền không nhỉ?
+    - Bạn đã ở [The Pergola Design Hotel](hotel_name) chưa, có gì hay ho?
+    - [Alyssa Hotel Da Nang](hotel_name) phù hợp cho gia đình không?
+    - [Fuji Hostel](hotel_name) có được không mày?
+    - Mày đã nghe gì về [DaNa Sailing Hotel](hotel_name) chưa?
+    - [Moonlight Hotel SUITES & Spa](hotel_name) có view đẹp chứ mày?
+    - [Orange Hotel](hotel_name) gần cầu Rồng chắc tiện lắm nhỉ?
+    - [Valencia Da Nang Beach Hotel](hotel_name) nghe bảo gần biển luôn á
+    - [Royal Family Hotel](hotel_name) giá phòng có rẻ không vậy?
+    - Chỗ ở [Zenta Sea View Hotel](hotel_name) nghe bảo đẹp, mày biết khu nào không?
+    - [Bantique Hotel](hotel_name) có ổn không, phòng ốc thế nào?
+    - [Bambu Hotel](hotel_name) nghe đồn sạch sẽ, mày thấy sao?
+    - Ai đã ở [Gold Time Hotel Da Nang](hotel_name) chưa, có gì hay không?
+    - [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) gần trung tâm không?
+    - [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng thử không mày?
+    - [The Pergola Design Hotel](hotel_name) là khách sạn nổi tiếng ở Đà Nẵng đúng không?
+    - [Alyssa Hotel Da Nang](hotel_name) ở Đà Nẵng có phù hợp cho gia đình không?
+    - Phòng ở [Elena Seaview Hotel](hotel_name) có tiện nghi gì đặc biệt không?
+    - Mình đang tìm thông tin về [Fuji Hostel](hotel_name), bạn có biết không?
+    - Bạn có thể cho tôi biết về [DaNa Sailing Hotel](hotel_name) không?
+    - [Orange Hotel](hotel_name) có vị trí thuận lợi không?
+    - Khách sạn [Moonlight Hotel SUITES & Spa](hotel_name) có view biển không?
+    - [Valencia Da Nang Beach Hotel](hotel_name) có gần các điểm tham quan không?
+    - Mình muốn biết về giá cả ở [Royal Family Hotel](hotel_name)
+    - [Zenta Sea View Hotel](hotel_name) có khu vực nào nổi bật không?
+    - Chỗ ở [Bantique Hotel](hotel_name) có gì đặc biệt không bạn?
+    - Bạn đã từng ở [Bambu Hotel](hotel_name) chưa, có phòng ốc đẹp không?
+    - [Elena Seaview Hotel](hotel_name) có các tiện ích gì nổi bật?
+    - Bạn nghĩ sao về chất lượng dịch vụ ở [Gold Time Hotel Da Nang](hotel_name)?
+    - [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần các khu du lịch không?
+    - [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng để ở trong chuyến đi Đà Nẵng không?
+    - Bạn đã từng nghỉ ở [The Pergola Design Hotel](hotel_name) chưa, có gì đặc biệt?
+    - [Alyssa Hotel Da Nang](hotel_name) có phòng phù hợp cho gia đình không?
+    - Xin vui lòng cho tôi biết thêm thông tin về [Fuji Hostel](hotel_name)
+    - Mình muốn tìm hiểu về [DaNa Sailing Hotel](hotel_name), bạn có thông tin không?
+    - Khách sạn [Orange Hotel](hotel_name) có thuận tiện cho việc di chuyển không?
+    - Liệu [Moonlight Hotel SUITES & Spa](hotel_name) có đạt tiêu chuẩn 5 sao không?
+    - Bạn có thể cung cấp thông tin về [Valencia Da Nang Beach Hotel](hotel_name)?
+    - Chúng tôi muốn đặt phòng tại [Royal Family Hotel](hotel_name), bạn có biết giá cả thế nào?
+    - [Zenta Sea View Hotel](hotel_name) có khu vực nào đặc biệt không, thuận tiện cho du lịch?
+    - Bạn có thể đánh giá về chất lượng phòng ở [Bantique Hotel](hotel_name) không?
+    - [Bambu Hotel](hotel_name) có các dịch vụ nào nổi bật không?
+    - [Elena Seaview Hotel](hotel_name) có những tiện ích gì đặc biệt so với các khách sạn khác?
+    - [Gold Time Hotel Da Nang](hotel_name) có được đánh giá cao về dịch vụ không?
+    - Liệu [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần trung tâm Đà Nẵng không?
+    - Bạn có ý kiến gì về [Minh Toan SAFI Ocean Hotel](hotel_name) trong chuyến công tác của tôi không?
+    - [The Pergola Design Hotel](hotel_name) có gì đặc biệt về thiết kế và dịch vụ?
+    - [Alyssa Hotel Da Nang](hotel_name) có các tiện ích dành cho gia đình không?
+    - [Fuji Hostel](hotel_name) ở Đà Nẵng thì sao? Bạn đã nghe nói chưa?
+    - Tôi đang tìm một khách sạn gần bãi biển, bạn có biết gì về [DaNa Sailing Hotel](hotel_name) không?
+    - [Orange Hotel](hotel_name) có gần cầu Rồng không, có phòng sạch sẽ không bạn?
+    - Tôi muốn tìm một khách sạn có view đẹp ở Đà Nẵng, [Moonlight Hotel SUITES & Spa](hotel_name) có ổn không?
+    - [Valencia Da Nang Beach Hotel](hotel_name) gần bãi biển Mỹ Khê phải không?
+    - [Royal Family Hotel](hotel_name) có ở gần trung tâm thành phố không bạn?
+    - [Zenta Sea View Hotel](hotel_name) có thuận tiện để di chuyển đến các địa điểm du lịch không?
+    - Khách sạn [Bantique Hotel](hotel_name) có vị trí đắc địa không?
+    - Bạn có thể cho tôi biết thêm về dịch vụ phòng ở [Bambu Hotel](hotel_name)?
+    - [Elena Seaview Hotel](hotel_name) có gì đặc biệt so với các khách sạn khác ở Đà Nẵng?
+    - Tôi nghe nói [Gold Time Hotel Da Nang](hotel_name) nổi bật, bạn đã ở đây chưa?
+    - [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name) có gần các điểm tham quan không?
+    - Nếu bạn đến Đà Nẵng, [Minh Toan SAFI Ocean Hotel](hotel_name) có đáng để chọn không?
+    - Mọi người thường khen ngợi [The Pergola Design Hotel](hotel_name), bạn đã ở đó chưa?
+    - [Alyssa Hotel Da Nang](hotel_name) có không gian phù hợp cho gia đình không?
+    - Bạn có nghe về một khách sạn đẹp ở gần biển Mỹ Khê không? Chắc là [Fuji Hostel](hotel_name)
+    - Tôi thấy mọi người nhắc đến [DaNa Sailing Hotel](hotel_name) khá nhiều, bạn biết gì về nó không?
+    - Nếu muốn ở gần cầu Rồng, chắc là [Orange Hotel](hotel_name) là sự lựa chọn lý tưởng nhỉ?
+    - Tôi đã nghe nói rất nhiều về [Moonlight Hotel SUITES & Spa](hotel_name), có view biển đẹp
+    - Có một khách sạn rất nổi tiếng gần bãi biển, chắc là [Valencia Da Nang Beach Hotel](hotel_name)
+    - Mọi người đang nói nhiều về [Royal Family Hotel](hotel_name), bạn đã nghe gì chưa?
+    - Bạn có biết gì về [Zenta Sea View Hotel](hotel_name) không? Chắc là view đẹp lắm
+    - Một trong những khách sạn nổi bật ở Đà Nẵng là [Bantique Hotel](hotel_name), bạn có thông tin gì không?
+    - Tôi đã nghe về phòng đẹp ở [Bambu Hotel](hotel_name), bạn có biết về dịch vụ không?
+    - Nếu muốn ở gần trung tâm, chắc chắn phải thử [Gold Time Hotel Da Nang](hotel_name)
+    - Tôi nghe nhiều người khen [Happy Day Riverside Hotel & Spa Danang by Haviland](hotel_name), chắc là có vị trí đẹp
+    - [Minh Toan SAFI Ocean Hotel](hotel_name) nghe đâu rất đáng thử, bạn có thông tin gì không?
+    - Nếu tìm khách sạn có thiết kế độc đáo, [The Pergola Design Hotel](hotel_name) chắc chắn là một lựa chọn
+    - Mình đang tìm chỗ ở cho gia đình, [Alyssa Hotel Da Nang](hotel_name) nghe có vẻ phù hợp
+
 
 - intent: ask_all_hotels
   examples: |
     - khách sạn
-    - khách sạn ở đà nẵng
+    - khách sạn ở Đà Nẵng
     - tôi muốn tìm khách sạn 
-    - tôi muốn tìm khách sạn ở đà nẵng
-    - đà nẵng có khách sạn nào không?
+    - tôi muốn tìm khách sạn ở Đà Nẵng
+    - Đà Nẵng có khách sạn nào không?
     - gợi ý cho tôi vài khách sạn
     - gợi ý cho tôi một số khách sạn
-    - gợi ý cho tôi một số khách sạn ở đà nẵng
-    - liệt kê cho mình một số khách sạn ở tại đà nẵng
+    - gợi ý cho tôi một số khách sạn ở Đà Nẵng
+    - liệt kê cho mình một số khách sạn ở Đà Nẵng
     - bạn còn biết khách sạn nào khác không?
     - còn khách sạn nào khác không?
     - còn khách sạn nào khác không bạn?
     - bạn nói thêm cho mình vài khách sạn nữa đi
     - bạn cho tôi vài khách sạn nữa đi
-    - mình muốn biết thêm về các khách sạn ở đà nẵng
-    - danh sách khách sạn
-    - danh sách khách sạn ở đà nẵng
-    - danh sách khách sạn ở đà nẵng đi bạn ơi
+    - mình muốn biết thêm về các khách sạn ở Đà Nẵng
+    - Mày biết khách sạn nào ở Đà Nẵng không?
+    - Gợi ý cho mình vài khách sạn Đà Nẵng đi
+    - Còn khách sạn nào khác ở Đà Nẵng không?
+    - Mày biết chỗ ở nào tốt ở Đà Nẵng không?
+    - Cho mình thêm vài khách sạn nữa nhé
+    - Liệt kê cho mình một số khách sạn nữa đi
+    - Mày có danh sách khách sạn ở Đà Nẵng không?
+    - Gợi ý thêm cho mình khách sạn ở Đà Nẵng đi
+    - Bạn có thể liệt kê một số khách sạn ở Đà Nẵng không?
+    - Mình muốn tìm khách sạn, bạn có gợi ý nào không?
+    - Có khách sạn nào bạn recommend ở Đà Nẵng không?
+    - Bạn có danh sách khách sạn ở Đà Nẵng không?
+    - Mình muốn biết thêm về các khách sạn Đà Nẵng
+    - Bạn cho mình biết vài khách sạn ở Đà Nẵng đi
+    - Bạn có thể cung cấp thêm thông tin về các khách sạn khác không?
+    - Liệt kê cho tôi một số khách sạn tốt ở Đà Nẵng
+    - Xin vui lòng liệt kê một số khách sạn ở Đà Nẵng
+    - Bạn có thể gợi ý cho tôi vài khách sạn ở Đà Nẵng không?
+    - Bạn có danh sách khách sạn nào ở Đà Nẵng không?
+    - Tôi đang tìm khách sạn ở Đà Nẵng, có thể cung cấp vài gợi ý không?
+    - Bạn có biết một số khách sạn nổi bật ở Đà Nẵng không?
+    - Bạn có thể liệt kê danh sách khách sạn tốt ở Đà Nẵng cho tôi không?
+    - Mình cần tìm một khách sạn ở Đà Nẵng, bạn có thể giúp tôi không?
+    - Bạn có biết các khách sạn nổi tiếng ở Đà Nẵng không?
+    - Mình đang tìm khách sạn ở Đà Nẵng, bạn có gợi ý nào không?
+    - Mình muốn đến Đà Nẵng, bạn có thể liệt kê các khách sạn nổi bật ở đó không?
+    - Gợi ý cho tôi vài khách sạn tại Đà Nẵng, bạn biết không?
+    - Mình muốn tìm khách sạn gần biển ở Đà Nẵng, bạn có biết không?
+    - Đà Nẵng có khách sạn nào nổi bật không?
+    - Liệt kê một số khách sạn tốt ở Đà Nẵng cho tôi nhé
+    - Bạn có thể cho tôi biết thêm về các khách sạn ở Đà Nẵng không?
+    - Có một số khách sạn nổi tiếng ở Đà Nẵng mà bạn có thể gợi ý cho tôi không?
+    - Tôi muốn tìm hiểu thêm về các khách sạn ở Đà Nẵng, bạn có thể cung cấp thông tin không?
+    - Bạn có biết thêm những khách sạn nào ở Đà Nẵng không?
+    - Mình đang lên kế hoạch du lịch Đà Nẵng, có khách sạn nào bạn recommend không?
+
 
 - intent: ask_hotel_price
   examples: |
@@ -235,19 +396,39 @@ nlu:
     - Một đêm ở [Novotel Danang Premier](hotel_name) bao nhiêu tiền?
     - [Brilliant Hotel](hotel_name) có đắt không?
     - Giá cả ở [Moonlight Hotel SUITES & Spa](hotel_name) là bao nhiêu?
-    - Giá cả ở [Valencia Da Nang Beach Hotel](hotel_name) thế nào?
-    - [Monarque Hotel Danang](hotel_name) giá cả thế nào?
-    - Một đêm ở [Haian Beach Hotel & Spa](hotel_name) khoảng bao nhiêu?
-    - Giá thuê phòng tại [Rosamia Danang Hotel](hotel_name)?
-    - [Sanouva Danang Hotel](hotel_name) bao nhiêu một đêm?
-    - Chi phí nghỉ lại [Furama Resort Danang](hotel_name) là bao nhiêu?
-    - Giá cả ở [Mandila Beach Hotel Danang](hotel_name)?
-    - [Hilton Da Nang](hotel_name) một đêm giá bao nhiêu vậy?
-    - [A La Carte Da Nang Beach Hotel](hotel_name) có rẻ không?
-    - [TMS Hotel Danang Beach](hotel_name) giá phòng như thế nào?
-    - [Balcona Hotel Da Nang](hotel_name) giá thuê bao nhiêu?
-    - [Royal Lotus Hotel Danang](hotel_name) giá cả ra sao?
-    - Một phòng ở [Daisy Boutique Hotel Da Nang](hotel_name) giá thế nào?
+    - Mày biết giá [Fuji Hostel](hotel_name) thế nào không?
+    - Giá [Moonlight Hotel SUITES & Spa](hotel_name) là bao nhiêu bạn?
+    - [Vinpearl Condotel Riverfront](hotel_name) đêm nay bao nhiêu tiền vậy?
+    - [Danang Golden Bay](hotel_name) giá thế nào mày?
+    - Đêm nay ở [Novotel Danang Premier](hotel_name) bao nhiêu vậy?
+    - [Rosamia Danang Hotel](hotel_name) giá phòng thế nào?
+    - [Mandila Beach Hotel Danang](hotel_name) có mắc không?
+    - Mình muốn biết giá phòng tại [Dam Tien Hotel](hotel_name)
+    - Bạn có biết giá của [DaNa Sailing Hotel](hotel_name) không?
+    - [Brilliant Hotel](hotel_name) có giá cả như thế nào?
+    - Bạn có thông tin giá phòng tại [Hilton Da Nang](hotel_name) không?
+    - Cho mình biết giá phòng của [Furama Resort Danang](hotel_name)
+    - Giá thuê phòng tại [A La Carte Da Nang Beach Hotel](hotel_name) như thế nào?
+    - [Royal Lotus Hotel Danang](hotel_name) có giá phòng là bao nhiêu?
+    - Bạn có thể cung cấp thông tin giá phòng tại khách sạn [Vinpearl Condotel Riverfront](hotel_name) không?
+    - Giá phòng một đêm tại [Hilton Da Nang](hotel_name) là bao nhiêu?
+    - Mình muốn biết mức giá của phòng tại [TMS Hotel Danang Beach](hotel_name).
+    - Xin vui lòng cho tôi biết mức giá tại [Balcona Hotel Da Nang](hotel_name)?
+    - Giá cả tại [Monarque Hotel Danang](hotel_name) như thế nào?
+    - Chi phí phòng tại [Rosamia Danang Hotel](hotel_name) là bao nhiêu?
+    - Mức giá phòng tại [Mường Thanh Luxury](hotel_name) có cao không?
+    - Bạn có thông tin về giá phòng tại [Furama Resort Danang](hotel_name) không?
+    - Giá phòng ở khách sạn [Royal Lotus Hotel Danang](hotel_name) như thế nào vậy?
+    - Ở Đà Nẵng, một đêm tại [Mandila Beach Hotel Danang](hotel_name) giá bao nhiêu?
+    - Giá phòng tại [Daisy Boutique Hotel Da Nang](hotel_name) thế nào bạn?
+    - [Sanouva Danang Hotel](hotel_name) có giá phòng hợp lý không?
+    - Mình muốn biết giá phòng ở [TMS Hotel Danang Beach](hotel_name)
+    - Bạn có thể cho tôi biết giá phòng tại [Danang Golden Bay](hotel_name) không?
+    - Giá một đêm ở khách sạn [Haian Beach Hotel & Spa](hotel_name) là bao nhiêu?
+    - Mình muốn biết thêm về mức giá của [Furama Resort Danang](hotel_name).
+    - Bạn có thể cung cấp thông tin về giá thuê phòng tại [Vinpearl Condotel Riverfront](hotel_name)?
+    - Một phòng tại [Royal Lotus Hotel Danang](hotel_name) có giá thế nào vậy?
+
 
 - intent: ask_hotel_location
   examples: |
@@ -261,64 +442,212 @@ nlu:
     - Địa chỉ của [Vinpearl Condotel Riverfront](hotel_name) là gì?
     - Cho tôi hỏi địa chỉ của [New Tourane Hotel](hotel_name).
     - Cho tôi hỏi vị trí của [Danang Golden Bay](hotel_name).
-    - Tôi cần địa chỉ của [Zenta Sea View Hotel](hotel_name).
+    - Mày biết [Fuji Hostel](hotel_name) ở đâu không?
+    - [Moonlight Hotel SUITES & Spa](hotel_name) ở khu vực nào vậy?
+    - [Orange Hotel](hotel_name) nằm ở đâu vậy mày?
+    - Địa chỉ của [Danang Golden Bay](hotel_name) là chỗ nào vậy?
+    - Chỉ giúp mình địa chỉ của [Zenta Sea View Hotel](hotel_name) với.
+    - [Vinpearl Condotel Riverfront](hotel_name) ở đâu thế?
+    - Bạn có thể cho tôi biết địa chỉ của [Dam Tien Hotel](hotel_name) không?
+    - [Fuji Hostel](hotel_name) ở khu vực nào vậy bạn?
+    - Bạn biết địa chỉ của [DaNa Sailing Hotel](hotel_name) không?
+    - Cho mình hỏi địa chỉ của [Valencia Da Nang Beach Hotel](hotel_name)?
+    - [Royal Family Hotel](hotel_name) có ở khu nào không?
+    - Mình muốn biết địa chỉ của [Vinpearl Condotel Riverfront](hotel_name).
+    - Xin vui lòng cung cấp cho tôi địa chỉ của khách sạn [Fuji Hostel](hotel_name).
+    - Mình cần biết địa chỉ của [DaNa Sailing Hotel](hotel_name), bạn có thông tin không?
+    - Bạn có thể cho tôi biết vị trí của [Royal Family Hotel](hotel_name) không?
+    - Địa chỉ của [New Tourane Hotel](hotel_name) là gì vậy?
+    - Bạn có thể cho tôi thông tin về địa chỉ của [Vinpearl Condotel Riverfront](hotel_name) được không?
+    - Xin vui lòng cho tôi biết địa chỉ của [Danang Golden Bay](hotel_name).
+    - [Zenta Sea View Hotel](hotel_name) nằm ở đâu vậy bạn?
+    - [Royal Family Hotel](hotel_name) nằm ở khu vực nào nhỉ?
+    - Vị trí của [Dam Tien Hotel](hotel_name) như thế nào vậy?
+    - Bạn có biết địa chỉ của [Moonlight Hotel SUITES & Spa](hotel_name) không?
+    - Địa chỉ của [Vinpearl Condotel Riverfront](hotel_name) ở đâu vậy?
+    - Bạn có thể chia sẻ vị trí của [Danang Golden Bay](hotel_name) không?
+    - Địa chỉ của [Fuji Hostel](hotel_name) là gì vậy bạn?
+    - Mình muốn biết thêm về vị trí của [Zenta Sea View Hotel](hotel_name).
+    - Địa chỉ chính xác của [Orange Hotel](hotel_name) là gì bạn?
+    - Chỉ cho mình địa chỉ của [Vinpearl Condotel Riverfront](hotel_name) với nhé.
+
 
 # tours
 - intent: inform_tour_name
   examples: |
     - [Tour Bà Nà Hills](tour_name)
+    - [Tour Hội An](tour_name)
+    - [Tour Ngũ Hành Sơn](tour_name)
+    - [Tour Cù Lao Chàm](tour_name)
+    - [Tour Bán Đảo Sơn Trà](tour_name)
     - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name)
-    - [Tour Hội An](tour_name) đi
-    - [Tour Ngũ Hành Sơn](tour_name) á
+    - [Tour Đà Nẵng 1 ngày](tour_name)
+    - tôi chọn [Tour Sơn Trà](tour_name)
+    - mình đi [Tour Bà Nà Hills](tour_name) nha
     - [Tour Cù Lao Chàm](tour_name) đi bạn
-    - [Tour Bán Đảo Sơn Trà](tour_name) nhá
-    - tôi chọn [Tour Sơn Trà](tour_name) 
-    - [Tour Đà Nẵng 1 ngày](tour_name) thì sao?
+    - thử [Tour Ngũ Hành Sơn](tour_name) xem sao
+    - [Tour Hội An](tour_name) á
+    - [Tour Sơn Trà](tour_name) thì sao?
+    - chắc đi [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) quá
+    - vote cho [Tour Hội An](tour_name) nha
+    - mình chốt [Tour Bà Nà Hills](tour_name) nhé
+    - [Tour Ngũ Hành Sơn](tour_name) có vẻ thú vị
+    - nghe bảo [Tour Cù Lao Chàm](tour_name) đẹp lắm
+    - [Tour Sơn Trà](tour_name) có ổn không ta?
+    - chọn [Tour Đà Nẵng 1 ngày](tour_name) đi cho nhanh
+    - mình nghiêng về [Tour Bán Đảo Sơn Trà](tour_name)
+    - em đi [Tour Hội An](tour_name) là chắc rồi
+    - cho mình đăng ký [Tour Cù Lao Chàm](tour_name)
+    - mình muốn book [Tour Sơn Trà](tour_name)
+    - tôi thích [Tour Ngũ Hành Sơn](tour_name)
+    - em thấy [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) ổn đó
+    - mình đi [Tour Hội An về đêm](tour_name) nhé?
+    - đăng ký [Tour Bà Nà Hills kèm cáp treo](tour_name)
+    - cho mình tham gia [Tour Cù Lao Chàm lặn ngắm san hô](tour_name)
+    - có [Tour Ngũ Hành Sơn - Hội An](tour_name) không?
+    - mình hứng thú với [Tour Đà Nẵng – Huế 1 ngày](tour_name)
+    - thử [Tour combo Hội An + Bà Nà](tour_name) xem sao
+    - [Tour chill Hội An vintage](tour_name) nghe vui quá
+    - chọn [Tour du lịch tâm linh Ngũ Hành Sơn](tour_name) nha
+    - [Tour luxury Bà Nà Hills 5 sao](tour_name) hợp gu tui
+    - đi [Tour food tour Đà Nẵng về đêm](tour_name) không?
+    - [Tour săn mây Bà Nà](tour_name) chắc chắn rồi
+    - tui vote [Tour sống ảo Sơn Trà](tour_name)
+    - [Tour khám phá Hội An cổ kính](tour_name) nghe xịn đó
+    - [Tour đi bộ dưới biển Cù Lao Chàm](tour_name) xịn xò
+    - mình pick [Tour trải nghiệm làng chài Sơn Trà](tour_name)
+    - mình đú trend với [Tour Hội An style Gen Z](tour_name)
+    - kiểu gì cũng phải đi [Tour Hội An vintage vibe](tour_name)
+    - chốt kèo [Tour Hội An – Cù Lao Chàm combo](tour_name)
+    - chill nhẹ với [Tour Sơn Trà ngắm hoàng hôn](tour_name)
+    - đang hóng [Tour chill Đà Nẵng đêm](tour_name)
+    - [Tour Đà Nẵng đi về trong ngày](tour_name) nha
+    - đi lẹ [Tour Hội An 1 ngày 1 đêm](tour_name) đi
+    - tui đặt [Tour Đà Nẵng city tour sáng – chiều](tour_name)
+    - không cần nghĩ, chọn [Tour Hội An + chèo SUP sông Hoài](tour_name)
+    - xách balo lên và chọn [Tour Bà Nà săn mây sáng sớm](tour_name)
+    - [Tour trekking Sơn Trà khám phá thiên nhiên](tour_name) đi
 
 - intent: ask_tour_info
   examples: |
     - [Tour Bà Nà Hills](tour_name)
-    - tour [Tour Bà Nà Hills](tour_name)
+    - tour [Tour Hội An](tour_name)
     - Cho mình thông tin về tour [Bà Nà Hills](tour_name)
-    - Cho mình thông tin về tour [Bà Nà Hills](tour_name) với
-    - Cho mình hỏi tour đi [Bà Nà Hills](tour_name)?
-    - Bạn có thông tin gì về tour [Ngũ Hành Sơn](tour_name) không?
-    - Mình muốn đi tour [Cù Lao Chàm](tour_name), bạn có gợi ý không?
-    - Tour [Hội An về đêm](tour_name) xuất phát lúc mấy giờ vậy bạn?
-    - [Rừng dừa Bảy Mẫu](tour_name) có tour tham quan không bạn?
-    - Đi [Bán đảo Sơn Trà](tour_name) nên đi tour hay tự túc?
-    - Bạn biết tour nào đi [Thánh địa Mỹ Sơn](tour_name) uy tín không?
-    - Có tour nào tham quan [chợ Hàn](tour_name) và [chợ Cồn](tour_name) không?
-    - Tour [Đà Nẵng - Huế](tour_name) có xe đưa đón không?
-    - Gói tour [Suối khoáng nóng Núi Thần Tài](tour_name)?
-    - Thời gian tour đi [Bà Nà Hills](tour_name) là bao lâu vậy?
+    - Cho mình hỏi tour đi [Cù Lao Chàm](tour_name) có gì hay?
+    - Tour [Ngũ Hành Sơn](tour_name) đi trong bao lâu vậy?
+    - Bạn có lịch trình tour [Hội An về đêm](tour_name) không?
+    - Tour đi [Rừng dừa Bảy Mẫu](tour_name) có chèo thuyền không?
+    - Tour [Bán đảo Sơn Trà](tour_name) có hướng dẫn viên không bạn?
+    - Mình muốn biết giá tour đi [Suối khoáng Núi Thần Tài](tour_name)
+    - Có tour nào đi [Làng Vân](tour_name) không?
+    - Tour tham quan [Thánh địa Mỹ Sơn](tour_name) khởi hành khi nào?
+    - Bạn gợi ý tour nào khám phá [Hòa Bắc](tour_name) không?
+    - Tour [Bà Nà Hills](tour_name) có bao gồm cáp treo không?
+    - [Cù Lao Chàm](tour_name) đi mùa nào đẹp?
+    - Tour đi [Hội An](tour_name) có bao gồm bữa tối không?
+    - [Chợ Cồn](tour_name) có tour ẩm thực nào không?
+    - Có tour nào khám phá [Đà Nẵng về đêm](tour_name) không?
+    - Tour [Đà Nẵng – Huế](tour_name) có về trong ngày không?
+    - Bạn tư vấn giúp tour đi [Ngũ Hành Sơn – Hội An](tour_name)?
+    - Lịch trình tour [Bà Nà Hills – Hội An](tour_name) thế nào?
+    - Tour [Rừng dừa Bảy Mẫu](tour_name) có bao gồm thuyền thúng không?
+    - [Tour Hội An vintage vibe](tour_name) là gì vậy?
+    - Có tour nào tham quan [Cầu Vàng – Bà Nà](tour_name) không?
+    - Tour [Ngũ Hành Sơn](tour_name) giá bao nhiêu vậy bạn?
+    - Đi [Làng cổ Phong Nam](tour_name) có tour trong ngày không?
+    - Tour nào thích hợp cho gia đình đi [Bà Nà Hills](tour_name)?
+    - Có tour phượt nào đến [Bán đảo Sơn Trà](tour_name) không?
+    - Có tour nào kết hợp giữa [Chợ Hàn](tour_name) và [Cầu Rồng](tour_name) không?
+    - Tour [Hội An – Cù Lao Chàm](tour_name) giá thế nào bạn ơi?
+    - Tour [Bà Nà ban đêm](tour_name) có gì đặc biệt?
+    - Lịch trình tour [Thánh địa Mỹ Sơn](tour_name) kéo dài bao lâu?
+    - Tour nào phù hợp cho người lớn tuổi đi [Ngũ Hành Sơn](tour_name)?
+    - Tour trải nghiệm địa phương ở [Hòa Bắc](tour_name) có hoạt động gì?
+    - Tour [Cù Lao Chàm](tour_name) có lặn ngắm san hô không?
     - Tour du lịch sinh thái ở [Làng Vân](tour_name) có đông khách không?
-    - Mình cần tour trải nghiệm địa phương ở [Hòa Bắc](tour_name), bạn có thông tin không?
+    - Tour nào bao gồm cả [Ngũ Hành Sơn](tour_name) và [Hội An](tour_name)?
+    - Mình cần tour cho nhóm bạn trẻ đi [Suối khoáng Núi Thần Tài](tour_name)
+    - Tour tham quan [Bán đảo Sơn Trà](tour_name) nên đi buổi nào?
+    - Bạn gợi ý tour nào chill chill ở [Hội An](tour_name) không?
+    - Có tour nào săn mây ở [Bà Nà Hills](tour_name) không bạn?
+    - Tour ngắm bình minh ở [Sơn Trà](tour_name) mấy giờ xuất phát?
+    - Có tour đi bộ khám phá [Rừng dừa Bảy Mẫu](tour_name) không?
+    - Có tour xe đạp tham quan [Làng cổ Phong Nam](tour_name) không?
+    - [Hội An về đêm](tour_name) có show biểu diễn nào không?
+    - Tour [Cù Lao Chàm – Ẩm thực làng chài](tour_name) nghe hấp dẫn không?
+    - Đi [Ngũ Hành Sơn](tour_name) mùa này có đông không bạn?
+    - [Suối khoáng nóng Núi Thần Tài](tour_name) nên đi tour hay tự túc?
+    - Có tour kết hợp giữa [Sơn Trà – Làng Vân](tour_name) không?
+    - Tour du lịch tâm linh ở [Thánh địa Mỹ Sơn](tour_name) có đông không?
+    - Tour nào dẫn đi [chợ Cồn](tour_name) mà có thử đặc sản luôn?
+    - Có tour nào cho Gen Z đi khám phá [Hội An về đêm](tour_name) không?
+    - Có tour nào đi [Cù Lao Chàm lặn biển](tour_name) rẻ rẻ không?
+    - Tour chill nhẹ cuối tuần ở [Rừng dừa Bảy Mẫu](tour_name) là tour nào?
 
 - intent: ask_all_tours
   examples: |
     - tour
-    - tour ở đà nẵng
+    - có tour không?
+    - tour đi đâu á?
+    - tour ở Đà Nẵng
+    - tour nào ở Đà Nẵng vậy?
+    - các tour ở Đà Nẵng là gì?
+    - tour hiện có ở Đà Nẵng?
+    - liệt kê mấy tour ở Đà Nẵng đi bạn
+    - bạn ơi có những tour nào đang có vậy?
+    - cho mình danh sách tour ở Đà Nẵng với
+    - mình muốn tìm tour
+    - mình đang tìm tour ở Đà Nẵng
     - tôi muốn tìm tour
-    - tôi muốn tìm tour ở đà nẵng
-    - đà nẵng có tour nào không?
+    - tôi đang cần tour ở Đà Nẵng
+    - Đà Nẵng có tour nào hot không?
+    - hiện tại có những tour gì?
+    - còn tour nào không bạn?
+    - bạn giới thiệu mình vài tour đi
+    - bạn gợi ý vài tour hay đi
+    - có tour nào ổn không?
+    - tour nào hợp cho gia đình vậy?
+    - các tour phổ biến là gì?
+    - cho mình biết tour nào được yêu thích nhất
+    - bạn có tour gì hay không?
+    - bạn kể thêm vài tour nữa được không?
+    - liệt kê một số tour đi bạn
+    - cho mình vài tour tiêu biểu
     - gợi ý cho tôi vài tour
-    - gợi ý cho tôi một số tour
-    - gợi ý cho tôi một số tour ở đà nẵng
-    - liệt kê cho mình một số tour ở tại đà nẵng
-    - bạn còn biết tour nào khác không?
-    - còn tour nào khác không?
-    - còn tour nào khác không bạn?
-    - bạn nói thêm cho mình vài tour nữa đi
-    - bạn cho tôi vài tour nữa đi
-    - mình muốn biết thêm về các tour ở đà nẵng
-    - danh sách tour
-    - danh sách tour ở đà nẵng
-    - danh sách tour ở đà nẵng đi bạn ơi
+    - gợi ý cho tôi vài tour đi bạn
+    - có thể gợi ý cho tôi các tour ở Đà Nẵng không?
+    - đưa tôi danh sách tour tham quan Đà Nẵng
+    - hiện có những tour du lịch nào?
+    - tour nào đang khuyến mãi vậy?
+    - bạn có tour mới nào không?
+    - còn tour nào chưa nói không?
+    - bạn chia sẻ thêm tour đi
+    - có thể xem được tất cả tour không?
+    - cho mình xem toàn bộ tour
+    - có thể giới thiệu tất cả tour hiện tại không?
+    - đưa danh sách tour
+    - có những tour nào cho khách lẻ?
+    - bạn còn tour nào gợi ý không?
+    - danh sách tour du lịch Đà Nẵng đi bạn
+    - tour nào phù hợp cho cặp đôi không?
+    - mình muốn biết tất cả các tour
+    - cho mình biết có bao nhiêu tour?
+    - hiển thị các tour đi bạn ơi
+    - tui muốn coi hết mấy tour luôn
+    - đà nẵng có mấy tour xịn vậy?
+    - kể hết tour ở đà nẵng cho tui nghe
+    - có tour gì vui vui không bạn?
+    - show mấy tour nổi bật ở đà nẵng coi
+    - cho em xin mấy tour tham khảo ạ
+    - có tour nào trending không anh?
+    - show full danh sách tour với
 
 - intent: ask_tour_price
   examples: |
     - Giá cả thế nào
+    - Tour giá bao nhiêu?
+    - Giá tour là nhiêu?
+    - Tour [Bà Nà Hills](tour_name) giá nhiêu?
     - Giá [Tour Bà Nà Hills](tour_name)
     - chi phí [Tour Bà Nà Hills](tour_name)
     - Giá [Tour Bà Nà Hills](tour_name) là bao nhiêu?
@@ -328,15 +657,46 @@ nlu:
     - Giá [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) bao nhiêu?
     - chi phí [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) bao nhiêu?
     - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) chi phí bao nhiêu?
-    - [Tour Đà Nẵng 2 ngày 1 đêm](tour_name) chi phí?
     - Cho mình xin giá tour [Bà Nà Hills](tour_name) với
     - Cho mình xin chi phí tour [Bà Nà Hills](tour_name) với
     - Cho mình xin giá [Tour Bà Nà Hills](tour_name)
     - Cho mình xin chi phí [Tour Bà Nà Hills](tour_name)
     - về chi phí của [Tour Bà Nà Hills](tour_name) thì sao?
-    - về chi phí của [Tour Bà Nà Hills](tour_name)
     - về giá của [Tour Bà Nà Hills](tour_name) thì sao?
-    - về giá của [Tour Bà Nà Hills](tour_name)
+    - Giá vé tour [Bà Nà Hills](tour_name) là bao nhiêu nhỉ?
+    - [Tour Cù Lao Chàm](tour_name) bao nhiêu tiền vậy?
+    - [Tour Hội An](tour_name) hết nhiêu vậy?
+    - Cho em hỏi giá tour [Ngũ Hành Sơn](tour_name)?
+    - Anh ơi tour [Suối khoáng Thần Tài](tour_name) bao nhiêu?
+    - Giá full của [Tour Sơn Trà](tour_name) là bao nhiêu thế?
+    - Tour [Đà Nẵng - Huế](tour_name) có mắc không bạn?
+    - Tui muốn hỏi giá tour [Bán Đảo Sơn Trà](tour_name)
+    - Giá tour [Làng Vân](tour_name) hiện tại là bao nhiêu?
+    - [Tour Rừng dừa Bảy Mẫu](tour_name) giá rổ ra sao bạn?
+    - Tour đi [Hội An](tour_name) trọn gói nhiêu?
+    - Chi phí toàn bộ [Tour Bà Nà Hills](tour_name)?
+    - Có khuyến mãi gì cho [Tour Đà Nẵng 2N1Đ](tour_name) không?
+    - Có ưu đãi gì cho tour [Ngũ Hành Sơn](tour_name)?
+    - Tour [Cù Lao Chàm](tour_name) hiện giá sao rồi?
+    - [Tour Huế 1 ngày](tour_name) khoảng bao nhiêu?
+    - Giá chuẩn của tour [Bà Nà](tour_name) là bao nhiêu?
+    - Tour này bao nhiêu tiền?
+    - Bao nhiêu một người vậy?
+    - Tính theo đầu người hay sao?
+    - Tui cần biết giá tour nghen
+    - Giá cả ổn không?
+    - Tour có mắc không vậy?
+    - Giá này có bao gồm ăn uống chưa?
+    - Giá tour có bao gồm vé vào cổng không?
+    - Chi phí có trọn gói không?
+    - Mỗi người phải trả bao nhiêu?
+    - Vé tour bao nhiêu tiền bạn?
+    - Bạn cho mình bảng giá tour được không?
+    - Bạn gửi mình chi tiết giá tour nha
+    - Gửi mình thông tin giá của tour [Ngũ Hành Sơn](tour_name) đi
+    - Mình cần biết tour này bao nhiêu, bạn báo giúp nha
+    - Xin giá tour đi bạn ơi
+    - Giá tour all-in-one là bao nhiêu?
 
 - intent: ask_review_tour
   examples: |
@@ -347,6 +707,52 @@ nlu:
     - [Tour Bà Nà Hills](tour_name) có đáng đi không bạn?
     - [Tour Bà Nà Hills](tour_name) có đáng tiền không?
     - [Tour Bà Nà Hills](tour_name) có đáng tiền không bạn?
+    - bạn thấy tour [Bà Nà Hills](tour_name) sao?
+    - bạn đánh giá sao về tour [Bà Nà Hills](tour_name)?
+    - đánh giá tour [Bà Nà Hills](tour_name) đi bạn
+    - cho mình biết chất lượng tour [Bà Nà Hills](tour_name) với
+    - tour [Bà Nà Hills](tour_name) có ổn không bạn?
+    - tour [Bà Nà Hills](tour_name) có ok không?
+    - tour [Bà Nà Hills](tour_name) có ổn áp không?
+    - tour [Bà Nà Hills](tour_name) xịn không bạn?
+    - tour [Bà Nà Hills](tour_name) có uy tín không?
+    - bạn có feedback gì về tour [Bà Nà Hills](tour_name) không?
+    - feedback tour [Bà Nà Hills](tour_name) nha
+    - feedback giúp mình tour [Bà Nà Hills](tour_name)
+    - cho mình vài nhận xét về [Tour Bà Nà Hills](tour_name)
+    - cho mình biết cảm nhận về [Tour Bà Nà Hills](tour_name)
+    - ai đã đi tour [Bà Nà Hills](tour_name) rồi cho xin ý kiến
+    - nghe nói tour [Bà Nà Hills](tour_name) hot lắm, có đúng không?
+    - tour [Bà Nà Hills](tour_name) có gì hay?
+    - tour [Bà Nà Hills](tour_name) có gì đặc biệt không?
+    - trải nghiệm tour [Bà Nà Hills](tour_name) thế nào?
+    - tour [Bà Nà Hills](tour_name) có bị chặt chém không?
+    - tour [Bà Nà Hills](tour_name) dịch vụ tốt không?
+    - khách trước đánh giá tour [Bà Nà Hills](tour_name) sao?
+    - mọi người đánh giá tour [Bà Nà Hills](tour_name) thế nào?
+    - dân du lịch nhận xét gì về tour [Bà Nà Hills](tour_name)?
+    - tour [Ngũ Hành Sơn](tour_name) được không?
+    - review tour [Cù Lao Chàm](tour_name) với
+    - feedback tour [Hội An về đêm](tour_name) nha
+    - tour [Rừng dừa Bảy Mẫu](tour_name) có vui không?
+    - [Tour Đà Nẵng - Huế](tour_name) có xứng đáng không?
+    - review gấp tour [Suối khoáng Núi Thần Tài](tour_name)
+    - tour [Bán Đảo Sơn Trà](tour_name) có nên đi không?
+    - mọi người hay đi tour [Thánh địa Mỹ Sơn](tour_name) không?
+    - nghe nói tour [Làng Vân](tour_name) đẹp lắm, đúng không?
+    - tour [Hòa Bắc](tour_name) được review tốt không?
+    - thấy ai cũng đi tour [Cù Lao Chàm](tour_name), có gì hot?
+    - có ai đi tour [Ngũ Hành Sơn](tour_name) chưa, cho xin nhận xét
+    - có đáng thử tour [Hội An](tour_name) không?
+    - trải nghiệm tour [Huế 1 ngày](tour_name) ra sao bạn?
+    - chất lượng tour [Suối khoáng Thần Tài](tour_name) thế nào?
+    - bạn thấy tour [Bà Nà Hills](tour_name) có gì chưa ổn không?
+    - tour [Bà Nà Hills](tour_name) điểm trừ là gì?
+    - tour [Bà Nà Hills](tour_name) có phù hợp gia đình không?
+    - [Tour Bà Nà Hills](tour_name) dành cho người lớn tuổi có ổn không?
+    - tour [Bà Nà Hills](tour_name) có đông quá không?
+    - tour [Bà Nà Hills](tour_name) có chen chúc không bạn?
+
 
 
 
@@ -367,26 +773,124 @@ nlu:
 - intent: request_transportation_info
   examples: |
     - thông tin về [Nhà xe Hiếu Hoa](transportation_name)
-    - [Nhà xe Quang Dũng](transportation_name) là nhà xe gì
+    - [Nhà xe Quang Dũng](transportation_name) là nhà xe gì?
     - giới thiệu về [Vietravel Airlines](transportation_name)
-    - bạn biết gì về [Vietjet Air](transportation_name)
+    - bạn biết gì về [Vietjet Air](transportation_name)?
+    - [Vietjet Air](transportation_name) có các tuyến bay nào?
+    - nhà xe [Phương Trang](transportation_name) có tốt không?
+    - [Vietravel Airlines](transportation_name) có chuyến bay nào đi Hà Nội không?
+    - [Vietjet Air](transportation_name) chuyến bay sớm nhất là mấy giờ?
+    - thông tin về [Nhà xe Minh Tâm](transportation_name) giúp mình.
+    - bạn có thể cho mình biết giờ khởi hành của [Vietravel Airlines](transportation_name)?
+    - nhà xe [Mai Linh](transportation_name) có tuyến nào từ Đà Nẵng đi Huế không?
+    - [Vietjet Air](transportation_name) có dịch vụ gì đặc biệt không?
+    - [Nhà xe Hiếu Hoa](transportation_name) có lịch trình như thế nào?
+    - có nhà xe nào từ Sài Gòn đi Vũng Tàu không?
+    - giới thiệu về [Tuyến xe khách Phương Trang](transportation_name).
+    - chuyến bay [Vietravel Airlines](transportation_name) có bữa ăn không?
+    - [Vietjet Air](transportation_name) giá vé hiện tại là bao nhiêu?
+    - [Nhà xe Mai Linh](transportation_name) có giường nằm không?
+    - có thể cho tôi thông tin về [Vietravel Airlines](transportation_name) được không?
+    - [Vietjet Air](transportation_name) có chuyến bay quốc tế không?
+    - nhà xe [Hiếu Hoa](transportation_name) đi các tỉnh nào?
+    - mình muốn biết thêm về nhà xe [Quang Dũng](transportation_name)?
+    - chuyến bay của [Vietravel Airlines](transportation_name) có delay không?
+    - [Nhà xe Minh Tâm](transportation_name) có điểm đón tại Hà Nội không?
+    - mình muốn hỏi về chuyến bay [Vietjet Air](transportation_name) đến Hà Nội.
+    - nhà xe [Hiếu Hoa](transportation_name) có phục vụ bữa ăn không?
+    - bạn có biết nhà xe [Phương Trang](transportation_name) có đi vào giờ nào không?
+    - cho mình biết thông tin về [Vietjet Air](transportation_name) đi Nha Trang.
+    - [Vietravel Airlines](transportation_name) chuyến đi Hà Nội như thế nào?
+    - chuyến bay của [Vietjet Air](transportation_name) có những dịch vụ gì?
+    - thông tin về tuyến [Nhà xe Quang Dũng](transportation_name) đi từ Sài Gòn.
+    - bạn có thông tin gì về chuyến bay của [Vietravel Airlines](transportation_name)?
+    - [Nhà xe Minh Tâm](transportation_name) có vé khứ hồi không?
+    - lịch trình của chuyến bay [Vietjet Air](transportation_name) là gì?
+    - nhà xe [Phương Trang](transportation_name) có bảo hiểm hành khách không?
+    - mình muốn tìm hiểu thêm về chuyến bay [Vietravel Airlines](transportation_name).
+    - [Nhà xe Hiếu Hoa](transportation_name) có bao nhiêu chuyến trong ngày?
+    - thông tin về [Nhà xe Mai Linh](transportation_name) từ TP.HCM đi Phan Thiết.
+    - [Vietjet Air](transportation_name) có khuyến mãi nào không?
+    - nhà xe [Phương Trang](transportation_name) có vé online không?
+    - [Vietjet Air](transportation_name) có chuyến bay từ Đà Nẵng đến Phú Quốc không?
+    - [Nhà xe Quang Dũng](transportation_name) có xe giường nằm không?
+    - bạn biết gì về [Vietravel Airlines](transportation_name) ở Hà Nội không?
+    - chuyến bay của [Vietjet Air](transportation_name) đến Hà Nội có phải là chuyến thẳng không?
+    - thông tin về [Vietravel Airlines](transportation_name) cho chuyến bay Đà Nẵng - Hồ Chí Minh.
+    - [Nhà xe Hiếu Hoa](transportation_name) có bao nhiêu loại xe?
+    - thông tin về chuyến bay của [Vietjet Air](transportation_name) từ Đà Nẵng.
+    - [Vietravel Airlines](transportation_name) có áp dụng chính sách hoàn vé không?
+    - nhà xe [Mai Linh](transportation_name) có tuyến từ Đà Nẵng đến Huế không?
+    - [Vietjet Air](transportation_name) có hủy chuyến bay không?
+    - bạn có thể cho tôi biết thông tin về chuyến bay của [Vietravel Airlines](transportation_name) vào ngày mai không?
+    - [Vietjet Air](transportation_name) có giờ bay từ Hà Nội vào Đà Nẵng không?
+    - giới thiệu về nhà xe [Phương Trang](transportation_name) cho chuyến đi từ TP.HCM đến Vũng Tàu.
+    - nhà xe [Quang Dũng](transportation_name) có dịch vụ xe đưa đón tại sân bay không?
+    - chuyến bay [Vietjet Air](transportation_name) từ Hà Nội có mấy giờ?
+    - thông tin về chuyến bay [Vietravel Airlines](transportation_name) từ Hà Nội đến Hồ Chí Minh.
+    - có xe nào từ Đà Nẵng đến Hội An không? 
+
+
 
 - intent: inform_transportation_name
   examples: |
     - [Nhà xe Phương Trang](transportation_name)
-    - [Nhà xe Hoàng Long](transportation_name)
-    - [Vietnam Airlines](transportation_name)
-    - [Vietjet Air](transportation_name)
-    - [Bamboo Airways](transportation_name)
-    - [Nhà xe Sinh Cafe](transportation_name)
-    - [Pacific Airlines](transportation_name)
-    - [Nhà xe Camel Travel](transportation_name)
-    - [Vietravel Airlines](transportation_name)
-    - [Nhà xe Mai Linh](transportation_name)
-    - [Nhà xe Hiếu Hoa](transportation_name)
-    - [Nhà xe Quang Dũng](transportation_name)
-    - [Nhà xe Tân Hiệp](transportation_name)
-    - [Nhà xe Đình Nhân](transportation_name)
+    - [Nhà xe Hoàng Long](transportation_name) nha
+    - Tôi muốn đặt vé [Nhà xe Phương Trang](transportation_name).
+    - Tôi đi với [Nhà xe Hoàng Long](transportation_name).
+    - Xe của [Nhà xe Mai Linh](transportation_name) khởi hành lúc mấy giờ?
+    - Tôi chọn [Nhà xe Thành Bưởi](transportation_name) cho chuyến đi này.
+    - Lịch trình của [Nhà xe Kumho Samco](transportation_name) thế nào?
+    - Hành trình của tôi là với [Nhà xe Thiên Thanh](transportation_name).
+    - [Nhà xe Việt Tân Phát](transportation_name) có chạy tuyến đó không?
+    - Mình đi bằng [Nhà xe Cúc Tư](transportation_name) nha.
+    - [Nhà xe Hùng Cường](transportation_name) có ghế nằm không?
+    - Tôi cần thông tin của [Nhà xe Tâm Minh Phương](transportation_name).
+    - Đi [Phương Trang](transportation_name) đi cho chắc!
+    - Tui book vé [Hoàng Long](transportation_name) rồi nha.
+    - Ủa, [Thành Bưởi](transportation_name) có chạy tuyến này hông ta?
+    - Lên [Mai Linh](transportation_name) là khỏi lo bị trễ.
+    - Lúc trước hay đi [Futa Bus Lines](transportation_name), giờ còn chạy hông?
+    - Tui đặt vé [Xe Kim Mạnh Hùng](transportation_name) nè, đẹp cực!
+    - Đi [An Phát](transportation_name) cho tiện, ghế nằm êm lắm.
+    - Bạn mình hay đi [Xe Mỹ Đình](transportation_name) á.
+    - Mình tính book [Xe Sao Việt](transportation_name), ổn không?
+    - Dạo này [Xe Hải Âu](transportation_name) chạy ổn áp lắm!
+    - Lên [Phương Trang](transportation_name) chill nhẹ thôi!
+    - [Hoàng Long](transportation_name) chạy như boss, không delay nha!
+    - Tới bến với [Xe Thành Bưởi](transportation_name) nha mấy má!
+    - [Futa](transportation_name) là chân á, đi bao phê!
+    - Book [Cúc Mừng](transportation_name) đi, xe xịn như mẹ bồng con!
+    - [Hùng Cường](transportation_name) có đồ ăn ngon vãi.
+    - [Tâm Đức](transportation_name) đi là ngủ phát tới nơi.
+    - Mỗi lần về quê là auto [Thiên Thanh](transportation_name)!
+    - Team tui full [Kim Mạnh Hùng](transportation_name) luôn.
+    - Đi [Vũ Linh](transportation_name) thôi, khỏi nghĩ!
+    - Tôi dự định di chuyển bằng [Nhà xe Phương Trang](transportation_name).
+    - Quý công ty có thể kiểm tra giúp tôi lịch trình của [Nhà xe Hoàng Long](transportation_name) được không?
+    - Tôi đang tìm thông tin tuyến xe từ [Nhà xe Mai Linh](transportation_name).
+    - Tôi đã đặt vé tại [Nhà xe Kumho Samco](transportation_name) cho chuyến đi sắp tới.
+    - Lịch khởi hành của [Nhà xe Việt Tân Phát](transportation_name) vào ngày mai là gì?
+    - Xin vui lòng cung cấp thông tin của [Nhà xe Hùng Cường](transportation_name).
+    - Chuyến đi lần trước của tôi sử dụng [Nhà xe Thành Bưởi](transportation_name).
+    - Theo tôi nhớ thì [Nhà xe Thiên Thanh](transportation_name) có tuyến này.
+    - Hành khách thường xuyên đánh giá cao [Nhà xe Cúc Tư](transportation_name).
+    - Tôi có thể biết giá vé của [Nhà xe Hải Âu](transportation_name) không?
+    - Nếu đi [Nhà xe Phương Trang](transportation_name) thì mình có thể đặt online được không?
+    - Mình cần so sánh giá giữa [Nhà xe Hoàng Long](transportation_name) và [Nhà xe Mai Linh](transportation_name).
+    - Bạn đi [Nhà xe Thành Bưởi](transportation_name) chưa? Đánh giá thế nào?
+    - Mình nghe nói [Nhà xe Tâm Minh Phương](transportation_name) có giường nằm riêng tư hả?
+    - Tui phân vân giữa [Xe An Phát](transportation_name) và [Xe Kumho Samco](transportation_name) á.
+    - Vé [Xe Hải Âu](transportation_name) có hỗ trợ thanh toán Momo không?
+    - Cần tìm nhà xe chạy đêm, [Nhà xe Thiên Thanh](transportation_name) có khung giờ đó không?
+    - Mình đang tìm vé của [Xe Kim Mạnh Hùng](transportation_name) khởi hành lúc 22h.
+    - Ủa có ai đi [Nhà xe Cúc Tư](transportation_name) rồi chưa? Review với!
+    - Nếu book [Nhà xe Sao Việt](transportation_name) thì có cần in vé không?
+    - [Phương Trang](transportation_name) nha.
+    - Đi [Hoàng Long](transportation_name).
+    - Book [Thành Bưởi](transportation_name).
+    - [Mai Linh](transportation_name) đi.
+    - Chọn [Kim Mạnh Hùng](transportation_name) giúp.
 
 # Yêu cầu các tuyến phổ biến của một nhà xe cụ thể
 # Dựa trên "popular_routes"
@@ -396,6 +900,54 @@ nlu:
     - [Nhà xe Tân Hiệp](transportation_name) chạy những tuyến nào
     - lộ trình của [Nhà xe Camel Travel](transportation_name)
     - tuyến đường phổ biến của [Hoàng Long](transportation_name) đi đâu
+    - [Phương Trang](transportation_name) có tuyến nào vậy?
+    - cho mình hỏi [Nhà xe Mai Linh](transportation_name) đi được những đâu?
+    - các tuyến chính của [Nhà xe Thành Bưởi](transportation_name) gồm những gì?
+    - [Nhà xe Hùng Cường](transportation_name) có tuyến Sài Gòn - Đà Lạt không?
+    - [Nhà xe Cúc Tư](transportation_name) thường đi đâu?
+    - mình muốn biết [Nhà xe Thiên Thanh](transportation_name) chạy tuyến nào?
+    - các tuyến thường xuyên của [Hoàng Long](transportation_name) là gì?
+    - [Nhà xe An Phát](transportation_name) có đi Hà Nội không?
+    - lịch trình chạy xe của [Tâm Minh Phương](transportation_name) thế nào?
+    - [Futa](transportation_name) đi từ đâu tới đâu?
+    - [Kim Mạnh Hùng](transportation_name) chạy mấy tuyến vậy?
+    - hỏi chút, [Camel Travel](transportation_name) có đi Huế không nhỉ?
+    - [Mai Linh](transportation_name) hay chạy tuyến nào nhất?
+    - lộ trình phổ biến của [Việt Tân Phát](transportation_name) gồm những điểm nào?
+    - [Hải Âu](transportation_name) có tuyến ra Bắc không?
+    - cho mình xin các tuyến của [Thành Bưởi](transportation_name) với
+    - [Hoàng Long](transportation_name) có chạy tuyến đường dài không?
+    - [Nhà xe Hải Âu](transportation_name) chuyên tuyến nào?
+    - [Cúc Mừng](transportation_name) có tuyến Đà Nẵng - Quảng Trị không?
+    - [Nhà xe Tâm Đức](transportation_name) đi Sài Gòn không bạn?
+    - [Vũ Linh](transportation_name) có tuyến HCM đi Nha Trang không?
+    - [Xe Sao Việt](transportation_name) có chạy các tuyến Hà Nội - Lào Cai không?
+    - xin hỏi [Nhà xe An Phát](transportation_name) có tuyến nào đi Tây Nguyên không?
+    - [Nhà xe Camel Travel](transportation_name) có lộ trình đi Phú Quốc không?
+    - [Phương Trang](transportation_name) có tuyến nào ban đêm không?
+    - các tuyến [Nhà xe Thành Bưởi](transportation_name) bao gồm những điểm nào?
+    - [Nhà xe Thiên Thanh](transportation_name) có tuyến nào đi thẳng không cần trung chuyển không?
+    - bạn biết [Nhà xe Mai Linh](transportation_name) có tuyến nào đi Đắk Lắk không?
+    - [Hoàng Long](transportation_name) chạy các tuyến nào phía Bắc?
+    - có thể cho mình biết tuyến chạy của [Nhà xe Tân Hiệp](transportation_name) không?
+    - hỏi lịch trình của [Kim Mạnh Hùng](transportation_name) đi Đà Nẵng
+    - [Camel Travel](transportation_name) hay chạy tuyến nào vậy bạn?
+    - mình cần biết tuyến chính của [Hùng Cường](transportation_name)
+    - [Nhà xe Tâm Đức](transportation_name) chuyên chạy tuyến nào?
+    - [Nhà xe Cúc Tư](transportation_name) có đi Quảng Bình không?
+    - mình đang tìm các tuyến của [Hải Âu](transportation_name)
+    - [Nhà xe Việt Tân Phát](transportation_name) có đi Phan Thiết không?
+    - cho hỏi [Thành Bưởi](transportation_name) có tuyến nào chạy buổi tối không?
+    - [Phương Trang](transportation_name) đi mấy tỉnh vậy?
+    - [Hoàng Long](transportation_name) đi được tới Ninh Bình không?
+    - lộ trình [Nhà xe Thiên Thanh](transportation_name) có ghé Kon Tum không?
+    - mình tìm tuyến của [Nhà xe Cúc Mừng](transportation_name) đi Gia Lai
+    - [Xe Sao Việt](transportation_name) có tuyến Hà Nội - Sapa không?
+    - các tuyến nổi bật của [Nhà xe Hùng Cường](transportation_name) là gì?
+    - [Mai Linh](transportation_name) có đi ban ngày không?
+    - thông tin tuyến xe của [Kim Mạnh Hùng](transportation_name) đi miền Trung?
+    - [Nhà xe Hoàng Long](transportation_name) chuyên đi tuyến nào vậy bạn?
+
 
 # Yêu cầu địa chỉ văn phòng/bến xe của một nhà xe cụ thể tại Đà Nẵng
 # Dựa trên "office"
@@ -405,6 +957,54 @@ nlu:
     - địa chỉ [Vietravel Airlines](transportation_name) tại đà nẵng
     - cho mình hỏi địa chỉ của [Phương Trang](transportation_name) ở đâu
     - [Pacific Airlines](transportation_name) có văn phòng tại đà nẵng không
+    - [Mai Linh](transportation_name) có chi nhánh ở Đà Nẵng không?
+    - mình cần biết địa chỉ văn phòng của [Thành Bưởi](transportation_name) tại đà nẵng
+    - địa điểm bến xe của [Futa](transportation_name) ở Đà Nẵng là chỗ nào?
+    - địa chỉ cụ thể của [Hùng Cường](transportation_name) tại Đà Nẵng là gì?
+    - [Kim Mạnh Hùng](transportation_name) đặt văn phòng ở đâu vậy bạn?
+    - [Camel Travel](transportation_name) có trụ sở tại đà nẵng không?
+    - có thể cho mình biết văn phòng [Cúc Tư](transportation_name) ở đà nẵng nằm đâu không?
+    - bến xe của [Nhà xe Tâm Đức](transportation_name) tại Đà Nẵng nằm ở chỗ nào?
+    - [Nhà xe Thiên Thanh](transportation_name) có chi nhánh ở trung tâm thành phố không?
+    - hỏi địa chỉ [Nhà xe Tân Hiệp](transportation_name) ở đà nẵng nha
+    - [Nhà xe Hải Âu](transportation_name) có điểm đón nào ở đà nẵng không?
+    - cho mình xin địa chỉ văn phòng của [Hoàng Long](transportation_name) tại đà nẵng với
+    - bạn có biết [An Phát](transportation_name) có văn phòng tại đà nẵng không?
+    - [Nhà xe Cúc Mừng](transportation_name) có địa chỉ ở quận nào đà nẵng vậy?
+    - [Vũ Linh](transportation_name) đón khách ở đâu tại đà nẵng?
+    - văn phòng [Sao Việt](transportation_name) ở Đà Nẵng nằm chỗ nào vậy bạn?
+    - [Vietjet Air](transportation_name) có văn phòng tại sân bay đà nẵng không?
+    - cho hỏi [Bamboo Airways](transportation_name) có văn phòng ở trung tâm đà nẵng không?
+    - [Jetstar Pacific](transportation_name) đặt văn phòng ở đâu tại đà nẵng?
+    - trụ sở [Vietnam Airlines](transportation_name) ở đà nẵng nằm ở đường nào?
+    - chỗ làm việc của [Phương Trang](transportation_name) tại đà nẵng là ở đâu thế?
+    - địa chỉ liên hệ của [Nhà xe Cúc Tư](transportation_name) ở đà nẵng là gì?
+    - [Futa Bus Lines](transportation_name) có điểm bán vé nào tại đà nẵng không?
+    - cho em xin địa chỉ phòng vé [Thành Bưởi](transportation_name) tại đà nẵng
+    - [Mai Linh Express](transportation_name) ở đà nẵng có trạm nào không?
+    - chỗ đón khách của [Nhà xe Thiên Thanh](transportation_name) tại đà nẵng ở đâu?
+    - địa chỉ văn phòng chính của [Tâm Minh Phương](transportation_name) tại đà nẵng là gì?
+    - [Pacific Airlines](transportation_name) có văn phòng đại diện ở đà nẵng chứ?
+    - muốn biết địa chỉ [Camel Travel](transportation_name) đà nẵng
+    - bạn biết [Hải Âu](transportation_name) có điểm bán vé ở đà nẵng không?
+    - văn phòng đặt vé của [Kim Mạnh Hùng](transportation_name) tại đà nẵng nằm ở đâu?
+    - [Nhà xe An Phát](transportation_name) có văn phòng ở gần sân bay đà nẵng không?
+    - văn phòng [Cúc Mừng](transportation_name) nằm ở đâu tại đà nẵng?
+    - [Hoàng Long](transportation_name) có làm việc tại đà nẵng không?
+    - địa chỉ đặt vé của [Nhà xe Việt Tân Phát](transportation_name) tại đà nẵng là?
+    - [Bamboo Airways](transportation_name) tại đà nẵng có địa chỉ không?
+    - em muốn hỏi địa chỉ [Vietravel Airlines](transportation_name) tại đà nẵng
+    - [Vietnam Airlines](transportation_name) có chi nhánh tại đà nẵng không?
+    - văn phòng đại diện của [Jetstar Pacific](transportation_name) ở đà nẵng
+    - [Nhà xe Đình Nhân](transportation_name) có văn phòng gần trung tâm thành phố không?
+    - [Nhà xe Tâm Đức](transportation_name) ở đâu tại Đà Nẵng vậy?
+    - địa điểm văn phòng của [Phương Trang](transportation_name) tại đà nẵng là gì?
+    - văn phòng [Thành Bưởi](transportation_name) ở đà nẵng mở cửa mấy giờ?
+    - hỏi địa chỉ chi nhánh [Hùng Cường](transportation_name) ở đà nẵng
+    - [Nhà xe Mai Linh](transportation_name) có văn phòng gần bến xe trung tâm không?
+    - địa chỉ đặt vé của [Sao Việt](transportation_name) tại Đà Nẵng là chỗ nào?
+    - [Futa](transportation_name) có điểm giao dịch ở đà nẵng không?
+
 
 # Yêu cầu số điện thoại hotline của một nhà xe cụ thể
 # Dựa trên "hotline"
@@ -413,7 +1013,333 @@ nlu:
     - số điện thoại của [Vietnam Airlines](transportation_name)
     - hotline [Vietjet Air](transportation_name) là bao nhiêu
     - liên hệ với [Bamboo Airways](transportation_name) thế nào
+    - mình cần số liên lạc của [Phương Trang](transportation_name)
+    - cho mình xin hotline của [Thành Bưởi](transportation_name)
+    - số hotline của [Mai Linh](transportation_name) là gì?
+    - muốn hỏi [Camel Travel](transportation_name) thì gọi số nào?
+    - số tổng đài [Hoàng Long](transportation_name) là mấy?
+    - liên hệ [Kim Mạnh Hùng](transportation_name) qua số nào vậy?
+    - cần gọi [Futa](transportation_name) thì gọi số mấy?
+    - số gọi đặt vé của [Hải Âu](transportation_name) là gì?
+    - [Cúc Tư](transportation_name) có số điện thoại không?
+    - hotline [Nhà xe Cúc Mừng](transportation_name) là bao nhiêu?
+    - mình muốn hỏi vé [An Phát](transportation_name), số điện thoại là gì?
+    - liên lạc với [Hùng Cường](transportation_name) qua đâu?
+    - mình muốn gọi [Tâm Đức](transportation_name), số mấy vậy?
+    - hotline [Sao Việt](transportation_name) có không?
+    - số điện thoại đặt vé của [Jetstar Pacific](transportation_name) là gì?
+    - tổng đài hỗ trợ của [Pacific Airlines](transportation_name) là bao nhiêu?
+    - [Bamboo Airways](transportation_name) có số hotline không?
+    - [Nhà xe Việt Tân Phát](transportation_name) có số điện thoại không bạn?
+    - muốn gọi [Thiên Thanh](transportation_name) thì số nào vậy?
+    - liên hệ nhanh với [Đình Nhân](transportation_name) qua đâu?
+    - bạn có số [Tân Hiệp](transportation_name) không?
+    - gọi [Futa Bus Lines](transportation_name) thì bấm số nào?
+    - số điện thoại [Mai Linh Express](transportation_name) ở Đà Nẵng là bao nhiêu?
+    - hotline của [Vietravel Airlines](transportation_name) là gì?
+    - liên hệ [Nhà xe Tâm Minh Phương](transportation_name) như thế nào?
+    - tổng đài đặt vé của [Phương Trang](transportation_name) là số nào?
+    - hỏi hotline [Nhà xe An Phát](transportation_name) với
+    - có số điện thoại của [Nhà xe Thành Bưởi](transportation_name) không?
+    - liên hệ [Hoàng Long](transportation_name) thì gọi mấy giờ cũng được không?
+    - hotline 24/7 của [Vietnam Airlines](transportation_name) là gì?
+    - cho mình xin số tổng đài [Vietjet Air](transportation_name)
+    - số điện thoại CSKH của [Futa](transportation_name) là gì?
+    - [Bamboo Airways](transportation_name) có hỗ trợ qua điện thoại không?
+    - mình cần gọi [Sao Việt](transportation_name) đặt vé
+    - có số [Camel Travel](transportation_name) không bạn ơi?
+    - cho hỏi tổng đài của [Cúc Tư](transportation_name) là bao nhiêu?
+    - muốn hỏi vé gấp [Hải Âu](transportation_name), số điện thoại là gì?
+    - liên hệ với [Kim Mạnh Hùng](transportation_name) bằng cách nào?
+    - hotline chăm sóc khách hàng của [Thành Bưởi](transportation_name) là gì?
+    - mình có thể gọi cho [Jetstar Pacific](transportation_name) được không?
+    - số điện thoại [Nhà xe Thiên Thanh](transportation_name) ở Đà Nẵng là số nào?
+    - [Nhà xe Tâm Đức](transportation_name) có hỗ trợ khách qua hotline không?
+    - mình gọi mãi không được [Nhà xe Tân Hiệp](transportation_name), bạn có số mới không?
+    - [Vietravel Airlines](transportation_name) tổng đài hoạt động giờ nào?
+    - hotline của [An Phát](transportation_name) có hỗ trợ Zalo không?
+    - có thể gọi [Đình Nhân](transportation_name) vào cuối tuần không?
+    - [Vietnam Airlines](transportation_name) có tổng đài tiếng Việt không?
 
+
+# Yêu cầu chi phí của chuyến đi
+
+# Dựa trên nhóm người.
+- intent: ask_travel_expenses_by_group
+  examples: |
+    - Chi phí du lịch cho [Một mình](expenses_composition) là bao nhiêu?
+    - Chi phí du lịch cho [1 mình]{"entity": "expenses_composition", "value": "Một mình"} là bao nhiêu?
+    - Đi du lịch [Cặp đôi](expenses_composition) thì hết bao nhiêu tiền?
+    - Chi phí cho [Gia đình 4 người](expenses_composition) là bao nhiêu?
+    - Đi chơi với [Nhóm bạn 3 người](expenses_composition) thì tốn bao nhiêu?
+    - Giá du lịch cho [Một mình](expenses_composition) là bao nhiêu?
+    - Giá du lịch cho [1 mình]{"entity": "expenses_composition", "value": "Một mình"} là bao nhiêu?
+    - Bạn có thể cho mình biết chi phí cho [Gia đình 2 người lớn 2 trẻ em](expenses_composition) không?
+    - Đi chơi với [Nhóm bạn 5 người](expenses_composition) thì hết bao nhiêu?
+    - Chi phí cho nhóm [Cặp đôi](expenses_composition) là bao nhiêu?
+    - Mình muốn biết giá du lịch cho [Một mình](expenses_composition).
+    - Mình muốn biết giá du lịch cho [1 mình]{"entity": "expenses_composition", "value": "Một mình"}.
+    - Chi phí du lịch cho nhóm [Gia đình 3 người](expenses_composition) là bao nhiêu?
+    - Đi du lịch với [Nhóm bạn 4 người](expenses_composition) thì giá bao nhiêu?
+    - Giá tour cho [Cặp đôi](expenses_composition) là bao nhiêu?
+    - Chi phí cho nhóm [Gia đình 2 người lớn 1 trẻ em](expenses_composition) là bao nhiêu?
+    - Đi chơi với [Một mình](expenses_composition) thì tốn bao nhiêu tiền?
+    - Đi chơi với [1 mình]{"entity": "expenses_composition", "value": "Một mình"} thì tốn bao nhiêu tiền?
+    - Chi phí du lịch cho nhóm [Nhóm bạn 6 người](expenses_composition) là bao nhiêu?
+    - Một chuyến đi cho [Gia đình 2 người lớn](expenses_composition) sẽ mất khoảng bao nhiêu?
+    - Giá đi chơi với [Nhóm bạn 2 người](expenses_composition) như nào?
+    - Giá ước tính cho một chuyến đi của [Gia đình 2 người](expenses_composition)?
+    - Đi với [Cặp đôi](expenses_composition) thì nên chuẩn bị bao nhiêu?
+    - Tính giúp mình chi phí đi chơi nhóm [Nhóm bạn 3 người](expenses_composition) với.
+    - Chi phí đi du lịch nhóm bạn [Nhóm bạn 5 người](expenses_composition) là bao nhiêu?
+    - Có giá tour cho [Một mình](expenses_composition) không?
+    - Có giá tour cho [1 mình]{"entity": "expenses_composition", "value": "Một mình"} không?
+    - Nếu đi cùng [Cặp đôi](expenses_composition) thì hết khoảng bao nhiêu?
+    - Cần tư vấn chi phí cho nhóm [Nhóm bạn 6 người](expenses_composition) đi du lịch.
+    - Đi chơi cùng [Gia đình 4 người](expenses_composition) thì giá thế nào?
+    - Dẫn [Nhóm bạn 4 người](expenses_composition) đi chơi thì bao nhiêu tiền?
+    - Ước tính chi phí nếu đi cùng [Nhóm bạn 6 người](expenses_composition)?
+    - Bao nhiêu tiền nếu mình đi với [Gia đình 2 người lớn 1 trẻ em](expenses_composition)?
+    - [Cặp đôi](expenses_composition) đi du lịch hết nhiêu tiền hả bạn?
+    - Đi nhóm bạn [Nhóm bạn 3 người](expenses_composition), mỗi người tốn bao nhiêu?
+    - Bạn ơi, cho mình biết chi phí nếu đi nhóm [Nhóm bạn 5 người](expenses_composition) với nha.
+    - Nếu mình dẫn cả nhà [Gia đình 4 người](expenses_composition) đi thì cần bao nhiêu tiền?
+    - Đi cùng [Cặp đôi](expenses_composition) thì hết bao nhiêu nhỉ?
+    - Du lịch nhóm [Nhóm bạn 4 người](expenses_composition) có đắt không?
+    - Cho hỏi tour cho gia đình [Gia đình 3 người](expenses_composition) giá bao nhiêu?
+    - Đi với nhóm bạn [Nhóm bạn 6 người](expenses_composition) cần chuẩn bị bao nhiêu chi phí?
+    - Mình định đi cùng [Gia đình 3 người](expenses_composition), giá tour tầm bao nhiêu?
+    - [Nhóm bạn 5 người](expenses_composition) muốn book tour, chi phí cỡ nào?
+    - Tour cho [Cặp đôi](expenses_composition) có giá cụ thể không?
+    - Tư vấn chi phí du lịch nhóm [Gia đình 2 người lớn](expenses_composition) giúp mình nha.
+    - Đi chơi [Nhóm bạn 3 người](expenses_composition) thì budget mỗi người bao nhiêu?
+    - Bạn có bảng giá cho nhóm [Nhóm bạn 2 người](expenses_composition) không?
+    - Gợi ý chi phí du lịch cho [Gia đình 4 người](expenses_composition) với nha.
+
+
+
+# Dựa vào thời điểm
+# Intent
+- intent: ask_travel_expenses_by_time
+  examples: |
+    - Chi phí du lịch vào [Mùa cao điểm](time) là bao nhiêu?
+    - Đi chơi vào [Mùa thấp điểm](time) thì hết bao nhiêu tiền?
+    - Giá du lịch trong [Mùa thường](time) là bao nhiêu?
+    - Chi phí du lịch mùa [Mùa cao điểm](time) cho gia đình là bao nhiêu?
+    - Bạn có thể cho mình biết giá du lịch vào [Mùa thấp điểm](time) không?
+    - Đi du lịch vào [Mùa thường](time) thì giá thế nào?
+    - Chi phí cho chuyến đi vào [Mùa cao điểm](time) là bao nhiêu?
+    - Giá tour vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Mình muốn biết giá du lịch vào [Mùa thường](time).
+    - Đi chơi vào [Mùa cao điểm](time) thì tốn bao nhiêu tiền?
+    - Chi phí du lịch vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Giá du lịch vào [Mùa thường](time) là bao nhiêu?
+    - Du lịch [Mùa cao điểm](time) có đắt không?
+    - Mình định đi chơi vào [Mùa thấp điểm](time), giá có rẻ hơn không?
+    - Ước tính chi phí vào [Mùa thường](time) giúp mình nha.
+    - Nếu mình đi vào [Mùa cao điểm](time) thì nên chuẩn bị bao nhiêu?
+    - [Mùa thấp điểm](time) có khuyến mãi gì không? Chi phí thế nào?
+    - Đi du lịch vào [Mùa thường](time) thì tốn nhiều không?
+    - Cho mình hỏi giá tour [Mùa cao điểm](time)?
+    - Đi chơi trong [Mùa thấp điểm](time) thì có lợi hơn không?
+    - Nếu book tour vào [Mùa thường](time) thì giá sẽ như thế nào?
+    - Mùa nào đi chơi rẻ nhất? [Mùa thấp điểm](time) đúng không?
+    - Giá mùa [Mùa cao điểm](time) có khác nhiều không?
+    - Tính giúp mình chi phí nếu đi vào [Mùa thấp điểm](time) nhé.
+    - Tour mùa [Mùa thường](time) có ổn không? Giá sao?
+    - Đi vào [Mùa cao điểm](time), tour có tăng giá không?
+    - Mình nên đi vào [Mùa thấp điểm](time) để tiết kiệm chi phí đúng không?
+    - Nếu đi mùa [Mùa thường](time) thì giá có chênh lệch nhiều không?
+    - Giai đoạn [Mùa cao điểm](time) thì tour có khuyến mãi gì không?
+    - Đi chơi [Mùa thấp điểm](time) có tiết kiệm được nhiều không?
+    - [Mùa thường](time) có tour nào ổn với giá tốt không?
+    - Du lịch vào [Mùa cao điểm](time) có nên không? Chi phí sao?
+    - Đi [Mùa thấp điểm](time) thì giá rẻ hơn bao nhiêu?
+    - Giá vé máy bay vào [Mùa cao điểm](time) thế nào?
+    - Đặt phòng khách sạn [Mùa thấp điểm](time) có rẻ không?
+    - Chi phí combo du lịch vào [Mùa thường](time)?
+    - Đi [Mùa cao điểm](time) cần chuẩn bị bao nhiêu tiền?
+    - Giá tour mùa [Mùa thấp điểm](time) có ưu đãi gì không?
+    - Tour lễ vào [Mùa cao điểm](time) có bị tăng giá không?
+    - Đi chơi [Mùa thường](time) có cần đặt trước không? Chi phí bao nhiêu?
+    - Chi phí tour mùa [Mùa cao điểm](time) so với mùa khác như thế nào?
+    - Tour vào [Mùa thấp điểm](time) thì có ít người hơn không?
+    - Bạn gợi ý mình thời điểm đi chơi giá rẻ với nha, chắc là [Mùa thấp điểm](time)?
+    - Mình muốn biết chi phí tour tháng 7, là [Mùa cao điểm](time) đúng không?
+    - Có nên đi vào [Mùa thường](time) để tránh chen chúc không?
+    - Chi phí đi [Mùa thấp điểm](time) cho 2 người là bao nhiêu?
+    - Tour theo nhóm vào [Mùa cao điểm](time) có đắt không?
+    - Đi chơi thời gian [Mùa thấp điểm](time) có ưu đãi nào không?
+    - Tư vấn tour mùa [Mùa thường](time) giá tốt giúp mình nha.
+    - Đi [Mùa cao điểm](time) chắc đông lắm, nhưng giá có ổn không?
+    - Đi chơi mùa nào giá rẻ nhất? Chắc là [Mùa thấp điểm](time) rồi.
+
+
+# Dựa vào thời gian đi
+# intent
+- intent: ask_travel_expenses_by_duration
+  examples: |
+    - Chi phí du lịch trong [2 ngày 1 đêm](number_of_days) là bao nhiêu?
+    - Đi chơi [1 tuần](number_of_days) thì hết bao nhiêu tiền?
+    - Giá du lịch trong [3 ngày 2 đêm](number_of_days) là bao nhiêu?
+    - Chi phí cho chuyến đi [4 ngày 3 đêm](number_of_days) là bao nhiêu?
+    - Bạn có thể cho mình biết giá du lịch trong [1 tháng](number_of_days) không?
+    - Đi du lịch [2 tuần](number_of_days) thì giá thế nào?
+    - Chi phí cho chuyến đi kéo dài [1 tuần](number_of_days) là bao nhiêu?
+    - Giá tour kéo dài [3 ngày 2 đêm](number_of_days) là bao nhiêu?
+    - Mình muốn biết giá du lịch trong [2 ngày 1 đêm](number_of_days).
+    - Đi chơi [1 tháng](number_of_days) thì tốn bao nhiêu tiền?
+    - Chi phí du lịch kéo dài [4 ngày 3 đêm](number_of_days) là bao nhiêu?
+    - Giá du lịch kéo dài [2 tuần](number_of_days) là bao nhiêu?
+    - Đi tour [5 ngày 4 đêm](number_of_days) thì chi phí thế nào?
+    - Mình định đi chơi [6 ngày 5 đêm](number_of_days), giá tour bao nhiêu?
+    - Giá đi du lịch trong [3 ngày](number_of_days) là bao nhiêu?
+    - Nếu đi [2 ngày 1 đêm](number_of_days) thì cần bao nhiêu tiền?
+    - Đi du lịch khoảng [1 tuần](number_of_days) thì nên chuẩn bị bao nhiêu?
+    - Du lịch trong [1 tháng](number_of_days) thì ngân sách bao nhiêu là đủ?
+    - Combo tour [3 ngày 2 đêm](number_of_days) giá thế nào?
+    - Gói du lịch [4 ngày 3 đêm](number_of_days) bao nhiêu tiền?
+    - Có tour nào cho [1 tuần](number_of_days) không? Chi phí bao nhiêu?
+    - Mình muốn đi chơi [1 tháng](number_of_days), cần chuẩn bị tài chính ra sao?
+    - Gói đi chơi [2 tuần](number_of_days) tốn bao nhiêu vậy?
+    - Đi [3 ngày](number_of_days) có gói tiết kiệm nào không?
+    - Tour [5 ngày 4 đêm](number_of_days) giá ra sao?
+    - Tư vấn giúp mình chi phí đi [1 tuần](number_of_days).
+    - Nếu mình đi [2 tháng](number_of_days) thì chi phí cao không?
+    - Gói nghỉ dưỡng [7 ngày](number_of_days) giá bao nhiêu?
+    - Mình muốn đặt tour [2 ngày 1 đêm](number_of_days), giá bao nhiêu?
+    - Chi phí du lịch dài ngày, ví dụ [1 tháng](number_of_days) thì thế nào?
+    - Tour trải nghiệm [4 ngày 3 đêm](number_of_days) chi phí bao nhiêu?
+    - Đi [10 ngày](number_of_days) thì nên mang bao nhiêu tiền?
+    - Chi phí trung bình cho [2 tuần](number_of_days) là bao nhiêu?
+    - Bạn có bảng giá tour theo thời gian không? Ví dụ [3 ngày 2 đêm](number_of_days)?
+    - Đi [1 tuần](number_of_days) với ngân sách hạn chế thì có được không?
+    - [2 tuần](number_of_days) có tour nào trọn gói dưới 10 triệu không?
+    - Đi phượt [3 ngày](number_of_days) thì khoảng bao nhiêu là đủ?
+    - Giá tour nghỉ dưỡng [1 tháng](number_of_days) hiện tại là bao nhiêu?
+    - Có tour nào chỉ đi [cuối tuần](number_of_days) không? Giá thế nào?
+    - Combo tour [thứ 7 - CN](number_of_days) có rẻ không?
+    - Đi [nửa tháng](number_of_days) thì tổng chi phí khoảng bao nhiêu?
+    - Mình cần thông tin tour dài [1 tuần](number_of_days) cho 2 người.
+    - Nếu chỉ đi [2 ngày](number_of_days), có tour tiết kiệm nào không?
+    - Mức giá cho tour [3 ngày 2 đêm](number_of_days) là bao nhiêu hiện tại?
+    - Du lịch dài [2 tuần](number_of_days) có nên không? Chi phí cao không?
+    - Đi chơi dài [4 ngày 3 đêm](number_of_days) có ổn không? Tốn nhiêu?
+    - Tư vấn tour hợp lý trong [1 tháng](number_of_days) giúp mình.
+    - Giá tour [1 tuần](number_of_days) cho cặp đôi hiện là bao nhiêu?
+    - Đi dài ngày như [3 tuần](number_of_days) có tour không?
+    - Mình định đi [5 ngày 4 đêm](number_of_days), bạn tư vấn chi phí nha.
+    - Bao nhiêu tiền cho chuyến đi [2 tuần](number_of_days) ở miền Trung?
+
+
+# Dựa vào loại tour
+# intent
+- intent: ask_travel_expenses_by_tour_type
+  examples: |
+    - Chi phí cho tour [Tiết kiệm/Trung bình](type_of_tour) là bao nhiêu?
+    - Chi phí cho tour [tiết kiệm]{"entity": "type_of_tour", "value": "Tiết kiệm/Trung bình"} là bao nhiêu?
+    - Chi phí cho tour [trung bình]{"entity": "type_of_tour", "value": "Trung bình"} là bao nhiêu?
+    - Giá tour [Cao cấp/Sang trọng](type_of_tour) là bao nhiêu?
+    - Giá tour [cao cấp]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} là bao nhiêu?
+    - Giá tour [vip]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} là bao nhiêu?
+    - Giá tour [sang trọng]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} là bao nhiêu?
+    - Đi tour [Giá rẻ/Bình dân](type_of_tour) thì hết bao nhiêu tiền?
+    - Đi tour [giá rẻ]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} thì hết bao nhiêu tiền?
+    - Đi tour [giá sinh viên]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} thì hết bao nhiêu tiền?
+    - Đi tour [giá bình dân]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} thì hết bao nhiêu tiền?
+    - Mình muốn biết giá tour [Tiết kiệm/Trung bình](type_of_tour).
+    - Mình muốn biết giá tour [tiết kiệm]{"entity": "type_of_tour", "value": "Tiết kiệm/Trung bình"}.
+    - Mình muốn biết giá tour [trung bình]{"entity": "type_of_tour", "value": "Trung bình"}.
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có giá bao nhiêu?
+    - Tour [cao cấp]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} có giá bao nhiêu?
+    - Tour [vip]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} có giá bao nhiêu?
+    - Tour [sang trọng]{"entity": "type_of_tour", "value": "Cao cấp/Sang trọng"} có giá bao nhiêu?
+    - Chi phí cho tour [Giá rẻ/Bình dân](type_of_tour) là bao nhiêu?
+    - Chi phí cho tour [giá rẻ]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} là bao nhiêu?
+    - Chi phí cho tour [giá sinh viên]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} là bao nhiêu?
+    - Chi phí cho tour [giá bình dân]{"entity": "type_of_tour", "value": "Giá rẻ/Bình dân"} là bao nhiêu?
+    - Giá tour [Tiết kiệm/Trung bình](type_of_tour) là bao nhiêu?
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có giá thế nào?
+    - Mình muốn hỏi chi phí tour [Giá rẻ/Bình dân](type_of_tour).
+    - Có gói tour nào [Tiết kiệm/Trung bình](type_of_tour) không? Giá bao nhiêu?
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có dịch vụ gì và giá thế nào?
+    - Gói tour [Giá rẻ/Bình dân](type_of_tour) phù hợp sinh viên không? Giá sao?
+    - Mình cần thông tin về tour [Tiết kiệm/Trung bình](type_of_tour), giá rổ thế nào?
+    - Mức giá tour [Cao cấp/Sang trọng](type_of_tour) là bao nhiêu vậy bạn?
+    - Giá tour loại [Giá rẻ/Bình dân](type_of_tour) hiện nay bao nhiêu?
+    - Tour du lịch [Tiết kiệm/Trung bình](type_of_tour) dành cho 2 người giá bao nhiêu?
+    - Mình muốn book tour [Cao cấp/Sang trọng](type_of_tour), cần ngân sách bao nhiêu?
+    - Đi chơi kiểu [Giá rẻ/Bình dân](type_of_tour) thì nên chuẩn bị bao nhiêu tiền?
+    - Chi phí trung bình cho tour [Tiết kiệm/Trung bình](type_of_tour) là bao nhiêu?
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có bao gồm khách sạn 5 sao không? Giá thế nào?
+    - Bạn có thể tư vấn tour [Giá rẻ/Bình dân](type_of_tour) với chi phí thấp nhất không?
+    - Có combo tour nào [Tiết kiệm/Trung bình](type_of_tour) giá dưới 3 triệu không?
+    - Mình đang tìm tour [Cao cấp/Sang trọng](type_of_tour), giá khoảng bao nhiêu?
+    - Gói [Giá rẻ/Bình dân](type_of_tour) có hợp cho sinh viên không?
+    - Cho mình bảng giá tour các loại: [Giá rẻ](type_of_tour), [Trung bình](type_of_tour), [Cao cấp](type_of_tour).
+    - Tour loại [Tiết kiệm/Trung bình](type_of_tour) bao gồm những gì và giá thế nào?
+    - Có tour [Cao cấp/Sang trọng](type_of_tour) nào đi biển không? Giá bao nhiêu?
+    - Giá tour đi Đà Lạt theo gói [Giá rẻ/Bình dân](type_of_tour) là bao nhiêu?
+    - Tour miền Trung loại [Cao cấp/Sang trọng](type_of_tour) giá sao?
+    - Đi chơi với ngân sách hạn chế thì nên chọn tour loại nào? Có [Tiết kiệm/Trung bình](type_of_tour) không?
+    - Tour nào đang giảm giá cho gói [Giá rẻ/Bình dân](type_of_tour)?
+    - Mình thích trải nghiệm cao cấp, có tour [Cao cấp/Sang trọng](type_of_tour) nào không?
+    - Mình muốn tiết kiệm chi phí, tour [Giá rẻ/Bình dân](type_of_tour) nào đáng chọn?
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có bao gồm xe riêng không?
+    - Gói tour [Giá rẻ/Bình dân](type_of_tour) đi Phú Quốc giá hiện tại là bao nhiêu?
+    - Giá tour loại [Tiết kiệm/Trung bình](type_of_tour) có thay đổi theo mùa không?
+    - Có tour nào dạng [Giá rẻ/Bình dân](type_of_tour) đi 3 ngày 2 đêm không?
+    - Đi chơi cho vui, gói [Tiết kiệm](type_of_tour) là lựa chọn ổn đúng không?
+    - Tour [Cao cấp/Sang trọng](type_of_tour) có bao gồm ăn 5 sao không?
+    - Mình muốn tìm tour [Giá rẻ/Bình dân](type_of_tour) đi Huế 2 ngày, giá khoảng nhiêu?
+    - Nếu chọn tour [Trung bình](type_of_tour) thì chi phí bao nhiêu cho 2 người?
+    - Chi phí tour [Cao cấp/Sang trọng](type_of_tour) có đáng không?
+    - Bạn có danh sách tour loại [Giá rẻ/Bình dân](type_of_tour) đang khuyến mãi không?
+    - Tour [Tiết kiệm/Trung bình](type_of_tour) phù hợp với nhóm bạn trẻ không?
+    - Mình quan tâm đến dịch vụ tour [Cao cấp/Sang trọng](type_of_tour), có gì đặc biệt?
+    - Tour [Giá rẻ/Bình dân](type_of_tour) có bao gồm vé máy bay không?
+    - Có tour [Trung bình](type_of_tour) nào cho gia đình 4 người không?
+    - Tư vấn cho mình tour [Tiết kiệm](type_of_tour) đi trong nước nha.
+    - Giá tour [Cao cấp/Sang trọng](type_of_tour) có bao gồm hướng dẫn viên không?
+    - Nếu đi kiểu backpacker thì chọn tour nào? [Giá rẻ/Bình dân](type_of_tour) đúng không?
+
+
+# Dựa vào nhiều yếu tố
+- intent: ask_travel_expenses_combined
+  examples: |
+    - Chi phí du lịch cho [Cặp đôi](expenses_composition) vào [Mùa cao điểm](time) là bao nhiêu?
+    - Đi [3 ngày 2 đêm](number_of_days) với tour [Tiết kiệm/Trung bình](type_of_tour) thì hết bao nhiêu tiền?
+    - Giá du lịch cho [Gia đình 4 người](expenses_composition) vào [Mùa thường](time) là bao nhiêu?
+    - Đi tour [Cao cấp/Sang trọng](type_of_tour) trong [1 tuần](number_of_days) thì tốn bao nhiêu?
+    - Chi phí cho [Nhóm bạn 5 người](expenses_composition) vào [Mùa thấp điểm](time) kéo dài [2 tuần](number_of_days) là bao nhiêu?
+    - Giá tour [Giá rẻ/Bình dân](type_of_tour) cho [Một mình](expenses_composition) ?
+    - Giá tour [Giá rẻ/Bình dân](type_of_tour) cho [Một mình](expenses_composition) vào [Mùa cao điểm](time) là bao nhiêu?
+    - Mình muốn biết chi phí du lịch cho [Gia đình 3 người](expenses_composition) kéo dài [4 ngày 3 đêm](number_of_days) vào [Mùa thường](time).
+    - Đi chơi với [Nhóm bạn 6 người](expenses_composition) vào [Mùa thấp điểm](time) thì giá thế nào?
+    - Chi phí du lịch cho [Cặp đôi](expenses_composition) kéo dài [1 tháng](number_of_days) vào [Mùa cao điểm](time) là bao nhiêu?
+    - Giá tour [Tiết kiệm/Trung bình](type_of_tour) cho [Một mình](expenses_composition) vào [Mùa thường](time) kéo dài [2 ngày 1 đêm](number_of_days) là bao nhiêu?
+    - Mình muốn biết giá cho tour [Giá rẻ/Bình dân](type_of_tour) cho [Gia đình 4 người](expenses_composition) vào [Mùa cao điểm](time).
+    - Chi phí du lịch cho [Cặp đôi](expenses_composition) kéo dài [5 ngày 4 đêm](number_of_days) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Đi tour [Cao cấp/Sang trọng](type_of_tour) với [Nhóm bạn 6 người](expenses_composition) vào [Mùa cao điểm](time) thì hết bao nhiêu?
+    - Chi phí du lịch cho [Gia đình 2 người lớn 2 trẻ em](expenses_composition) kéo dài [3 ngày 2 đêm](number_of_days) vào [Mùa thường](time) là bao nhiêu?
+    - Giá tour [Tiết kiệm/Trung bình](type_of_tour) cho [Nhóm bạn 4 người](expenses_composition) vào [Mùa cao điểm](time) kéo dài [1 tuần](number_of_days) là bao nhiêu?
+    - Chi phí cho tour [Giá rẻ/Bình dân](type_of_tour) cho [Cặp đôi](expenses_composition) trong [2 tuần](number_of_days) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Mình muốn biết giá du lịch cho [Nhóm bạn 5 người](expenses_composition) kéo dài [4 ngày 3 đêm](number_of_days) vào [Mùa thường](time).
+    - Đi chơi với [Gia đình 3 người](expenses_composition) vào [Mùa cao điểm](time) trong [5 ngày 4 đêm](number_of_days) thì hết bao nhiêu?
+    - Giá tour [Cao cấp/Sang trọng](type_of_tour) cho [Gia đình 4 người](expenses_composition) kéo dài [1 tháng](number_of_days) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Chi phí du lịch cho [Cặp đôi](expenses_composition) kéo dài [1 tuần](number_of_days) vào [Mùa thường](time) là bao nhiêu?
+    - Giá tour [Tiết kiệm/Trung bình](type_of_tour) cho [Nhóm bạn 4 người](expenses_composition) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Chi phí cho chuyến đi [3 ngày 2 đêm](number_of_days) cho [Gia đình 4 người](expenses_composition) vào [Mùa cao điểm](time) là bao nhiêu?
+    - Tour [Giá rẻ/Bình dân](type_of_tour) cho [Cặp đôi](expenses_composition) kéo dài [2 ngày 1 đêm](number_of_days) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Mình muốn biết chi phí cho [Nhóm bạn 6 người](expenses_composition) vào [Mùa cao điểm](time) kéo dài [3 ngày 2 đêm](number_of_days).
+    - Giá tour [Cao cấp/Sang trọng](type_of_tour) cho [Gia đình 3 người](expenses_composition) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Đi tour [Giá rẻ/Bình dân](type_of_tour) trong [1 tuần](number_of_days) cho [Nhóm bạn 5 người](expenses_composition) vào [Mùa thường](time) thì hết bao nhiêu?
+    - Chi phí du lịch cho [Cặp đôi](expenses_composition) kéo dài [6 ngày 5 đêm](number_of_days) vào [Mùa thấp điểm](time) là bao nhiêu?
+    - Giá tour [Tiết kiệm/Trung bình](type_of_tour) cho [Gia đình 2 người lớn 1 trẻ em](expenses_composition) vào [Mùa cao điểm](time) là bao nhiêu?
+    - [Cặp đôi](expenses_composition)
+    - [3 ngày 2 đêm](number_of_days)
+    - [Cao cấp/Sang trọng](type_of_tour)
+    - [Mùa thấp điểm](time)
 # lookups
 - lookup: food_name
   examples: |
@@ -430,4 +1356,23 @@ nlu:
 - lookup: transportation_name
   examples: |
     - lookups/transportation.txt
+
+- lookup: expenses_composition
+  examples: |
+    - lookups/cleaned_travel.txt
+
+- lookup: time
+  examples: |
+    - lookups/time.txt
+
+- lookup: number_of_days
+  examples: |
+    - lookups/number_of_days.txt
+
+- lookup: type_of_tour
+  examples: |
+    - Cao cấp/Sang trọng
+    - Tiết kiệm/Trung bình
+    - Giá rẻ/Bình dân
+
 

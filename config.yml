@@ -15,8 +15,9 @@ pipeline:
   - name: RegexFeaturizer
   - name: CountVectorsFeaturizer
   - name: DIETClassifier
+    constrain_similarities: true
     epochs: 100
-  - name: CRFEntityExtractor
+  # - name: CRFEntityExtractor
 
 # # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.
 # # If you'd like to customize it, uncomment and adjust the pipeline.
