@@ -137,6 +137,11 @@ responses:
     - text: "Xin chào! Mình là trợ lý ảo về du lịch Đà Nẵng. Bạn có kế hoạch gì cho chuyến đi sắp tới không?"
     - text: "Chào mừng bạn! Mình sẽ giúp bạn khám phá thành phố Đà Nẵng xinh đẹp. Bạn muốn biết thông tin gì nào?"
     - text: "Xin chào! Đà Nẵng đang chờ bạn khám phá. Mình có thể giúp gì cho bạn hôm nay?"
+    - text: "Xin chào! Mình là người bạn đồng hành ảo của bạn tại Đà Nẵng. Bạn cần thông tin gì cho chuyến đi sắp tới?"
+    - text: "Chào bạn! Chào mừng đến với Đà Nẵng - thành phố đáng sống! Mình có thể giúp bạn tìm hiểu về gì hôm nay?"
+    - text: "Xin chào! Bạn đang lên kế hoạch khám phá Đà Nẵng ư? Hãy cho mình biết điều bạn quan tâm nhé!"
+    - text: "Chào mừng bạn đã ghé thăm! Mình là chatbot chuyên về du lịch Đà Nẵng. Bạn có câu hỏi nào cho mình không?"
+    - text: "Xin chào! Thành phố biển Đà Nẵng xinh đẹp đang chờ bạn! Mình sẵn sàng giải đáp mọi thắc mắc của bạn."
 
   utter_goodbye:
     - text: "Tạm biệt! Hẹn gặp lại bạn khi khám phá Đà Nẵng nhé!"
@@ -144,10 +149,20 @@ responses:
     - text: "Rất vui được giúp bạn. Chúc bạn có kỳ nghỉ tuyệt vời tại Đà Nẵng!"
     - text: "Tạm biệt và hẹn gặp lại bạn nhé! Đà Nẵng luôn chào đón bạn quay trở lại."
     - text: "Cảm ơn bạn đã trò chuyện. Nếu cần thêm thông tin về Đà Nẵng, hãy quay lại nhé!"
+    - text: "Chúc bạn có một chuyến đi Đà Nẵng đáng nhớ với nhiều trải nghiệm tuyệt vời."
+    - text: "Hẹn gặp lại bạn nhé! Hy vọng bạn sẽ có khoảng thời gian thật vui và ý nghĩa tại Đà Nẵng."
+    - text: "Cảm ơn đã ghé thăm. Chúc bạn thượng lộ bình an và khám phá Đà Nẵng thật trọn vẹn."
+    - text: "Tạm biệt và chúc bạn có một chuyến đi tràn đầy niềm vui ở thành phố biển xinh đẹp!"
+    - text: "Nếu cần hỗ trợ gì thêm về Đà Nẵng, bạn cứ quay lại nhé. Chúc bạn mọi điều tốt đẹp!"
 
   utter_you_are_welcome:
     - text: "Không có gì cả, rất vui được tư vấn cho bạn!"
     - text: "Không có chi bạn ơi, bạn cần mình giúp gì thêm không?"
+    - text: "Không có gì ạ. Rất vui được hỗ trợ bạn!"
+    - text: "Dạ vâng, không có gì cả. Bạn cần mình tư vấn gì thêm về Đà Nẵng không?"
+    - text: "Rất sẵn lòng! Nếu bạn còn bất kỳ câu hỏi nào khác, cứ tự nhiên nhé."
+    - text: "Không có chi đâu bạn. Chúc bạn mọi điều tốt lành!"
+    - text: "Vâng, rất vui được giúp đỡ. Đừng ngần ngại hỏi nếu bạn cần thêm thông tin nha."
   
   utter_ask_expenses_composition:
     - text: "Bạn đi du lịch với ai? (ví dụ: một mình, cặp đôi, gia đình...)"

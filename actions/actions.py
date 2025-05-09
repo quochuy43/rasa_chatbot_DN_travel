@@ -72,7 +72,7 @@ class ActionListManyFoods(Action):
 
         response = "\n"
         for idx in indices_to_show:
-            response += f"- {foods[idx]['name']}\n"
+            response += f"{foods[idx]['name']}; "
         response += "\nBạn muốn biết thêm thông tin chi tiết về món nào? Hãy nhắn tên món ăn để mình giới thiệu nhé!"
 
         dispatcher.utter_message(text=response)
@@ -200,7 +200,7 @@ class ActionListManyHotels(Action):
 
         response = "\n"
         for idx in indices_to_show:
-            response += f"- {hotels[idx]['name']} - {hotels[idx]['rated']}⭐\n"
+            response += f"{hotels[idx]['name']} - {hotels[idx]['rated']}⭐; "
         response += "\nBạn muốn biết thêm thông tin chi tiết về khách sạn nào? Hãy nhắn tên khách sạn để mình giới thiệu nhé!"
 
         dispatcher.utter_message(text=response)
@@ -329,7 +329,7 @@ class ActionListManyTours(Action):
 
         response = "\n"
         for idx in indices_to_show:
-            response += f"- {tours[idx]['name']}-{tours[idx]['rated']}⭐\n"
+            response += f"{tours[idx]['name']}-{tours[idx]['rated']}⭐; "
         response += "\nBạn muốn biết thêm thông tin chi tiết về tour nào? Hãy nhắn tên tour để mình giới thiệu nhé!"
 
         dispatcher.utter_message(text=response)
@@ -458,7 +458,7 @@ class ActionListManyTransportations(Action):
 
         response = "\n"
         for idx in indices_to_show:
-            response += f"- {transportations[idx]['name']}-{transportations[idx]['hotline']}\n"
+            response += f"{transportations[idx]['name']}-{transportations[idx]['hotline']}; "
         response += "\nBạn muốn biết thêm thông tin chi tiết về phương tiện nào? Hãy nhắn tên phương tiện để mình giới thiệu nhé!"
 
         dispatcher.utter_message(text=response)

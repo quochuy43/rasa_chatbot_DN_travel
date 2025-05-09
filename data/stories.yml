@@ -150,14 +150,6 @@ stories:
   - action: action_provide_tour_review
 
 
-
-
-
-
-
-
-
-
 # Transportation stories:
 - story: hỏi liệt kê các phương tiện đi lại
   steps:

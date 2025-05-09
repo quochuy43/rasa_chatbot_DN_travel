@@ -119,6 +119,12 @@ nlu:
     - còn nhiều món nào khác không bạn
     - ê kể thêm cho mình biết đi
     - bạn nói thêm cho mình nhiều món khác đi
+    - còn món nào nữa không
+    - kể thêm vài món nữa đi
+    - mình đói quá không biết nên ăn gì
+    - tớ đói
+    - mình đói
+    - tao đói lắm, giới thiệu vài món đi
 
 - intent: ask_food_price
   examples: |
@@ -144,6 +150,8 @@ nlu:
     - [Bánh lọc](food_name) giá bao nhiêu chiếc?
     - [Mít trộn](food_name) giá một phần?
     - [Cao lầu](food_name) giá ở Đà Nẵng có khác không?
+    - giá [Mì quảng](food_name) 1 tô bao nhiêu
+    - giá [Mì quảng](food_name) 1 tô bao nhiêu nghìn
 
 - intent: ask_food_location
   examples: |
@@ -169,6 +177,7 @@ nlu:
     - Tôi muốn ăn [bún thịt nướng](food_name), bạn biết quán nào không?
     - [Bún chả cá](food_name) có địa chỉ nào ngon?
     - [Nem tré](food_name) vỉa hè nào bán?
+    - [bún đậu mắm tôm](food_name) ở đâu ngon
 
 # hotel
 - intent: inform_hotel_name
