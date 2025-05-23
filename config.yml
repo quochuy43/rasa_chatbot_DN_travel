@@ -11,12 +11,12 @@ assistant_id: 20250411-234835-sienna-car
 language: en
 
 pipeline: 
-  - name: WhitespaceTokenizer
-  - name: RegexFeaturizer
-  - name: CountVectorsFeaturizer
-  - name: DIETClassifier
-    constrain_similarities: true
-    epochs: 100
+  - name: WhitespaceTokenizer #Cắt câu người dùng thành từng từ (tokens) dựa trên dấu cách (whitespace).
+  - name: RegexFeaturizer #nhận diện định dạng như số điện thoại, email, mã code,...
+  - name: CountVectorsFeaturizer #Tạo vector tần suất từ (bag-of-words), dù đơn giản, đây là kỹ thuật học đặc trưng, phục vụ học máy.
+  - name: DIETClassifier #	Đây là mô hình deep learning, kết hợp học intent + entity. Là thành phần chính trong học máy của Rasa.
+    constrain_similarities: true #cải thiện phân biệt intent bằng cách ràng buộc khoảng cách cosine.
+    epochs: 100 #số vòng huấn luyện — càng nhiều, mô hình học càng kỹ (nhưng lâu hơn).
   # - name: CRFEntityExtractor
 
 # # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.

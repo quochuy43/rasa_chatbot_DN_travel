@@ -569,7 +569,7 @@ class ActionProvideTravelExpensesWithComposition(Action):
         expenses_composition = next(
             tracker.get_latest_entity_values("expenses_composition"), None)
         
-        dispatcher.utter_message(text=f"Entity đây: {expenses_composition}")
+        # dispatcher.utter_message(text=f"Entity đây: {expenses_composition}")
         
         if not expenses_composition:
             dispatcher.utter_message(
